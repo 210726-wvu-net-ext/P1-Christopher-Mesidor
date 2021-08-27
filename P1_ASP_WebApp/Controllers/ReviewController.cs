@@ -3,7 +3,7 @@ using System.Text.Encodings.Web;
 
 namespace P1_ASP_WebApp.Controllers
 {
-    public class ReviewController : Controller
+    public class RestaurantReviewsController : Controller
     {
         // 
         // GET: /HelloWorld/
