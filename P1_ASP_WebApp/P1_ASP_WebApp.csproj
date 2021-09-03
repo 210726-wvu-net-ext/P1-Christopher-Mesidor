@@ -7,6 +7,7 @@
   <ItemGroup>
     <ProjectReference Include="..\..\RestaurantReviewerC\RR_BL\RR_BL.csproj" />
     <ProjectReference Include="..\..\RestaurantReviewerC\RR_DL\RR_DL.csproj" />
+    <ProjectReference Include="..\..\RestaurantReviewerC\RR_UI\RR_UI.csproj" />
   </ItemGroup>
 
 </Project>
