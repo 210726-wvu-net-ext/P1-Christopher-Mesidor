@@ -13,13 +13,14 @@ namespace P1_ASP_WebApp.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-        private readonly IRepo _repo;
+        private IRepo _webrepo;
+        private readonly ILogger _logger;
 
-        public HomeController(ILogger<HomeController> logger, IRepo repo)
+        public HomeController(IRepo webrepo, ILogger<HomeController> logger)
         {
             _logger = logger;
-            _repo = repo;
+            _webrepo = webrepo;
+            _logger.LogCritical("This is the Home page");
         }
 
         public IActionResult Index()

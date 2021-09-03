@@ -1,25 +1,36 @@
+using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.Linq;
+using System.Text.Json;
+using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using System.Text.Encodings.Web;
+using Microsoft.Extensions.Logging;
+using P1_ASP_WebApp.Models;
+using RR_BL;
 
 namespace P1_ASP_WebApp.Controllers
 {
-    public class RestaurantReviewsController : Controller
+    public class ReviewsController : Controller
     {
-        // 
-        // GET: /HelloWorld/
+        private IRepo _webrepo;
+        private readonly ILogger _logger;
+
+        public ReviewsController(IRepo webrepo, ILogger<ReviewsController> logger)
+        {
+            _logger = logger;
+            _webrepo = webrepo;
+            _logger.LogCritical("This is the Reviews page");
+        }
+
 
         public IActionResult Index()
         {
             return View();
         }
 
-        // 
-        // GET: /HelloWorld/Welcome/ 
-
-        public IActionResult Welcome()
+        public IActionResult AddReview()
         {
-            
-            
             return View();
         }
     }

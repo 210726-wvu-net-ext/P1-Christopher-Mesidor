@@ -12,33 +12,39 @@ using RR_BL;
 
 namespace P1_ASP_WebApp.Controllers
 {
-    public class UserController : Controller
+    public class RestaurantController : Controller
     {
         private IRepo _webrepo;
         private readonly ILogger _logger;
 
-        public UserController(IRepo webrepo, ILogger<UserController> logger)
+        public RestaurantController(IRepo webrepo, ILogger<RestaurantController> logger)
         {
             _logger = logger;
             _webrepo = webrepo;
-            _logger.LogCritical("This is the Login page");
+            _logger.LogCritical("This is the Reviews page");
         }
-        // GET:  UserController
+        // GET: HomeController1
         public ActionResult Index()
         {
             return View();
         }
 
-        // GET:  UserController/Details/5
-        public ActionResult Login()
+        // GET: HomeController1/Details/5
+        public ActionResult Details(int id)
         {
             return View();
         }
-        
-        // POST:  UserController/AddUser
+
+        // GET: HomeController1/Create
+        public ActionResult Create()
+        {
+            return View();
+        }
+
+        // POST: HomeController1/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Login(IFormCollection collection)
+        public ActionResult Create(IFormCollection collection)
         {
             try
             {
@@ -50,16 +56,16 @@ namespace P1_ASP_WebApp.Controllers
             }
         }
 
-        // GET:  UserController/AddUser
-        public ActionResult AddUser()
+        // GET: HomeController1/Edit/5
+        public ActionResult Edit(int id)
         {
             return View();
         }
 
-        // POST:  UserController/AddUser
+        // POST: HomeController1/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult AddUser(string username)
+        public ActionResult Edit(int id, IFormCollection collection)
         {
             try
             {
