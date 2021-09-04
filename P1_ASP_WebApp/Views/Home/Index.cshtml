@@ -9,8 +9,8 @@
 </div>
 
 <div>@ViewData["key"]</div>
-<div>@(((RR_BL.Reviews)ViewData["reviews"]).ID)</div>
-<div>@ViewBag.note.Id</div>
+<div>@(((RR_BL.Reviews)ViewData["reviews"]))</div>
+
 
 <div><a asp-action="Index" asp-route-id="hello">link 1</a></div>
 <div><a asp-action="Index" asp-route-texttoprint="hello">link 2</a></div>

@@ -25,7 +25,8 @@ namespace P1_ASP_WebApp.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            var reviews = _webrepo.GetReviews();
+            return View(reviews);
         }
 
         public IActionResult GetReviews()
