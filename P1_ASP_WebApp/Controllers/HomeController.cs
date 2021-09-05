@@ -26,7 +26,8 @@ namespace P1_ASP_WebApp.Controllers
         public IActionResult Index()
         {
             var reviews = _webrepo.GetReviews();
-            return View(reviews);
+            ViewData["key"] = "value";
+            return View(model: reviews);
         }
 
         public IActionResult GetReviews()

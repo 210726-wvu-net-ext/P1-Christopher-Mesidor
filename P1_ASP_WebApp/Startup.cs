@@ -24,23 +24,18 @@ namespace P1_ASP_WebApp
         // This method gets called by the runtime. Use this method to add services to the container.
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
-        {
+        {  
+            services.AddScoped<IRepo, Repo>();
 
-            if (Configuration["OtherRepository"] == "true")
-            {
-                //services.AddScoped<IRepository, NonEfRepository>();
-            }
-            else
-            {
-                // "if a class asks for an IRepository, give it a Repository"
-                services.AddScoped<IRepo, Repo>();
-            }
             services.AddDbContext<CMDBP0Context>(options =>
+           {
+               options.UseSqlServer(Configuration.GetConnectionString("CMDBP0"));
+           });
+            //options.LogTo(Console.WriteLine);
+            services.AddSession(option =>
             {
-                options.UseSqlServer(File.ReadAllText(@"C:\Users\cm121\cmdbp0-connect.txt"));
-                options.LogTo(Console.WriteLine);
+                option.IdleTimeout = TimeSpan.FromMinutes(2);
             });
-
             services.AddControllersWithViews();
         }
 

@@ -5,7 +5,7 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome To Chris's Royal Reviews</h1>
+    <h1 class="display-4" style="font-family: 'Brush Script MT', cursive; ">Welcome To Chris's Royal Reviews</h1>
 </div>
 
 <div>@ViewData["key"]</div>
@@ -14,21 +14,7 @@
 
 <div><a asp-action="Index" asp-route-id="hello">link 1</a></div>
 <div><a asp-action="Index" asp-route-texttoprint="hello">link 2</a></div>
-
-<div>views: @TempData.Peek("viewTracker")</div>
-
-<table>
-    <thead>
-        <tr>
-            <th>Review Comment</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var review in Model)
-        {
-            <tr>
-                <td>@review.Comment</td>
-            </tr>
-        }
-    </tbody>
-</table>
+<div class="text-center">
+    <img src="https://thinksem.com/wp-content/uploads/2014/07/content-king-community-queen.jpg" style="width: 25em; height: 15em;" />
+</div>
+<div class="text-center">views: @TempData.Peek("viewTracker")</div>

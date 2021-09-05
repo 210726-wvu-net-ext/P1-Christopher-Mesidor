@@ -12,12 +12,12 @@ using RR_BL;
 
 namespace P1_ASP_WebApp.Controllers
 {
-    public class UserController : Controller
+    public class LoginController : Controller
     {
         private IRepo _webrepo;
         private readonly ILogger _logger;
 
-        public UserController(IRepo webrepo, ILogger<UserController> logger)
+        public LoginController(IRepo webrepo, ILogger<LoginController> logger)
         {
             _logger = logger;
             _webrepo = webrepo;

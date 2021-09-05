@@ -2,7 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>a43f66fd-8ee6-4cff-b6cc-b670919a08a7</UserSecretsId>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
+  </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\..\RestaurantReviewerC\RR_BL\RR_BL.csproj" />
