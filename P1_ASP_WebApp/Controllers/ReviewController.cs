@@ -28,10 +28,22 @@ namespace P1_ASP_WebApp.Controllers
         {
             return View(_webrepo.GetReviews());
         }
-
-        public IActionResult AddReview()
+        public IActionResult Details(int id)
         {
+            return View(_webrepo.GetReviews().First(x => x.ID == id));
+        }
+
+        [HttpGet]
+        public IActionResult Create()
+        {
+
             return View();
+        }
+        [HttpPost]          // For submission (by default)
+        public IActionResult Create(Reviews reviews)
+        {
+            _webrepo.AddReviews(reviews);
+            return View("Details", reviews);
         }
     }
 }

@@ -1,26 +1,26 @@
-﻿@model RR_BL.Reviews
+﻿@model RR_BL.Users
 
 @{
-    ViewData["Title"] = "Create";
+    ViewData["Title"] = "Login";
 }
 
-<h1>Create</h1>
+<h1>Create New User</h1>
 
-<h4>New Review</h4>
+<h4>New User</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="Create">
+        <form asp-action="Login">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="Rating" class="control-label"></label>
-                <input asp-for="Rating" class="form-control" />
-                <span asp-validation-for="Rating" class="text-danger"></span>
+                <label asp-for="uname" class="control-label"></label>
+                <input asp-for="uname" class="form-control" />
+                <span asp-validation-for="uname" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Comment" class="control-label"></label>
-                <input asp-for="Comment" class="form-control" />
-                <span asp-validation-for="Comment" class="text-danger"></span>
+                <label asp-for="pass" class="control-label"></label>
+                <input asp-for="pass" class="form-control" />
+                <span asp-validation-for="pass" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />

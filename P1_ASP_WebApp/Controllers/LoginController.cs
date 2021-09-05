@@ -51,7 +51,8 @@ namespace P1_ASP_WebApp.Controllers
         }
 
         // GET:  UserController/AddUser
-        public ActionResult AddUser()
+        [HttpGet]
+        public ActionResult Create()
         {
             return View();
         }
@@ -59,16 +60,10 @@ namespace P1_ASP_WebApp.Controllers
         // POST:  UserController/AddUser
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult AddUser(string username)
+        public ActionResult Create(Users users)
         {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            _webrepo.AddUser(users);
+            return View("Details", users);
         }
     }
 }
