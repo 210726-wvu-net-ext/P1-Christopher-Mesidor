@@ -29,7 +29,13 @@ namespace P1_ASP_WebApp.Controllers
             return View();
         }
 
+        public IActionResult Details(int id)
+        {
+            return View(_webrepo.GetUsers().First(x => x.ID == id));
+        }
+
         // GET:  UserController/Details/5
+        [HttpGet]
         public ActionResult Login()
         {
             return View();
@@ -38,16 +44,10 @@ namespace P1_ASP_WebApp.Controllers
         // POST:  UserController/AddUser
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Login(IFormCollection collection)
+        public ActionResult Login(Users users)
         {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            _webrepo.SearchUsers(users.uname,users.pass);
+            return View(users);
         }
 
         // GET:  UserController/AddUser

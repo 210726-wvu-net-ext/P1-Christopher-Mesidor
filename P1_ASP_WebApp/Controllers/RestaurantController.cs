@@ -26,10 +26,13 @@ namespace P1_ASP_WebApp.Controllers
         // GET: HomeController1
         public IActionResult Index()
         {
-
             return View(_webrepo.GetRestaurants());
         }
 
-       
+        public IActionResult Details(int id)
+        {
+            return View(_webrepo.GetRestaurants().First(x => x.ID == id));
+        }
+
     }
 }

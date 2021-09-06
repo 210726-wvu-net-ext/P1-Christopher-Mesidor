@@ -23,7 +23,6 @@ namespace P1_ASP_WebApp.Controllers
             _logger.LogCritical("This is the Reviews page");
         }
 
-
         public IActionResult Index()
         {
             return View(_webrepo.GetReviews());
