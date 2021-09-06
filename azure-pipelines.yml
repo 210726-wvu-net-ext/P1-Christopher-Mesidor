@@ -9,7 +9,7 @@ trigger:
       - main
   paths:
     include:
-      - P1-Christopher-Mesidor/P1_ASP_WebApp
+      - P1-Christopher-Mesidor
 
 pr: none
 
