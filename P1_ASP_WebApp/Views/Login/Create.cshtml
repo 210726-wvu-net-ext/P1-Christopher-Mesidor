@@ -1,7 +1,7 @@
 ﻿@model RR_BL.Users
 
 @{
-    ViewData["Title"] = "Login";
+    ViewData["Title"] = "Create";
 }
 
 <h1>Create New User</h1>
@@ -10,15 +10,15 @@
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="Login">
+        <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="uname" class="control-label"></label>
+                <label asp-for="uname" class="control-label">Username</label>
                 <input asp-for="uname" class="form-control" />
                 <span asp-validation-for="uname" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="pass" class="control-label"></label>
+                <label asp-for="pass" class="control-label">Password</label>
                 <input asp-for="pass" class="form-control" />
                 <span asp-validation-for="pass" class="text-danger"></span>
             </div>

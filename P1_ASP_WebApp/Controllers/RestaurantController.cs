@@ -34,5 +34,10 @@ namespace P1_ASP_WebApp.Controllers
             return View(_webrepo.GetRestaurants().First(x => x.ID == id));
         }
 
+        public IActionResult Search(Restaurants restaurants)
+        {
+            
+            return View(_webrepo.SearchRestaurants(restaurants.Name));
+        }
     }
 }
