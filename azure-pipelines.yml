@@ -1,23 +1,35 @@
 trigger:
   branches:
     include:
-      - main
+    - main
   paths:
     include:
-      - P1-Christopher-Mesidor
-      - P1-Christopher-Mesidor/azure-pipelines.yml
+    - P1-Christopher-Mesidor
+    - P1-Christopher-Mesidor/azure-pipelines.yml
 
-pr: none
+pr:
+  branches:
+    include:
+    - main
+  paths:
+    include:
+    - P1-Christopher-Mesidor
+    - P1-Christopher-Mesidor/azure-pipelines.yml
 
 
 stages:
 - stage: build
   jobs:
-    - job: build
+  - job: build
 
-      pool:
-        vmImage: ubuntu-latest
+    pool:
+      vmImage: ubuntu-latest
 
       steps:
-      - script: ls
-        displayName: ls
+      - script: dotnet build --configuration Release
+        displayName: dotnet build (script)
+        workingDirectory: $(P1-Christopher-Mesidor)
+
+      - script: dotnet test --configuration Release
+        displayName: dotnet test ()task
+        workingDirectory: $(P1-Christopher-Mesidor)
