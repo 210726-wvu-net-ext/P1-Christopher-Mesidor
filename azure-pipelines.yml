@@ -10,6 +10,7 @@ trigger:
   paths:
     include:
       - P1-Christopher-Mesidor
+      - P1-Christopher-Mesidor/azure-pipelines.yml
 
 pr: none
 
