@@ -1,35 +1,23 @@
 trigger:
-  branches:
-    include:
-    - main
-  paths:
-    include:
-    - P1-Christopher-Mesidor
-    - P1-Christopher-Mesidor/azure-pipelines.yml
+- main
 
-pr:
-  branches:
-    include:
-    - main
-  paths:
-    include:
-    - P1-Christopher-Mesidor
-    - P1-Christopher-Mesidor/azure-pipelines.yml
+pool:
+  vmImage: 'windows-latest'
 
+steps:
+- task: NuGetCommand@2
+- task: NuGetCommand@2
+  inputs:
+    restoreSolution: $(P1-Christopher-Mesidor/P1_ASP_WebApp/P1_ASP_WebApp.sln)
 
-stages:
-- stage: build
-  jobs:
-  - job: build
+- task: VSBuild@1
+  inputs:
+    solution: '$(solution)'
+    msbuildArgs: '/p:DeployOnBuild=true /p:WebPublishMethod=Package /p:PackageAsSingleFile=true /p:SkipInvalidConfigurations=true /p:DesktopBuildPackageLocation="$(build.artifactStagingDirectory)\WebApp.zip" /p:DeployIisAppPath="Default Web Site"'
+    platform: '$(Any CPU)'
+    configuration: '$(Release)'
 
-    pool:
-      vmImage: ubuntu-latest
-
-      steps:
-      - script: dotnet build --configuration Release
-        displayName: dotnet build (script)
-        workingDirectory: $(P1-Christopher-Mesidor)
-
-      - script: dotnet test --configuration Release
-        displayName: dotnet test ()task
-        workingDirectory: $(P1-Christopher-Mesidor)
+- task: VSTest@2
+  inputs:
+    platform: '$(Any CPU)'
+    configuration: '$(Release)'
