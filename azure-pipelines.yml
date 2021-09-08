@@ -12,7 +12,7 @@ pool:
   vmImage: ubuntu-latest
 
 variables: 
-  solution: P1-Christopher-Mesidor/
+  solution: P1_ASP_WebApp/P1_ASP_WebApp.sln
 
 stages: 
 - stage: build
