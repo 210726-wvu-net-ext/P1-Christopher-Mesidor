@@ -1,23 +1,30 @@
 trigger:
-- main
+  branches:
+    include:
+    - main
+
+pr:
+  branches:
+    include:
+    - main
 
 pool:
-  vmImage: 'windows-latest'
+  vmImage: ubuntu-latest
 
-steps:
-- task: NuGetCommand@2
-- task: NuGetCommand@2
-  inputs:
-    restoreSolution: $(P1-Christopher-Mesidor/P1_ASP_WebApp/P1_ASP_WebApp.sln)
+variables: 
+  solution: Project Code
 
-- task: VSBuild@1
-  inputs:
-    solution: '$(solution)'
-    msbuildArgs: '/p:DeployOnBuild=true /p:WebPublishMethod=Package /p:PackageAsSingleFile=true /p:SkipInvalidConfigurations=true /p:DesktopBuildPackageLocation="$(build.artifactStagingDirectory)\WebApp.zip" /p:DeployIisAppPath="Default Web Site"'
-    platform: '$(Any CPU)'
-    configuration: '$(Release)'
+stages: 
+- stage: build
+  jobs:
+  - job: build
+    
+    steps:
 
-- task: VSTest@2
-  inputs:
-    platform: '$(Any CPU)'
-    configuration: '$(Release)'
+    - script: dotnet build --configuration Release
+      displayName: dotnet build
+      workingDirectory: $(solution)
+
+    - script: dotnet test --configuration Release
+      displayName: dotnet test
+      workingDirectory: $(solution)
