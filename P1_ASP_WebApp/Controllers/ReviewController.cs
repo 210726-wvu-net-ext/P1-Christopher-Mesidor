@@ -42,6 +42,7 @@ namespace P1_ASP_WebApp.Controllers
         public IActionResult Create(Reviews reviews)
         {
             _webrepo.AddReviews(reviews);
+            _logger.LogCritical("New Review added");
             return View("Details", reviews);
         }
     }

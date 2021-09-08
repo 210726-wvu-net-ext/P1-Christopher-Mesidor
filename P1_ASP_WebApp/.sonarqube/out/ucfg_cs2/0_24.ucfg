@@ -1,0 +1,53 @@
+
+ARR_BL.Restaurants.Restaurants(int, string, decimal?, string, int)N
+DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs ("1*X
+1N
+DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs	 (	*
+0*¡
+0N
+DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs_ ("¯
+¬
+N
+DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs_ (k
+
+%0void"%RR_BL.Restaurants.Restaurants(string)*
+RR_BL.Restaurants*
+
+namestring—
+”
+N
+DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs (	
+%1int"RR_BL.Restaurants.ID.set*
+RR_BL.Restaurants*
+""ª
+§
+N
+DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs ( 
+%2System.Nullable<T>"RR_BL.Restaurants.Rating.set*
+RR_BL.Restaurants*
+""®
+«
+N
+DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs ($
+%3string"RR_BL.Restaurants.Location.set*
+RR_BL.Restaurants*
+
+locationstringœ
+™
+N
+DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs ("	
+%4int"RR_BL.Restaurants.ZipCode.set*
+RR_BL.Restaurants*
+""*
+2*º
+2N
+DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs	 (	"e
+N
+DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs (	
+implicit return:	
+idint:
+namestring:
+ratingSystem.Nullable<T>:
+locationstring:
+zipcodeintB
+RR_BL.Restaurants

@@ -1,0 +1,120 @@
+
+3RR_UI.Menu.ViewReview(RR_DL.Entities.CMDBP0Context)G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs7 7("0*Æ
+0G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs9 :("âß
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs9 9()2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"(RR_DL.Entities.CMDBP0Context.Reviews.get*)
+'
+contextRR_DL.Entities.CMDBP0Context2Reviews.get¡
+ž
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs9 9(2(
+%1"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*4
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>­
+ª
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs9 9(2-
+reviews"System.Collections.Generic.List<T>"__id**
+(
+%1"System.Collections.Generic.List<T>¶
+³
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs: :(	
+%2int",System.Collections.Generic.List<T>.Count.get*/
+-
+reviews"System.Collections.Generic.List<T>*
+1
+2*þ
+1G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs< <(9ª
+§
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs< <(:
+
+%3void"!System.Console.WriteLine(string?)*"
+System.Console*
+There are no Reviews.*
+3*Q
+2G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs@& @(-*
+4*T
+4G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csG	 G(	*
+5
+3*å
+5G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csB D(5ž
+›
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csB1 B(=
+%4string"RR_DL.Entities.Review.Users.get*!
+
+reviewRR_DL.Entities.Review{
+y
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csB& B(?
+%5string"__concat*
+""*
+
+%4stringŸ
+œ
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csB B(@
+
+%6void"!System.Console.WriteLine(string?)*"
+System.Console*
+
+%5string«
+¨
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csC1 C(>
+%7System.Nullable<T>" RR_DL.Entities.Review.Rating.get*!
+
+reviewRR_DL.Entities.Review”
+‘
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csC& C(C
+%8System.Nullable<T>"__concat*
+""*
+
+%7System.Nullable<T>”
+‘
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csC& C(C
+%9System.Nullable<T>"__concat*
+
+%8System.Nullable<T>*
+""¬
+©
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csC C(D
+%10void"!System.Console.WriteLine(string?)*"
+System.Console*
+
+%9System.Nullable<T>¢
+Ÿ
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csD& D(5
+%11string""RR_DL.Entities.Review.Comments.get*!
+
+reviewRR_DL.Entities.Review¡
+ž
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csD D(6
+%12void"!System.Console.WriteLine(string?)*"
+System.Console*
+
+%11string*
+4*¬
+3G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csG	 G(	"^
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csG G(	
+implicit return:'
+contextRR_DL.Entities.CMDBP0ContextB
+
+RR_UI.Menu

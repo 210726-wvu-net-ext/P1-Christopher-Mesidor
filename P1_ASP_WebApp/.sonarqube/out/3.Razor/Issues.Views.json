@@ -1,0 +1,1751 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "3.11.0.0",
+        "fileVersion": "3.11.0-4.21373.6 (bb3bdbbe)",
+        "semanticVersion": "3.11.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 67,
+                  "endLine": 34,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 67,
+                  "endLine": 33,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 67,
+                  "endLine": 34,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 67,
+                  "endLine": 34,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 212,
+                  "endLine": 59,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 212,
+                  "endLine": 73,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Login/Create.cshtml.g.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 213,
+                  "endLine": 80,
+                  "endColumn": 215
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Login/Create.cshtml.g.cs",
+                "region": {
+                  "startLine": 102,
+                  "startColumn": 215,
+                  "endLine": 102,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Login/Create.cshtml.g.cs",
+                "region": {
+                  "startLine": 125,
+                  "startColumn": 209,
+                  "endLine": 125,
+                  "endColumn": 211
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Login/Create.cshtml.g.cs",
+                "region": {
+                  "startLine": 147,
+                  "startColumn": 215,
+                  "endLine": 147,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Login/Create.cshtml.g.cs",
+                "region": {
+                  "startLine": 169,
+                  "startColumn": 216,
+                  "endLine": 169,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Login/Create.cshtml.g.cs",
+                "region": {
+                  "startLine": 192,
+                  "startColumn": 210,
+                  "endLine": 192,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Login/Create.cshtml.g.cs",
+                "region": {
+                  "startLine": 214,
+                  "startColumn": 215,
+                  "endLine": 214,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Login/Create.cshtml.g.cs",
+                "region": {
+                  "startLine": 252,
+                  "startColumn": 208,
+                  "endLine": 252,
+                  "endColumn": 210
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 87,
+                  "startColumn": 208,
+                  "endLine": 87,
+                  "endColumn": 210
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 102,
+                  "startColumn": 209,
+                  "endLine": 102,
+                  "endColumn": 211
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 131,
+                  "startColumn": 212,
+                  "endLine": 131,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 160,
+                  "startColumn": 212,
+                  "endLine": 160,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 181,
+                  "startColumn": 212,
+                  "endLine": 181,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 202,
+                  "startColumn": 212,
+                  "endLine": 202,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 223,
+                  "startColumn": 212,
+                  "endLine": 223,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 244,
+                  "startColumn": 212,
+                  "endLine": 244,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 273,
+                  "startColumn": 212,
+                  "endLine": 273,
+                  "endColumn": 214
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 293,
+                  "startColumn": 217,
+                  "endLine": 293,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 307,
+                  "startColumn": 217,
+                  "endLine": 307,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 321,
+                  "startColumn": 217,
+                  "endLine": 321,
+                  "endColumn": 219
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 67,
+                  "endLine": 34,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Login/Details.cshtml.g.cs",
+                "region": {
+                  "startLine": 124,
+                  "startColumn": 207,
+                  "endLine": 124,
+                  "endColumn": 209
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Login/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 69,
+                  "startColumn": 207,
+                  "endLine": 69,
+                  "endColumn": 209
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Login/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 85,
+                  "startColumn": 207,
+                  "endLine": 85,
+                  "endColumn": 209
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Reviews/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 68,
+                  "startColumn": 207,
+                  "endLine": 68,
+                  "endColumn": 209
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Reviews/Details.cshtml.g.cs",
+                "region": {
+                  "startLine": 140,
+                  "startColumn": 207,
+                  "endLine": 140,
+                  "endColumn": 209
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Login/Login.cshtml.g.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 213,
+                  "endLine": 80,
+                  "endColumn": 215
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Login/Login.cshtml.g.cs",
+                "region": {
+                  "startLine": 102,
+                  "startColumn": 215,
+                  "endLine": 102,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Login/Login.cshtml.g.cs",
+                "region": {
+                  "startLine": 125,
+                  "startColumn": 209,
+                  "endLine": 125,
+                  "endColumn": 211
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Login/Login.cshtml.g.cs",
+                "region": {
+                  "startLine": 147,
+                  "startColumn": 215,
+                  "endLine": 147,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Login/Login.cshtml.g.cs",
+                "region": {
+                  "startLine": 169,
+                  "startColumn": 216,
+                  "endLine": 169,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Login/Login.cshtml.g.cs",
+                "region": {
+                  "startLine": 192,
+                  "startColumn": 210,
+                  "endLine": 192,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Login/Login.cshtml.g.cs",
+                "region": {
+                  "startLine": 214,
+                  "startColumn": 215,
+                  "endLine": 214,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Login/Login.cshtml.g.cs",
+                "region": {
+                  "startLine": 252,
+                  "startColumn": 208,
+                  "endLine": 252,
+                  "endColumn": 210
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Reviews/Create.cshtml.g.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 213,
+                  "endLine": 80,
+                  "endColumn": 215
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Reviews/Create.cshtml.g.cs",
+                "region": {
+                  "startLine": 102,
+                  "startColumn": 215,
+                  "endLine": 102,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Reviews/Create.cshtml.g.cs",
+                "region": {
+                  "startLine": 125,
+                  "startColumn": 209,
+                  "endLine": 125,
+                  "endColumn": 211
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Reviews/Create.cshtml.g.cs",
+                "region": {
+                  "startLine": 147,
+                  "startColumn": 215,
+                  "endLine": 147,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Reviews/Create.cshtml.g.cs",
+                "region": {
+                  "startLine": 169,
+                  "startColumn": 216,
+                  "endLine": 169,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Reviews/Create.cshtml.g.cs",
+                "region": {
+                  "startLine": 192,
+                  "startColumn": 210,
+                  "endLine": 192,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Reviews/Create.cshtml.g.cs",
+                "region": {
+                  "startLine": 214,
+                  "startColumn": 215,
+                  "endLine": 214,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Reviews/Create.cshtml.g.cs",
+                "region": {
+                  "startLine": 236,
+                  "startColumn": 216,
+                  "endLine": 236,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Reviews/Create.cshtml.g.cs",
+                "region": {
+                  "startLine": 258,
+                  "startColumn": 210,
+                  "endLine": 258,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Reviews/Create.cshtml.g.cs",
+                "region": {
+                  "startLine": 280,
+                  "startColumn": 215,
+                  "endLine": 280,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Reviews/Create.cshtml.g.cs",
+                "region": {
+                  "startLine": 302,
+                  "startColumn": 216,
+                  "endLine": 302,
+                  "endColumn": 218
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Reviews/Create.cshtml.g.cs",
+                "region": {
+                  "startLine": 324,
+                  "startColumn": 210,
+                  "endLine": 324,
+                  "endColumn": 212
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Reviews/Create.cshtml.g.cs",
+                "region": {
+                  "startLine": 346,
+                  "startColumn": 215,
+                  "endLine": 346,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Reviews/Create.cshtml.g.cs",
+                "region": {
+                  "startLine": 384,
+                  "startColumn": 208,
+                  "endLine": 384,
+                  "endColumn": 210
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Restaurant/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 68,
+                  "startColumn": 207,
+                  "endLine": 68,
+                  "endColumn": 209
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Restaurant/SearchRestaurant.cshtml.g.cs",
+                "region": {
+                  "startLine": 80,
+                  "startColumn": 213,
+                  "endLine": 80,
+                  "endColumn": 215
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Restaurant/SearchRestaurant.cshtml.g.cs",
+                "region": {
+                  "startLine": 102,
+                  "startColumn": 215,
+                  "endLine": 102,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Restaurant/SearchRestaurant.cshtml.g.cs",
+                "region": {
+                  "startLine": 124,
+                  "startColumn": 209,
+                  "endLine": 124,
+                  "endColumn": 211
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Restaurant/SearchRestaurant.cshtml.g.cs",
+                "region": {
+                  "startLine": 146,
+                  "startColumn": 215,
+                  "endLine": 146,
+                  "endColumn": 217
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS1998",
+          "level": "warning",
+          "message": "This async method lacks 'await' operators and will run synchronously. Consider using the 'await' operator to await non-blocking API calls, or 'await Task.Run(...)' to do CPU-bound work on a background thread.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Restaurant/SearchRestaurant.cshtml.g.cs",
+                "region": {
+                  "startLine": 184,
+                  "startColumn": 208,
+                  "endLine": 184,
+                  "endColumn": 210
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'Views_Reviews_Index.__tagHelperStringValueBuffer' is never used",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Reviews/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 24,
+                  "endLine": 40,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'Views_Login_Create.__tagHelperStringValueBuffer' is never used",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Login/Create.cshtml.g.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 24,
+                  "endLine": 44,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'Views_Login_Details.__tagHelperStringValueBuffer' is never used",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Login/Details.cshtml.g.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 24,
+                  "endLine": 40,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'Views_Reviews_Create.__tagHelperStringValueBuffer' is never used",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Reviews/Create.cshtml.g.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 24,
+                  "endLine": 44,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'Views_Reviews_Details.__tagHelperStringValueBuffer' is never used",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Reviews/Details.cshtml.g.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 24,
+                  "endLine": 40,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'Views_Login_Index.__tagHelperStringValueBuffer' is never used",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Login/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 24,
+                  "endLine": 41,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'Views_Login_Login.__tagHelperStringValueBuffer' is never used",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Login/Login.cshtml.g.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 24,
+                  "endLine": 44,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'Views_Restaurant_SearchRestaurant.__tagHelperStringValueBuffer' is never used",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Restaurant/SearchRestaurant.cshtml.g.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 24,
+                  "endLine": 44,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'Views_Shared__Layout.__tagHelperStringValueBuffer' is never used",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 24,
+                  "endLine": 54,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'Views_Restaurant_Index.__tagHelperStringValueBuffer' is never used",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Restaurant/Index.cshtml.g.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 24,
+                  "endLine": 40,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        },
+        {
+          "ruleId": "CS0169",
+          "level": "warning",
+          "message": "The field 'Views_Shared__ValidationScriptsPartial.__tagHelperStringValueBuffer' is never used",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/cm121/source/repos/P1-Christopher-Mesidor/P1_ASP_WebApp/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 24,
+                  "endLine": 41,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 3
+          }
+        }
+      ],
+      "rules": {
+        "CS0169": {
+          "id": "CS0169",
+          "shortDescription": "Field is never used",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0169)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS1998": {
+          "id": "CS1998",
+          "shortDescription": "Async method lacks 'await' operators and will run synchronously",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS1998)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

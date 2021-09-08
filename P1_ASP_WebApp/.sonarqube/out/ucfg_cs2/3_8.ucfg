@@ -1,0 +1,62 @@
+
+ùP1_ASP_WebApp.Controllers.ReviewsController.ReviewsController(RR_BL.IRepo, Microsoft.Extensions.Logging.ILogger<P1_ASP_WebApp.Controllers.ReviewsController>)j
+`C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\ReviewController.cs ( "3*ﬂ
+1j
+`C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\ReviewController.cs	 (	i
+g
+
+%0void"0Microsoft.AspNetCore.Mvc.Controller.Controller()*'%
+#Microsoft.AspNetCore.Mvc.Controller*
+0*Ú	
+0j
+`C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\ReviewController.cs (:ò
+ï
+j
+`C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\ReviewController.cs (`-
++P1_ASP_WebApp.Controllers.ReviewsController"/
+_logger$Microsoft.Extensions.Logging.ILogger"__id*?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>Ÿ
+÷
+j
+`C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\ReviewController.cs (H-
++P1_ASP_WebApp.Controllers.ReviewsController"
+_webrepoRR_BL.IRepo"__id*
+
+webrepoRR_BL.IRepoÖ
+Ç
+j
+`C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\ReviewController.cs (*
+%1$Microsoft.Extensions.Logging.ILogger"__id*b*`-
++P1_ASP_WebApp.Controllers.ReviewsController"/
+_logger$Microsoft.Extensions.Logging.ILogger¸
+˘
+j
+`C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\ReviewController.cs (;
+
+%2void"xMicrosoft.Extensions.Logging.LoggerExtensions.LogCritical(Microsoft.Extensions.Logging.ILogger, string, params object[])*1"/
+-Microsoft.Extensions.Logging.LoggerExtensions*,
+*
+%1$Microsoft.Extensions.Logging.ILogger*
+This is the Reviews page*
+""*
+2*Û
+2j
+`C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\ReviewController.cs	 (	"Å
+j
+`C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\ReviewController.cs (	
+implicit return*’
+3j
+`C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\ReviewController.csR (Rﬁ
+€
+j
+`C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\ReviewController.cs ( 
+%3"__entrypoint*
+
+webrepoRR_BL.IRepo*?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*
+1:
+webrepoRR_BL.IRepo:=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>B/-
++P1_ASP_WebApp.Controllers.ReviewsController

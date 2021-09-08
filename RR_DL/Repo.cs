@@ -38,7 +38,8 @@ namespace RR_DL
             _context.Users.Add(
                 new Entities.User
                 {
-                    Username = users.uname
+                    Username = users.uname,
+                    Password = users.pass
                 }
             );
             _context.SaveChanges();
@@ -65,6 +66,42 @@ namespace RR_DL
             return _context.Users.Select(
                 users => new RR_BL.Users(users.Id, users.Username, users.Password, users.Admin)
             ).ToList();
+        }
+
+        public string SearchUsers(string username, string password)
+        {
+            try
+            {
+                var users = _context.Users.Single(u => u.Username.Equals(username));
+                if(users.Password == password)
+                {
+                    return username;
+                }
+                else
+                {
+                    return "Incorrect Login";
+                }
+            }
+            catch(System.InvalidOperationException e)
+            {
+                return "Incorrect Login";
+            }
+
+            
+        }
+        public string SearchRestaurants(string name)
+        {
+            try
+            {
+                var restaurants = _context.Restaurants.Single(r => r.Name.Equals(name));
+                return name;
+            }
+            catch (System.InvalidOperationException e)
+            {
+                return "Restaurant does not exist";
+            }
+
+
         }
     }
 }

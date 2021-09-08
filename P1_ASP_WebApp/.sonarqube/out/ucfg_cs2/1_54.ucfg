@@ -1,0 +1,81 @@
+
+&RR_DL.Repo.SearchUsers(string, string)G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.csG G(!"0*ë
+
+0G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.csK L(-≤
+Ø
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.csK K($"
+%0RR_DL.Entities.CMDBP0Context"__id*:*8
+
+RR_DL.Repo"(
+_contextRR_DL.Entities.CMDBP0ContextŸ÷
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.csK K(*2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"&RR_DL.Entities.CMDBP0Context.Users.get*$
+"
+%0RR_DL.Entities.CMDBP0Context2	Users.get…
+∆
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.csK K(S
+%2RR_DL.Entities.User"ÜSystem.Linq.Queryable.Single<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""ç
+ä
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.csK K(S
+usersRR_DL.Entities.User"__id*
+
+%2RR_DL.Entities.Userú
+ô
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.csL L(!
+%3string" RR_DL.Entities.User.Password.get*
+
+usersRR_DL.Entities.UserÆ
+´
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.csL L(-
+
+%4bool""string.operator ==(string, string)*
+"
+string*
+
+%3string*
+
+passwordstring*
+1
+2*≠
+1G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.csN N(#"_
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.csN N($
+
+usernamestring*¨
+2G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.csR R(,"^
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.csR R(-
+Incorrect Login*W
+3G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs[	 [(	*	
+4
+5
+5*¨
+4G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.csW W(("^
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.csW W()
+Incorrect Login*¨
+5G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs[	 [(	"^
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs[ [(	
+implicit return:
+usernamestring:
+passwordstringB
+
+RR_DL.Repo

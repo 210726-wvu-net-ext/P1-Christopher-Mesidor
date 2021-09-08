@@ -1,0 +1,13 @@
+è
+RR_DL.Entities.Userobject$
+User()RR_DL.Entities.User.User()$
+Id.getRR_DL.Entities.User.Id.get$
+Id.setRR_DL.Entities.User.Id.set0
+Username.get RR_DL.Entities.User.Username.get0
+Username.set RR_DL.Entities.User.Username.set0
+Password.get RR_DL.Entities.User.Password.get0
+Password.set RR_DL.Entities.User.Password.set*
+	Admin.getRR_DL.Entities.User.Admin.get*
+	Admin.setRR_DL.Entities.User.Admin.set.
+Reviews.getRR_DL.Entities.User.Reviews.get.
+Reviews.setRR_DL.Entities.User.Reviews.set

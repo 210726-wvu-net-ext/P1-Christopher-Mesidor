@@ -31,13 +31,33 @@ namespace P1_ASP_WebApp.Controllers
 
         public IActionResult Details(int id)
         {
+            _logger.LogCritical("Showing the restaurant");
             return View(_webrepo.GetRestaurants().First(x => x.ID == id));
         }
 
-        public IActionResult Search(Restaurants restaurants)
+        [HttpGet]
+        public ActionResult SearchRestaurant()
         {
-            
-            return View(_webrepo.SearchRestaurants(restaurants.Name));
+            return View();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult SearchRestaurant(Restaurants restaurants)
+        {
+
+            if(_webrepo.SearchRestaurants(restaurants.Name).Equals("Restaurant does not exist"))
+            {
+                return View("Error");
+            }
+            else
+            {
+                ViewBag.Username = restaurants.Name;
+                TempData["restaurant"] = restaurants.Name;
+                TempData.Keep("restaurant");
+                _logger.LogCritical("Found Restaurant");
+                return View("Details", restaurants);
+            }
         }
     }
 }

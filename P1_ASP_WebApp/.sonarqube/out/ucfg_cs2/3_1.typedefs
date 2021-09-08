@@ -1,0 +1,7 @@
+‰
+(P1_ASP_WebApp.Controllers.HomeController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobject„
+kHomeController(RR_BL.IRepo, Microsoft.Extensions.Logging.ILogger<P1_ASP_WebApp.Controllers.HomeController>)”P1_ASP_WebApp.Controllers.HomeController.HomeController(RR_BL.IRepo, Microsoft.Extensions.Logging.ILogger<P1_ASP_WebApp.Controllers.HomeController>);
+Index()0P1_ASP_WebApp.Controllers.HomeController.Index()E
+GetReviews()5P1_ASP_WebApp.Controllers.HomeController.GetReviews()?
+	Privacy()2P1_ASP_WebApp.Controllers.HomeController.Privacy();
+Error()0P1_ASP_WebApp.Controllers.HomeController.Error()

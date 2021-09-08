@@ -1,0 +1,7 @@
+¡
++P1_ASP_WebApp.Controllers.ReviewsController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobjectì
+qReviewsController(RR_BL.IRepo, Microsoft.Extensions.Logging.ILogger<P1_ASP_WebApp.Controllers.ReviewsController>)ùP1_ASP_WebApp.Controllers.ReviewsController.ReviewsController(RR_BL.IRepo, Microsoft.Extensions.Logging.ILogger<P1_ASP_WebApp.Controllers.ReviewsController>)>
+Index()3P1_ASP_WebApp.Controllers.ReviewsController.Index()H
+Details(int)8P1_ASP_WebApp.Controllers.ReviewsController.Details(int)@
+Create()4P1_ASP_WebApp.Controllers.ReviewsController.Create()Z
+Create(RR_BL.Reviews)AP1_ASP_WebApp.Controllers.ReviewsController.Create(RR_BL.Reviews)
