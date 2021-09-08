@@ -20,6 +20,15 @@ stages:
   - job: build
     
     steps:
+    - task: UseDotNet@2
+      displayName: dotnet-sdk-5
+      inputs:
+        packageType: 'sdk'
+        version: '5.x'
+
+    - task: SonarCloudPrepare@1
+      displayName: Sonar Analysis
+      
 
     - script: dotnet build --configuration Release
       displayName: dotnet build
