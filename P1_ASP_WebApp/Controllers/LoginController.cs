@@ -46,8 +46,18 @@ namespace P1_ASP_WebApp.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Login(Users users)
         {
-            _webrepo.SearchUsers(users.uname,users.pass);
-            return View(users);
+            if(_webrepo.SearchUsers(users.uname, users.pass).Equals("Incorrect Login"))
+            {
+                return View("Error");
+            }
+            else
+            {
+                ViewBag.Username = users.uname;
+                TempData["user"] = users.uname;
+                TempData.Keep("user");
+                _logger.LogCritical("Login Successful");
+                return Redirect("~/Restaurant/Index");
+            }
         }
 
         // GET:  UserController/AddUser
@@ -63,6 +73,7 @@ namespace P1_ASP_WebApp.Controllers
         public ActionResult Create(Users users)
         {
             _webrepo.AddUser(users);
+            _logger.LogCritical("New User was added");
             return View("Details", users);
         }
     }

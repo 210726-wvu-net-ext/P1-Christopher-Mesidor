@@ -1,0 +1,31 @@
+
+1P1_ASP_WebApp.Program.CreateHostBuilder(string[])U
+KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Program.cs# (4"0*·
+0U
+KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Program.cs (ˆ
+…
+U
+KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Program.cs (+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder"@Microsoft.Extensions.Hosting.Host.CreateDefaultBuilder(string[])*%"#
+!Microsoft.Extensions.Hosting.Host*
+
+argsstring[]Â
+¿
+U
+KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Program.cs (/
+%1)Microsoft.Extensions.Hosting.IHostBuilder"ºMicrosoft.Extensions.Hosting.GenericHostBuilderExtensions.ConfigureWebHostDefaults(Microsoft.Extensions.Hosting.IHostBuilder, System.Action<Microsoft.AspNetCore.Hosting.IWebHostBuilder>)*=";
+9Microsoft.Extensions.Hosting.GenericHostBuilderExtensions*1
+/
+%0)Microsoft.Extensions.Hosting.IHostBuilder*
+"""Š
+U
+KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Program.cs (1
+/
+%1)Microsoft.Extensions.Hosting.IHostBuilder*È
+1U
+KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Program.cs ("l
+U
+KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Program.cs (
+implicit return:
+argsstring[]B"
+P1_ASP_WebApp.Program

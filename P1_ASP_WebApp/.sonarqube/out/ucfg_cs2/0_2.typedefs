@@ -1,0 +1,16 @@
+‘
+RR_BL.Reviewsobject$
+	Reviews()RR_BL.Reviews.Reviews()f
+*Reviews(int, string, string, int?, string)8RR_BL.Reviews.Reviews(int, string, string, int?, string)
+ID.getRR_BL.Reviews.ID.get
+ID.setRR_BL.Reviews.ID.set 
+UID.getRR_BL.Reviews.UID.get 
+UID.setRR_BL.Reviews.UID.set 
+RID.getRR_BL.Reviews.RID.get 
+RID.setRR_BL.Reviews.RID.set&
+
+Rating.getRR_BL.Reviews.Rating.get&
+
+Rating.setRR_BL.Reviews.Rating.set(
+Comment.getRR_BL.Reviews.Comment.get(
+Comment.setRR_BL.Reviews.Comment.set

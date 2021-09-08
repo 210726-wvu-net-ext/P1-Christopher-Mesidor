@@ -1,0 +1,9 @@
+G
+>C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\IRepo.csutf-8K
+BC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\IResRevBL.csutf-8J
+AC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\ResRevBL.csutf-8M
+DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.csutf-8I
+@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Reviews.csutf-8G
+>C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Users.csutf-8€
+uC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.csutf-8g
+\C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\obj\Debug\net5.0\RR_BL.AssemblyInfo.csutf-8

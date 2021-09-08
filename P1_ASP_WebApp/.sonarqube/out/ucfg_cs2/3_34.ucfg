@@ -1,0 +1,140 @@
+
+<P1_ASP_WebApp.Controllers.LoginController.Login(RR_BL.Users)i
+_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs/ /(!"2*í
+0i
+_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs1 2(Ñ
+Î
+i
+_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs1 1(
+%0RR_BL.IRepo"__id*H*F+
+)P1_ASP_WebApp.Controllers.LoginController"
+_webrepoRR_BL.IRepo«
+¨
+i
+_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs1! 1(,
+%1string"RR_BL.Users.uname.get*
+
+usersRR_BL.Usersª
+§
+i
+_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs1- 1(7
+%2string"RR_BL.Users.pass.get*
+
+usersRR_BL.Users÷ô
+i
+_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs1 1(8
+%3string"'RR_BL.IRepo.SearchUsers(string, string)*
+
+%0RR_BL.IRepo*
+
+%1string*
+
+%2string2SearchUsers(string, string)ð
+í
+i
+_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs2 2(
+
+%4void"p1_asp_webapp/views/login/login*
+
+%5*
+
+usersRR_BL.Users*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobjectï
+ì
+i
+_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs2 2(
+
+%6void"p1_asp_webapp/views/_viewstart*
+
+%7*
+
+usersRR_BL.Users*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobjectó
+ð
+i
+_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs2 2(
+
+%8void""p1_asp_webapp/views/shared/_layout*
+
+%9*
+
+usersRR_BL.Users*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobject"y
+i
+_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs2 2(
+
+
+%8void*ñ
+1i
+_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs3	 3(	"€
+i
+_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs3 3(	
+implicit return*˜
+2i
+_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs/. /(.›
+˜
+i
+_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs/ /(!
+%10"__entrypoint*
+
+usersRR_BL.UsersÝ
+Ú
+i
+_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs-	 -(
+%11"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute()*
+
+usersRR_BL.Usersý
+ú
+i
+_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs.	 .(!
+%12"
+__annotate*b`
+^Microsoft.AspNetCore.Mvc.ValidateAntiForgeryTokenAttribute.ValidateAntiForgeryTokenAttribute()*
+
+usersRR_BL.Users¤
+¡
+i
+_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs/" /(-
+usersRR_BL.Users"__annotation*
+
+%11*
+
+%12*
+0:
+usersRR_BL.UsersB-+
+)P1_ASP_WebApp.Controllers.LoginController

@@ -1,0 +1,208 @@
+
+RR_UI.Menu.SearchRestaurant()I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csµ µ($"0*ô
+0I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs· ¼(8³
+°
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs· ·(%"
+%0RR_DL.Entities.CMDBP0Context"__id*9*7
+
+RR_UI.Menu"'
+contextRR_DL.Entities.CMDBP0Contextçä
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs· ·(12
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>",RR_DL.Entities.CMDBP0Context.Restaurants.get*$
+"
+%0RR_DL.Entities.CMDBP0Context2Restaurants.get£
+ 
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs· ·(:(
+%2"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>³
+°
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs· ·(:1
+restaurants"System.Collections.Generic.List<T>"__id**
+(
+%2"System.Collections.Generic.List<T>j
+h
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs¸ ¸(
+validbool"__id*
+""²
+¯
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csº º(<
+
+%3void"!System.Console.WriteLine(string?)*"
+System.Console*
+Search the Resterant name: ‹
+ˆ
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs» »(&
+%4string"System.Console.ReadLine()*"
+System.Consolet
+r
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs» »(&
+inputstring"__id*
+
+%4string*
+1*V
+1I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÌ	 Ì(	*
+2
+3*´
+2I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs¾ ¾(,«
+¨
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs¾ ¾(,
+%5string""RR_DL.Entities.Restaurant.Name.get*)
+'
+
+restaurantRR_DL.Entities.Restaurant­
+ª
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs¾ ¾(,
+
+%6bool""string.operator ==(string, string)*
+"
+string*
+
+inputstring*
+
+%5string*
+4
+1*Ù
+4I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÀ Ä( ¨
+¥
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÀ À(:
+
+%7void"!System.Console.WriteLine(string?)*"
+System.Console*
+Found Restaurant!«
+¨
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÁ/ Á(>
+%8string""RR_DL.Entities.Restaurant.Name.get*)
+'
+
+restaurantRR_DL.Entities.Restaurant}
+{
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÁ& Á(@
+%9string"__concat*
+""*
+
+%8string¢
+Ÿ
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÁ Á(A
+%10void"!System.Console.WriteLine(string?)*"
+System.Console*
+
+%9stringº
+·
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÂ1 Â(B
+%11System.Nullable<T>"$RR_DL.Entities.Restaurant.Rating.get*)
+'
+
+restaurantRR_DL.Entities.Restaurant˜
+•
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÂ& Â(D
+%12System.Nullable<T>"__concat*
+""*
+
+%11System.Nullable<T>¯
+¬
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÂ Â(E
+%13void"!System.Console.WriteLine(string?)*"
+System.Console*
+
+%12System.Nullable<T>°
+­
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÃ3 Ã(F
+%14string"&RR_DL.Entities.Restaurant.Location.get*)
+'
+
+restaurantRR_DL.Entities.Restaurant¬
+©
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÃJ Ã(\
+
+%15int"%RR_DL.Entities.Restaurant.ZipCode.get*)
+'
+
+restaurantRR_DL.Entities.Restaurant
+}
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÃ& Ã(^
+%16string"__concat*
+""*
+
+%14string
+}
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÃ& Ã(^
+%17string"__concat*
+
+%16string*
+""†
+ƒ
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÃ& Ã(^
+%18string"__concat*
+
+%17string*
+
+
+%15int£
+ 
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÃ Ã(_
+%19void"!System.Console.WriteLine(string?)*"
+System.Console*
+
+%18stringj
+h
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÄ Ä( 
+validbool"__id*
+""*
+1*V
+3I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÇ Ç(*
+5
+6*‹
+5I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÉ É(Aµ
+²
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÉ É(B
+%20void"!System.Console.WriteLine(string?)*"
+System.Console*!
+Retsaurant does not exist ...*
+6*¬
+6I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csË Ë("\
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csË Ë(
+
+validbool*°
+7I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÌ	 Ì(	"`
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÌ Ì(	
+implicit returnB
+
+RR_UI.Menu

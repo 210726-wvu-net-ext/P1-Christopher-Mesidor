@@ -1,0 +1,6 @@
+﻿C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\IRepo.cs
+C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\IResRevBL.cs
+C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\ResRevBL.cs
+C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs
+C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Reviews.cs
+C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Users.cs

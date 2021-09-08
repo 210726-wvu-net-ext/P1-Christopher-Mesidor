@@ -1,0 +1,9 @@
+Í
+"P1_ASP_WebApp.Models.CreatedReviewobjectE
+CreatedReview()2P1_ASP_WebApp.Models.CreatedReview.CreatedReview()7
+Text.get+P1_ASP_WebApp.Models.CreatedReview.Text.get7
+Text.set+P1_ASP_WebApp.Models.CreatedReview.Text.set7
+Tags.get+P1_ASP_WebApp.Models.CreatedReview.Tags.get7
+Tags.set+P1_ASP_WebApp.Models.CreatedReview.Tags.set9
+	Phone.get,P1_ASP_WebApp.Models.CreatedReview.Phone.get9
+	Phone.set,P1_ASP_WebApp.Models.CreatedReview.Phone.set

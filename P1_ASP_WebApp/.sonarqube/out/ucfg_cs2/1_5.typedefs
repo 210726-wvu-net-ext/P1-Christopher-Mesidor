@@ -1,0 +1,12 @@
+Š
+RR_DL.Entities.CMDBP0Context'Microsoft.EntityFrameworkCore.DbContextobject?
+CMDBP0Context(),RR_DL.Entities.CMDBP0Context.CMDBP0Context()×
+[CMDBP0Context(Microsoft.EntityFrameworkCore.DbContextOptions<RR_DL.Entities.CMDBP0Context>)xRR_DL.Entities.CMDBP0Context.CMDBP0Context(Microsoft.EntityFrameworkCore.DbContextOptions<RR_DL.Entities.CMDBP0Context>)—
+;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)XRR_DL.Entities.CMDBP0Context.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)¥
+BOnModelCreatingPartial(Microsoft.EntityFrameworkCore.ModelBuilder)_RR_DL.Entities.CMDBP0Context.OnModelCreatingPartial(Microsoft.EntityFrameworkCore.ModelBuilder)?
+Restaurants.get,RR_DL.Entities.CMDBP0Context.Restaurants.get?
+Restaurants.set,RR_DL.Entities.CMDBP0Context.Restaurants.set7
+Reviews.get(RR_DL.Entities.CMDBP0Context.Reviews.get7
+Reviews.set(RR_DL.Entities.CMDBP0Context.Reviews.set3
+	Users.get&RR_DL.Entities.CMDBP0Context.Users.get3
+	Users.set&RR_DL.Entities.CMDBP0Context.Users.set

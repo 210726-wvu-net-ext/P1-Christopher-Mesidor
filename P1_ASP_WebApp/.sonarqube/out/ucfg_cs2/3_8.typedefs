@@ -1,0 +1,9 @@
+»
+)P1_ASP_WebApp.Controllers.LoginController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobject‰
+mLoginController(RR_BL.IRepo, Microsoft.Extensions.Logging.ILogger<P1_ASP_WebApp.Controllers.LoginController>)—P1_ASP_WebApp.Controllers.LoginController.LoginController(RR_BL.IRepo, Microsoft.Extensions.Logging.ILogger<P1_ASP_WebApp.Controllers.LoginController>)<
+Index()1P1_ASP_WebApp.Controllers.LoginController.Index()F
+Details(int)6P1_ASP_WebApp.Controllers.LoginController.Details(int)<
+Login()1P1_ASP_WebApp.Controllers.LoginController.Login()R
+Login(RR_BL.Users)<P1_ASP_WebApp.Controllers.LoginController.Login(RR_BL.Users)>
+Create()2P1_ASP_WebApp.Controllers.LoginController.Create()T
+Create(RR_BL.Users)=P1_ASP_WebApp.Controllers.LoginController.Create(RR_BL.Users)

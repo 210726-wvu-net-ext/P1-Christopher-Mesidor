@@ -1,0 +1,50 @@
+
+;P1_ASP_WebApp.Controllers.RestaurantController.Details(int)n
+dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs   ($"2*Œ
+
+0n
+dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs" "(G€
+ÿ
+n
+dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs" "( 
+%0RR_BL.IRepo"__id*M*K0
+.P1_ASP_WebApp.Controllers.RestaurantController"
+_webrepoRR_BL.IRepo‚ﬂ
+n
+dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs" "(1(
+%1"System.Collections.Generic.List<T>"RR_BL.IRepo.GetRestaurants()*
+
+%0RR_BL.IRepo2GetRestaurants()–
+Õ
+n
+dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs" "(H
+%2RR_BL.Restaurants"rSystem.Linq.Enumerable.First<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable**
+(
+%1"System.Collections.Generic.List<T>*
+""¢ü
+n
+dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs" "(I)
+%3#Microsoft.AspNetCore.Mvc.ViewResult"0Microsoft.AspNetCore.Mvc.Controller.View(object)*'%
+#Microsoft.AspNetCore.Mvc.Controller*
+
+%2RR_BL.Restaurants2View(object)"ù
+n
+dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs" "(J+
+)
+%3#Microsoft.AspNetCore.Mvc.ViewResult*˚
+1n
+dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs#	 #(	"Ö
+n
+dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs# #(	
+implicit return*ä
+2n
+dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs ,  (,è
+å
+n
+dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs   ($
+%4"__entrypoint*
+""*
+0:	
+idintB20
+.P1_ASP_WebApp.Controllers.RestaurantController

@@ -1,0 +1,288 @@
+
+!p1_asp_webapp/views/login/details"0*∆T
+0Ç
+wC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\obj\Debug\net5.0\Razor\Views\Login\Details.cshtml.g.cs: Ö(EÆ
+´
+e
+[C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Views\Login\Details.cshtml ("
+%0"__mapSet*
+
+ViewBagDataAllobject*	
+Title*	
+Detailsı
+Ú
+e
+[C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Views\Login\Details.cshtml (6<
+%16Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<TModel>"'AspNetCore.Views_Login_Details.Html.get*" 
+AspNetCore.Views_Login_DetailsÆ´
+e
+[C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Views\Login\Details.cshtml (6
+%2string"êMicrosoft.AspNetCore.Mvc.Rendering.IHtmlHelper<TModel>.DisplayNameFor<TResult>(System.Linq.Expressions.Expression<System.Func<TModel, TResult>>)*>
+<
+%16Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<TModel>*
+""2YDisplayNameFor<TResult>(System.Linq.Expressions.Expression<System.Func<TModel, TResult>>)ı
+Ú
+e
+[C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Views\Login\Details.cshtml (2<
+%36Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<TModel>"'AspNetCore.Views_Login_Details.Html.get*" 
+AspNetCore.Views_Login_Details˚
+¯
+e
+[C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Views\Login\Details.cshtml (2,
+%5&Microsoft.AspNetCore.Html.IHtmlContent"‘Microsoft.AspNetCore.Mvc.Rendering.HtmlHelperDisplayExtensions.DisplayFor<TModel, TResult>(Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<TModel>, System.Linq.Expressions.Expression<System.Func<TModel, TResult>>)*B"@
+>Microsoft.AspNetCore.Mvc.Rendering.HtmlHelperDisplayExtensions*>
+<
+%36Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<TModel>*
+""≥
+∞
+e
+[C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Views\Login\Details.cshtml (2
+
+%6void"!razor_sink*.
+,
+%5&Microsoft.AspNetCore.Html.IHtmlContentı
+Ú
+e
+[C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Views\Login\Details.cshtml (5<
+%76Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<TModel>"'AspNetCore.Views_Login_Details.Html.get*" 
+AspNetCore.Views_Login_DetailsÆ´
+e
+[C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Views\Login\Details.cshtml (5
+%8string"êMicrosoft.AspNetCore.Mvc.Rendering.IHtmlHelper<TModel>.DisplayNameFor<TResult>(System.Linq.Expressions.Expression<System.Func<TModel, TResult>>)*>
+<
+%76Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<TModel>*
+""2YDisplayNameFor<TResult>(System.Linq.Expressions.Expression<System.Func<TModel, TResult>>)ı
+Ú
+e
+[C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Views\Login\Details.cshtml (1<
+%96Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<TModel>"'AspNetCore.Views_Login_Details.Html.get*" 
+AspNetCore.Views_Login_Details¸
+˘
+e
+[C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Views\Login\Details.cshtml (1-
+%11&Microsoft.AspNetCore.Html.IHtmlContent"‘Microsoft.AspNetCore.Mvc.Rendering.HtmlHelperDisplayExtensions.DisplayFor<TModel, TResult>(Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<TModel>, System.Linq.Expressions.Expression<System.Func<TModel, TResult>>)*B"@
+>Microsoft.AspNetCore.Mvc.Rendering.HtmlHelperDisplayExtensions*>
+<
+%96Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<TModel>*
+""µ
+≤
+e
+[C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Views\Login\Details.cshtml (1
+%12void"!razor_sink*/
+-
+%11&Microsoft.AspNetCore.Html.IHtmlContentˆ
+Û
+e
+[C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Views\Login\Details.cshtml (6=
+%136Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<TModel>"'AspNetCore.Views_Login_Details.Html.get*" 
+AspNetCore.Views_Login_Details∞≠
+e
+[C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Views\Login\Details.cshtml (6
+%14string"êMicrosoft.AspNetCore.Mvc.Rendering.IHtmlHelper<TModel>.DisplayNameFor<TResult>(System.Linq.Expressions.Expression<System.Func<TModel, TResult>>)*?
+=
+%136Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<TModel>*
+""2YDisplayNameFor<TResult>(System.Linq.Expressions.Expression<System.Func<TModel, TResult>>)ˆ
+Û
+e
+[C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Views\Login\Details.cshtml (2=
+%156Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<TModel>"'AspNetCore.Views_Login_Details.Html.get*" 
+AspNetCore.Views_Login_Details˝
+˙
+e
+[C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Views\Login\Details.cshtml (2-
+%17&Microsoft.AspNetCore.Html.IHtmlContent"‘Microsoft.AspNetCore.Mvc.Rendering.HtmlHelperDisplayExtensions.DisplayFor<TModel, TResult>(Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<TModel>, System.Linq.Expressions.Expression<System.Func<TModel, TResult>>)*B"@
+>Microsoft.AspNetCore.Mvc.Rendering.HtmlHelperDisplayExtensions*?
+=
+%156Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<TModel>*
+""µ
+≤
+e
+[C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Views\Login\Details.cshtml (2
+%18void"!razor_sink*/
+-
+%17&Microsoft.AspNetCore.Html.IHtmlContentˆ
+Û
+e
+[C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Views\Login\Details.cshtml" "(K=
+%196Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<TModel>"'AspNetCore.Views_Login_Details.Html.get*" 
+AspNetCore.Views_Login_Details»
+≈
+e
+[C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Views\Login\Details.cshtml" "(K-
+%20&Microsoft.AspNetCore.Html.IHtmlContent"éMicrosoft.AspNetCore.Mvc.Rendering.HtmlHelperLinkExtensions.ActionLink(Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper, string, string, object)*?"=
+;Microsoft.AspNetCore.Mvc.Rendering.HtmlHelperLinkExtensions*?
+=
+%196Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<TModel>*
+Edit*
+Edit*
+""µ
+≤
+e
+[C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Views\Login\Details.cshtml" "(K
+%21void"!razor_sink*/
+-
+%20&Microsoft.AspNetCore.Html.IHtmlContentØ
+¨J
+%22CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager":AspNetCore.Views_Login_Details.__tagHelperScopeManager.get*" 
+AspNetCore.Views_Login_Details
+
+%23"__id*
+""à
+Ö
+%24void"&p1_asp_webapp/views/login/details!a123*
+
+%25*
+
+ModelRR_BL.Users*
+
+ViewBagDataAllobject*
+
+ViewBagDataHtmlobject*
+
+TempDataAllobject*
+
+TempDataHtmlobject*
+
+HttpContextItemsAllobject* 
+
+HttpContextItemsHtmlobject•
+¢ä 
+AspNetCore.Views_Login_Details"f
+__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*
+
+%24voidΩ
+∫:
+%263Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper"JMicrosoft.AspNetCore.Mvc.Razor.RazorPageBase.CreateTagHelper<TTagHelper>()*0.
+,Microsoft.AspNetCore.Mvc.Razor.RazorPageBase⁄
+◊ê 
+AspNetCore.Views_Login_Details"l
+5__Microsoft_AspNetCore_Mvc_TagHelpers_AnchorTagHelper3Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper"__id*<
+:
+%263Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelperÈ
+ÊN
+%27GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ç*ä 
+AspNetCore.Views_Login_Details"f
+__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext€
+ÿ:
+%283Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper"__id*ì*ê 
+AspNetCore.Views_Login_Details"l
+5__Microsoft_AspNetCore_Mvc_TagHelpers_AnchorTagHelper3Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelperü
+ú
+%29void"}Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Add(Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper)*P
+N
+%27GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*<
+:
+%283Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper€
+ÿ:
+%303Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper"__id*ì*ê 
+AspNetCore.Views_Login_Details"l
+5__Microsoft_AspNetCore_Mvc_TagHelpers_AnchorTagHelper3Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelperƒ
+¡?
+%318Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"__id*x*v 
+AspNetCore.Views_Login_Details"R
+__tagHelperAttribute_08Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeô
+ñ
+%32object"BMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute.Value.get*A
+?
+%318Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute 
+
+%33"__id*
+
+%32objectô
+ñ
+%34string">Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper.Action.set*<
+:
+%303Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper*
+
+%33È
+ÊN
+%35GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ç*ä 
+AspNetCore.Views_Login_Details"f
+__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextƒ
+¡?
+%368Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute"__id*x*v 
+AspNetCore.Views_Login_Details"R
+__tagHelperAttribute_08Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeø
+º
+%37void"óMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.AddTagHelperAttribute(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute)*P
+N
+%35GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*A
+?
+%368Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute…
+∆D
+%38=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner"__id*x*v 
+AspNetCore.Views_Login_Details"R
+__tagHelperRunner=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunnerÈ
+ÊN
+%39GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ç*ä 
+AspNetCore.Views_Login_Details"f
+__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext”
+–"
+%40System.Threading.Tasks.Task"èMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.RunAsync(Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext)*F
+D
+%38=Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner*P
+N
+%39GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÈ
+ÊN
+%41GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ç*ä 
+AspNetCore.Views_Login_Details"f
+__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÁ
+‰<
+%425Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput"RMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Output.get*P
+N
+%41GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextù
+ö
+%43bool"KMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperOutput.IsContentModified.get*>
+<
+%425Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput*
+1
+2*◊
+1É
+wC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\obj\Debug\net5.0\Razor\Views\Login\Details.cshtml.g.csá á(IÈ
+ÊN
+%44GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ç*ä 
+AspNetCore.Views_Login_Details"f
+__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext⁄
+◊"
+%45System.Threading.Tasks.Task"_Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()*P
+N
+%44GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*
+2*Œ
+
+2É
+wC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\obj\Debug\net5.0\Razor\Views\Login\Details.cshtml.g.csâ ã()È
+ÊN
+%46GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*ç*ä 
+AspNetCore.Views_Login_Details"f
+__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContextÁ
+‰<
+%475Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput"RMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.Output.get*P
+N
+%46GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext\
+Z
+%48void"!razor_sink*>
+<
+%475Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutputØ
+¨J
+%49CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager":AspNetCore.Views_Login_Details.__tagHelperScopeManager.get*" 
+AspNetCore.Views_Login_DetailsÏ
+ÈN
+%50GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"IMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManager.End()*L
+J
+%49CMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperScopeManagerË
+Âä 
+AspNetCore.Views_Login_Details"f
+__tagHelperExecutionContextGMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext"__id*P
+N
+%50GMicrosoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext*
+3*†
+3É
+wC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\obj\Debug\net5.0\Razor\Views\Login\Details.cshtml.g.cså	 å(	"
+implicit return:
+ModelRR_BL.Users:
+ViewBagDataAllobject:
+ViewBagDataHtmlobject:
+TempDataAllobject:
+TempDataHtmlobject:
+HttpContextItemsAllobject:
+HttpContextItemsHtmlobjectB 

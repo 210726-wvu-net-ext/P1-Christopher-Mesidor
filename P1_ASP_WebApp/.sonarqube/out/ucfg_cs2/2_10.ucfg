@@ -1,0 +1,219 @@
+
+RR_UI.Menu.Login()I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs™ ™("0*É
+
+0I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs≠ ≤(.k
+i
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csØ Ø(
+uvalidbool"__id*
+""k
+i
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs∞ ∞(
+pvalidbool"__id*
+""j
+h
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs± ±(
+validbool"__id*
+""≥
+∞
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs≤ ≤("
+%0RR_DL.Entities.CMDBP0Context"__id*9*7
+
+RR_UI.Menu"'
+contextRR_DL.Entities.CMDBP0Context€ÿ
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs≤ ≤(%2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"&RR_DL.Entities.CMDBP0Context.Users.get*$
+"
+%0RR_DL.Entities.CMDBP0Context2	Users.get£
+†
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs≤ ≤(.(
+%2"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>≠
+™
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs≤ ≤(.+
+users"System.Collections.Generic.List<T>"__id**
+(
+%2"System.Collections.Generic.List<T>*
+1*Ù
+1I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs∂ ∏(*ù
+ö
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs∂ ∂(+
+
+%3void"System.Console.Write(string?)*"
+System.Console*
+
+Username: ã
+à
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs∑ ∑('
+%4string"System.Console.ReadLine()*"
+System.Consoleq
+o
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs∑ ∑('
+unstring"__id*
+
+%4string*
+2*V
+2I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs◊	 ◊(	*
+3
+4*£
+3I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs∫ ∫(+ù
+ö
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs∫ ∫(+
+%5string" RR_DL.Entities.User.Username.get*
+
+userRR_DL.Entities.User™
+ß
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs∫ ∫(+
+
+%6bool""string.operator ==(string, string)*
+"
+string*
+
+unstring*
+
+%5string*
+5
+2*¿
+5I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csº º(%k
+i
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csº º(%
+uvalidbool"__id*
+""*
+2*Û
+4I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csø ø(1ö
+ó
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csø ø(2
+
+%7bool""string.IsNullOrWhiteSpace(string?)*
+"
+string*
+
+unstring*
+1
+6*Ù
+6I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs√ ≈(*ù
+ö
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs√ √(+
+
+%8void"System.Console.Write(string?)*"
+System.Console*
+
+Password: ã
+à
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csƒ ƒ('
+%9string"System.Console.ReadLine()*"
+System.Consoleq
+o
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csƒ ƒ('
+pwstring"__id*
+
+%9string*
+7*V
+7I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs◊	 ◊(	*
+8
+9*®
+8I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs« «(+û
+õ
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs« «(+
+%10string" RR_DL.Entities.User.Password.get*
+
+userRR_DL.Entities.User¨
+©
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs« «(+
+%11bool""string.operator ==(string, string)*
+"
+string*
+
+pwstring*
+
+%10string*
+10
+10*¡
+10I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs… …(%k
+i
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs… …(%
+pvalidbool"__id*
+""*
+7*ı
+9I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÃ Ã(1õ
+ò
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÃ Ã(2
+%12bool""string.IsNullOrWhiteSpace(string?)*
+"
+string*
+
+pwstring*
+6
+11*Y
+11I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csŒ Œ(*
+12
+13*Y
+12I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csŒ" Œ(0*
+14
+13*¡
+14I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs– –(j
+h
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs– –(
+validbool"__id*
+""*
+15*í
+13I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs‘ ‘(F∫
+∑
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs‘ ‘(G
+%13void"!System.Console.WriteLine(string?)*"
+System.Console*&$
+"Username or password are incorrect*
+15*≠
+15I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs÷ ÷("\
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs÷ ÷(
+
+validbool*±
+16I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs◊	 ◊(	"`
+I
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs◊ ◊(	
+implicit returnB
+
+RR_UI.Menu

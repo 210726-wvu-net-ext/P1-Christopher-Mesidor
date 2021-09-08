@@ -1,0 +1,46 @@
+
+XRR_DL.Entities.CMDBP0Context.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)Y
+OC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\CMDBP0Context.cs  (/"0*ž
+0Y
+OC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\CMDBP0Context.cs e(/óð
+Y
+OC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\CMDBP0Context.cs (^0
+%0*Microsoft.EntityFrameworkCore.ModelBuilder"HMicrosoft.EntityFrameworkCore.ModelBuilder.HasAnnotation(string, object)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*
+Relational:Collation* 
+SQL_Latin1_General_CP1_CI_AS2HasAnnotation(string, object)Ú×
+Y
+OC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\CMDBP0Context.cs 0(0
+%1*Microsoft.EntityFrameworkCore.ModelBuilder"•Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>(System.Action<Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*
+""2jEntity<TEntity>(System.Action<Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>>)Ú×
+Y
+OC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\CMDBP0Context.cs2 Q(0
+%2*Microsoft.EntityFrameworkCore.ModelBuilder"•Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>(System.Action<Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*
+""2jEntity<TEntity>(System.Action<Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>>)Ú×
+Y
+OC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\CMDBP0Context.csS c(0
+%3*Microsoft.EntityFrameworkCore.ModelBuilder"•Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>(System.Action<Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*
+""2jEntity<TEntity>(System.Action<Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>>)«
+¨
+Y
+OC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\CMDBP0Context.cse e(0
+
+%4void"_RR_DL.Entities.CMDBP0Context.OnModelCreatingPartial(Microsoft.EntityFrameworkCore.ModelBuilder)* 
+RR_DL.Entities.CMDBP0Context*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*
+1*Ð
+1Y
+OC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\CMDBP0Context.csf	 f(	"p
+Y
+OC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\CMDBP0Context.csf f(	
+implicit return::
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderB 
+RR_DL.Entities.CMDBP0Context

@@ -1,0 +1,43 @@
+
+RR_DL.Repo.GetUsers()G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs@ @(#"0*Ã	
+0G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.csB C(_²
+¯
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.csB B("
+%0RR_DL.Entities.CMDBP0Context"__id*:*8
+
+RR_DL.Repo"(
+_contextRR_DL.Entities.CMDBP0ContextÙÖ
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.csB B(!2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"&RR_DL.Entities.CMDBP0Context.Users.get*$
+"
+%0RR_DL.Entities.CMDBP0Context2	Users.getÛ
+Ø
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.csB D(
+%2System.Linq.IQueryable<T>"’System.Linq.Queryable.Select<TSource, TResult>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, TResult>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""Ž
+‹
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.csB D((
+%3"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*!
+
+%2System.Linq.IQueryable<T>"u
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.csB D(*
+(
+%3"System.Collections.Generic.List<T>*¬
+1G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.csE	 E(	"^
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.csE E(	
+implicit returnB
+
+RR_DL.Repo

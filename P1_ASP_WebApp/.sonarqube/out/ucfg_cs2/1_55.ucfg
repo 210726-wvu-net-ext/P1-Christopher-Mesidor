@@ -1,0 +1,52 @@
+
+$RR_DL.Repo.SearchRestaurants(string)G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs\ \('"0*T
+0G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.csi	 i(	*
+1
+2*º
+1G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs` a(²
+¯
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs`" `(*"
+%0RR_DL.Entities.CMDBP0Context"__id*:*8
+
+RR_DL.Repo"(
+_contextRR_DL.Entities.CMDBP0Contextåâ
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs`" `(62
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>",RR_DL.Entities.CMDBP0Context.Restaurants.get*$
+"
+%0RR_DL.Entities.CMDBP0Context2Restaurants.getÏ
+Ì
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs`" `(W
+%2RR_DL.Entities.Restaurant"†System.Linq.Queryable.Single<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""Ÿ
+œ
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs` `(W(
+restaurantsRR_DL.Entities.Restaurant"__id*!
+
+%2RR_DL.Entities.Restaurant"[
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.csa a(
+
+namestring*¶
+2G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cse e(2"h
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cse e(3
+Restaurant does not exist*¬
+3G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.csi	 i(	"^
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.csi i(	
+implicit return:
+namestringB
+
+RR_DL.Repo

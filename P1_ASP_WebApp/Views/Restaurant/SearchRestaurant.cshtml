@@ -1,14 +1,16 @@
 ﻿@model RR_BL.Restaurants
 
 @{
-    ViewData["Title"] = "Search";
+    ViewData["Title"] = "SearchRestaurant";
 }
 
-<h1>Find a Restaurant</h1>
+<h1>SearchRestaurant</h1>
+
+<h4>Restaurants</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="Search">
+        <form asp-action="SearchRestaurant">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="Name" class="control-label"></label>
