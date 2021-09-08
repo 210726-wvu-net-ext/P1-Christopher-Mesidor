@@ -12,7 +12,7 @@ pool:
   vmImage: windows-latest
 
 variables: 
-  solution: P1-Christopher-Mesidor
+  solution: P1_ASP_WebApp
 
 stages: 
 - stage: build
