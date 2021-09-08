@@ -9,5 +9,7 @@ namespace RR_BL
         Users AddUser(Users users);
         List<Users> GetUsers();
         List<Restaurants> GetRestaurants();
+        string SearchUsers(string username, string password);
+        string SearchRestaurants(string name);
     }
 }
