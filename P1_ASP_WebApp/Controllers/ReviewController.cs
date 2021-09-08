@@ -20,7 +20,6 @@ namespace P1_ASP_WebApp.Controllers
         {
             _logger = logger;
             _webrepo = webrepo;
-            _logger.LogCritical("This is the Reviews page");
         }
 
         public IActionResult Index()

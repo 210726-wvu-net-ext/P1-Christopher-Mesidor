@@ -21,7 +21,6 @@ namespace P1_ASP_WebApp.Controllers
         {
             _logger = logger;
             _webrepo = webrepo;
-            _logger.LogCritical("This is the Login page");
         }
         // GET:  UserController
         public ActionResult Index()
