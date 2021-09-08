@@ -25,9 +25,16 @@ stages:
       inputs:
         packageType: 'sdk'
         version: '5.x'
+    - task: UseDotNet@2
+      displayName: dotnet-runtime-r.1
+      inputs:
+        packageType: 'sdk'
+        version: '5.x'
 
     - task: SonarCloudPrepare@1
-      displayName: Sonar Analysis
+      displayName: Sonar prepare
+      inputs: 
+        pollingTimeoutSet: 
       
 
     - script: dotnet build --configuration Release
@@ -35,5 +42,7 @@ stages:
       workingDirectory: $(solution)
 
     - script: dotnet test --configuration Release
+      -- collect:Path"XPlat Code Coverage"
+      --results-directory $() 
       displayName: dotnet test
       workingDirectory: $(solution)
