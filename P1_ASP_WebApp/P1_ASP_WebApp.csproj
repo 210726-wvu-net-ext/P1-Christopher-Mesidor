@@ -10,9 +10,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\RestaurantReviewerC\RR_BL\RR_BL.csproj" />
-    <ProjectReference Include="..\..\RestaurantReviewerC\RR_DL\RR_DL.csproj" />
-    <ProjectReference Include="..\..\RestaurantReviewerC\RR_UI\RR_UI.csproj" />
+    <ProjectReference Include="..\RR_BL\RR_BL.csproj" />
+    <ProjectReference Include="..\RR_DL\RR_DL.csproj" />
+    <ProjectReference Include="..\RR_UI\RR_UI.csproj" />
   </ItemGroup>
 
 </Project>

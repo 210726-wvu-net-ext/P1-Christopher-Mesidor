@@ -21,7 +21,6 @@ namespace P1_ASP_WebApp.Controllers
         {
             _logger = logger;
             _webrepo = webrepo;
-            _logger.LogCritical("This is the Restaurants page");
         }
         // GET: HomeController1
         public IActionResult Index()

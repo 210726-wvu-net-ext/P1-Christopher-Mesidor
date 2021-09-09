@@ -21,7 +21,6 @@ namespace P1_ASP_WebApp.Controllers
         {
             _logger = logger;
             _webrepo = webrepo;
-            _logger.LogCritical("This is the Login page");
         }
         // GET:  UserController
         public ActionResult Index()
@@ -69,7 +68,6 @@ namespace P1_ASP_WebApp.Controllers
 
         // POST:  UserController/AddUser
         [HttpPost]
-        [ValidateAntiForgeryToken]
         public ActionResult Create(Users users)
         {
             _webrepo.AddUser(users);
