@@ -29,12 +29,18 @@ stages:
       displayName: dotnet-runtime-r.1
       inputs:
         packageType: 'sdk'
-        version: '5.x'
+        version: '3.1.x'
 
     - task: SonarCloudPrepare@1
-      displayName: Sonar prepare
-      inputs: 
-        pollingTimeoutSet: 
+      displayName: sonar prepare
+      inputs:
+        SonarCloud: ''
+        organization: '210726-wvu-net-ext'
+        scannerMode: 'MSBuild'
+        projectKey: ''
+        extraProperties: |
+          sonar.exclusions=**/lib/**/*
+          sonar.cs.opencover.reportsPaths=$(Agent.TempDirectory)/*/coverage.opencover.xml
       
 
     - script: dotnet build --configuration Release
@@ -42,7 +48,26 @@ stages:
       workingDirectory: $(solution)
 
     - script: dotnet test --configuration Release
-      -- collect:Path"XPlat Code Coverage"
-      --results-directory $() 
+        -- collect:Path"XPlat Code Coverage"
+        --results-directory $(Agent.TempDirectory) 
+        DataCollectionRunSettings.DataCollectors.DataCollector.Configuration.Format=opencover
       displayName: dotnet test
       workingDirectory: $(solution)
+      
+    - task: SonarCloudAnalyze@1
+      displayName: sonar analyze
+
+    - task: SonarCloudPublish@1
+      displayName: sonar publish gate
+      inputs:
+        pollingTimeoutSec: '300'
+    
+    - script: dotnet publish
+        --configuration Release
+        --output $(Build.StagingDirectory)
+      displayName: dotnet publish
+      workingDirectory: $(solution)
+
+    - publish: $(Build.StagingDirectory)
+      displayName: publish app artifact
+      artifact: app
