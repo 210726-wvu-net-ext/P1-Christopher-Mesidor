@@ -68,7 +68,6 @@ namespace P1_ASP_WebApp.Controllers
 
         // POST:  UserController/AddUser
         [HttpPost]
-        [ValidateAntiForgeryToken]
         public ActionResult Create(Users users)
         {
             _webrepo.AddUser(users);
