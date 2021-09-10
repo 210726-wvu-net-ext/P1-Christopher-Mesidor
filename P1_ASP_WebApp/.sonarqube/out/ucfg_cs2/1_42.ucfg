@@ -1,16 +1,26 @@
 
-%RR_DL.Entities.Restaurant.Reviews.getV
-LC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\Restaurant.cs5 (8"0*’
-0V
-LC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\Restaurant.cs9 (9È
-Ê
-V
-LC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\Restaurant.cs5 (9/
-%0)System.Collections.Generic.ICollection<T>"__id*U*S
-RR_DL.Entities.Restaurant"4
-Reviews)System.Collections.Generic.ICollection<T>"ã
-V
-LC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\Restaurant.cs5 (91
-/
-%0)System.Collections.Generic.ICollection<T>B
-RR_DL.Entities.Restaurant
+ RR_BL.ResRevBL.ViewRestaurants()N
+DC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\ResRevBL.cs !  (0"0*√
+0N
+DC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\ResRevBL.cs" "(*†
+ù
+N
+DC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\ResRevBL.cs" "(
+%0RR_BL.IResRevBL"__id*.*,
+RR_BL.ResRevBL"
+_repoRR_BL.IResRevBLÃ…
+N
+DC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\ResRevBL.cs" "(*(
+%1"System.Collections.Generic.List<T>"!RR_BL.IResRevBL.ViewRestaurants()*
+
+%0RR_BL.IResRevBL2ViewRestaurants()"|
+N
+DC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\ResRevBL.cs" "(+*
+(
+%1"System.Collections.Generic.List<T>*∫
+1N
+DC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\ResRevBL.cs#	 #(	"e
+N
+DC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\ResRevBL.cs# #(	
+implicit returnB
+RR_BL.ResRevBL

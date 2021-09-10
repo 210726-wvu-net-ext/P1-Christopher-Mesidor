@@ -1,16 +1,18 @@
 
-RR_BL.Restaurants.Location.getN
-DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs! ($"0*Ì
+RR_BL.Restaurants.Location.setN
+DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs& ()"0*ì
 0N
-DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs% (%”
-‘
+DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs* (*—
+”
 N
-DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs! (%
-%0string"__id*+*)
+DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs& (*)
 RR_BL.Restaurants"
-Locationstring"`
+Locationstring"__id*
+
+valuestring"}
 N
-DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs! (%
-
-%0stringB
+DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs& (*+*)
+RR_BL.Restaurants"
+Locationstring:
+valuestringB
 RR_BL.Restaurants

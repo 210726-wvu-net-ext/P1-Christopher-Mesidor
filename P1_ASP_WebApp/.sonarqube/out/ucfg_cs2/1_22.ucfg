@@ -1,20 +1,16 @@
 
-$RR_DL.Entities.Review.Restaurant.setR
-HC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\Review.cs( (+"0*…
-0R
-HC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\Review.cs, (,¡
-ž
-R
-HC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\Review.cs( (,/
-RR_DL.Entities.Review"
-
-Restaurantstring"__id*
-
-valuestring"‡
-R
-HC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\Review.cs( (,1*/
-RR_DL.Entities.Review"
-
-Restaurantstring:
-valuestringB
-RR_DL.Entities.Review
+RR_BL.Reviews.Comment.getM
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Reviews.cs  (#"0*Ä
+0M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Reviews.cs$ ($Ž
+‹
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Reviews.cs  ($
+%0string"__id*&*$
+RR_BL.Reviews"
+Commentstring"_
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Reviews.cs  ($
+
+%0stringB
+RR_BL.Reviews

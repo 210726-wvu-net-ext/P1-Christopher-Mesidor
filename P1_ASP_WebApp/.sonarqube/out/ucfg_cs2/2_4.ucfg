@@ -1,150 +1,87 @@
 
-RR_UI.Program.Main(string[])J
-@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Program.cs ("0*«-
-0J
-@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Program.cs («ƒ
-J
-@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Program.cs  (:=
-%07Microsoft.Extensions.Configuration.ConfigurationBuilder"7Microsoft.Extensions.Configuration.ConfigurationBuilderÏ
-È
-J
-@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Program.cs$ (8
+RR_DL.Repo.AddUser(RR_BL.Users)G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs$ $("0*
+0G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs& /(≤
+Ø
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs& &("
+%0RR_DL.Entities.CMDBP0Context"__id*:*8
 
-%1void"NMicrosoft.Extensions.Configuration.ConfigurationBuilder.ConfigurationBuilder()*?
-=
-%07Microsoft.Extensions.Configuration.ConfigurationBuilder°
-û
-J
-@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Program.cs (<
-%2string")System.IO.Directory.GetCurrentDirectory()*"
-System.IO.Directory≥
-∞
-J
-@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Program.cs  (=>
-%38Microsoft.Extensions.Configuration.IConfigurationBuilder"åMicrosoft.Extensions.Configuration.FileConfigurationExtensions.SetBasePath(Microsoft.Extensions.Configuration.IConfigurationBuilder, string)*B"@
->Microsoft.Extensions.Configuration.FileConfigurationExtensions*?
-=
-%07Microsoft.Extensions.Configuration.ConfigurationBuilder*
-
-%2string∫
-∑
-J
-@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Program.cs  (0>
-%48Microsoft.Extensions.Configuration.IConfigurationBuilder"åMicrosoft.Extensions.Configuration.JsonConfigurationExtensions.AddJsonFile(Microsoft.Extensions.Configuration.IConfigurationBuilder, string)*B"@
->Microsoft.Extensions.Configuration.JsonConfigurationExtensions*@
->
-%38Microsoft.Extensions.Configuration.IConfigurationBuilder*
-appsettings.jsonôñ
-J
-@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Program.cs  (;
-%55Microsoft.Extensions.Configuration.IConfigurationRoot"@Microsoft.Extensions.Configuration.IConfigurationBuilder.Build()*@
->
-%48Microsoft.Extensions.Configuration.IConfigurationBuilder2Build()‹
-Ÿ
-J
-@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Program.cs (F
-configuration5Microsoft.Extensions.Configuration.IConfigurationRoot"__id*=
-;
-%55Microsoft.Extensions.Configuration.IConfigurationRootº
-π
-J
-@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Program.cs& (\
-%6string""System.IO.File.ReadAllText(string)*"
-System.IO.File*%#
-!C:\Users\cm121\cmdbp0-connect.txtÄ
-~
-J
-@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Program.cs (\
-ConnectionStringstring"__id*
-
-%6string◊‘
-J
-@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Program.cs (FE
-%7?Microsoft.EntityFrameworkCore.DbContextOptionsBuilder<TContext>"?Microsoft.EntityFrameworkCore.DbContextOptionsBuilder<TContext>ˇ
-¸
-J
-@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Program.cs (D
+RR_DL.Repo"(
+_contextRR_DL.Entities.CMDBP0ContextŸ÷
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs& &(2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"&RR_DL.Entities.CMDBP0Context.Users.get*$
+"
+%0RR_DL.Entities.CMDBP0Context2	Users.get{y
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs' +(
+%2RR_DL.Entities.User"RR_DL.Entities.Userë
+é
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs' '(!
 
-%8void"YMicrosoft.EntityFrameworkCore.DbContextOptionsBuilder<TContext>.DbContextOptionsBuilder()*G
-E
-%7?Microsoft.EntityFrameworkCore.DbContextOptionsBuilder<TContext>…∆
-J
-@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Program.cs (;E
-%9?Microsoft.EntityFrameworkCore.DbContextOptionsBuilder<TContext>"∆Microsoft.EntityFrameworkCore.DbContextOptionsBuilder<TContext>.LogTo(System.Action<string>, Microsoft.Extensions.Logging.LogLevel, Microsoft.EntityFrameworkCore.Diagnostics.DbContextLoggerOptions?)*G
-E
-%7?Microsoft.EntityFrameworkCore.DbContextOptionsBuilder<TContext>*
-""*
-""*
-""2ÜLogTo(System.Action<string>, Microsoft.Extensions.Logging.LogLevel, Microsoft.EntityFrameworkCore.Diagnostics.DbContextLoggerOptions?)œ
-Ã
-J
-@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Program.cs (/F
-%10?Microsoft.EntityFrameworkCore.DbContextOptionsBuilder<TContext>"ˇMicrosoft.EntityFrameworkCore.SqlServerDbContextOptionsExtensions.UseSqlServer<TContext>(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder<TContext>, string, System.Action<Microsoft.EntityFrameworkCore.Infrastructure.SqlServerDbContextOptionsBuilder>)*E"C
-AMicrosoft.EntityFrameworkCore.SqlServerDbContextOptionsExtensions*G
-E
-%9?Microsoft.EntityFrameworkCore.DbContextOptionsBuilder<TContext>*
-
-ConnectionStringstring*
-""¥±
-J
-@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Program.cs (?
-%118Microsoft.EntityFrameworkCore.DbContextOptions<TContext>"KMicrosoft.EntityFrameworkCore.DbContextOptionsBuilder<TContext>.Options.get*H
-F
-%10?Microsoft.EntityFrameworkCore.DbContextOptionsBuilder<TContext>2Options.get›
-⁄
-J
-@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Program.cs (C
-options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>"__id*A
-?
-%118Microsoft.EntityFrameworkCore.DbContextOptions<TContext>íè
-J
-@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Program.cs  (:#
-%12RR_DL.Entities.CMDBP0Context"RR_DL.Entities.CMDBP0Contextƒ
-¡
-J
-@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Program.cs$ (1
-%13void"xRR_DL.Entities.CMDBP0Context.CMDBP0Context(Microsoft.EntityFrameworkCore.DbContextOptions<RR_DL.Entities.CMDBP0Context>)*%
-#
-%12RR_DL.Entities.CMDBP0Context*E
-C
-options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>•
-¢
-J
-@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Program.cs (:'
-contextRR_DL.Entities.CMDBP0Context"__id*%
-#
-%12RR_DL.Entities.CMDBP0Contextmk
-J
-@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Program.cs (*
-%14
-RR_UI.Menu"
-RR_UI.MenuÀ
-»
-J
-@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Program.cs (!
-%15void"-RR_UI.Menu.Menu(RR_DL.Entities.CMDBP0Context)*
-
-%14
-RR_UI.Menu*)
-'
-contextRR_DL.Entities.CMDBP0Context~
-|
-J
-@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Program.cs (*
-menuRR_UI.IMenu"__id*
-
-%14
-RR_UI.Menuëé
-J
-@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Program.cs (
-%16void"RR_UI.IMenu.Start()*
-
-menuRR_UI.IMenu2Start()*
-1*≤
-1J
-@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Program.cs	 (	"a
-J
-@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Program.cs (	
-implicit return:
-argsstring[]B"
-RR_UI.Program
+%3void"RR_DL.Entities.User.User()*
+
+%2RR_DL.Entities.Userâ
+Ü
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs) )(*
+%4string"RR_BL.Users.uname.get*
+
+usersRR_BL.Users©
+¶
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs) )(*
+%5string" RR_DL.Entities.User.Username.set*
+
+%2RR_DL.Entities.User*
+
+%4stringà
+Ö
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs* *()
+%6string"RR_BL.Users.pass.get*
+
+usersRR_BL.Users©
+¶
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs* *()
+%7string" RR_DL.Entities.User.Password.set*
+
+%2RR_DL.Entities.User*
+
+%6string±Æ
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs& ,(G
+%8AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+
+%2RR_DL.Entities.User2Add(TEntity)≤
+Ø
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs- -("
+%9RR_DL.Entities.CMDBP0Context"__id*:*8
+
+RR_DL.Repo"(
+_contextRR_DL.Entities.CMDBP0Contextƒ¡
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs- -("
+
+%10int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*$
+"
+%9RR_DL.Entities.CMDBP0Context2SaveChanges()"a
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs/ /(
+
+usersRR_BL.Users*¨
+1G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs0	 0(	"^
+G
+=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs0 0(	
+implicit return:
+usersRR_BL.UsersB
+
+RR_DL.Repo

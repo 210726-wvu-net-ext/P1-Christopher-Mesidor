@@ -1,108 +1,33 @@
 
-6P1_ASP_WebApp.Controllers.LoginController.Details(int)i
-_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs   ($"2*­
-0i
-_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs" "(AÑ
-Î
-i
-_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs" "( 
-%0RR_BL.IRepo"__id*H*F+
-)P1_ASP_WebApp.Controllers.LoginController"
-_webrepoRR_BL.IRepoÑÎ
-i
-_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs" "(+(
-%1"System.Collections.Generic.List<T>"RR_BL.IRepo.GetUsers()*
-
-%0RR_BL.IRepo2
-GetUsers()Å
-Â
-i
-_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs" "(B
-%2RR_BL.Users"rSystem.Linq.Enumerable.First<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
-System.Linq.Enumerable**
-(
-%1"System.Collections.Generic.List<T>*
-""ï
-ì
-i
-_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs" "(C
+&RR_DL.Entities.Restaurant.Restaurant()Y
+OC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\Restaurant.cs
+ 
+("1*c
+1Y
+OC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\Restaurant.cs	 (	*
+0*ù
+0Y
+OC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\Restaurant.cs (+²¯
+Y
+OC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\Restaurant.cs (++
+%0%System.Collections.Generic.HashSet<T>"%System.Collections.Generic.HashSet<T>Ê
+Ç
+Y
+OC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\Restaurant.cs ()
 
-%3void"!p1_asp_webapp/views/login/details*
-
-%4*
-
-%2RR_BL.Users*
-
-%ViewBagDataAllobject*
-
-%ViewBagDataHtmlobject*
-
-%TempDataAllobject*
-
-%TempDataHtmlobject* 
-
-%HttpContextItemsAllobject*!
-
-%HttpContextItemsHtmlobjectì
-é
-i
-_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs" "(C
-
-%5void"p1_asp_webapp/views/_viewstart*
-
-%6*
-
-%2RR_BL.Users*
-
-%ViewBagDataAllobject*
-
-%ViewBagDataHtmlobject*
-
-%TempDataAllobject*
-
-%TempDataHtmlobject* 
-
-%HttpContextItemsAllobject*!
-
-%HttpContextItemsHtmlobjectð
-í
-i
-_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs" "(C
-
-%7void""p1_asp_webapp/views/shared/_layout*
-
-%8*
-
-%2RR_BL.Users*
-
-%ViewBagDataAllobject*
-
-%ViewBagDataHtmlobject*
-
-%TempDataAllobject*
-
-%TempDataHtmlobject* 
-
-%HttpContextItemsAllobject*!
-
-%HttpContextItemsHtmlobject"y
-i
-_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs" "(D
-
-
-%7void*ñ
-1i
-_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs#	 #(	"€
-i
-_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs# #(	
-implicit return*€
-2i
-_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs ,  (,Š
-‡
-i
-_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs   ($
-%9"__entrypoint*
-""*
-0:	
-idintB-+
-)P1_ASP_WebApp.Controllers.LoginController
+%1void"/System.Collections.Generic.HashSet<T>.HashSet()*-
++
+%0%System.Collections.Generic.HashSet<T>‘Ž
+Y
+OC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\Restaurant.cs (+/
+%2)System.Collections.Generic.ICollection<T>"%RR_DL.Entities.Restaurant.Reviews.set*
+RR_DL.Entities.Restaurant*-
++
+%0%System.Collections.Generic.HashSet<T>2Reviews.set*
+2*Ð
+2Y
+OC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\Restaurant.cs	 (	"p
+Y
+OC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\Restaurant.cs (	
+implicit returnB
+RR_DL.Entities.Restaurant

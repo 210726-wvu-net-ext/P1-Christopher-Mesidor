@@ -1,16 +1,18 @@
 
- RR_DL.Entities.User.Password.getP
-FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs! ($"0*Ô
-0P
-FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs% (%˜
-•
-P
-FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs! (%
-%0string"__id*-*+
-RR_DL.Entities.User"
-Passwordstring"b
-P
-FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs! (%
-
-%0stringB
-RR_DL.Entities.User
+RR_BL.Users.Admin.setK
+AC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Users.cs! ($"0*Ë
+0K
+AC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Users.cs% (%‡
+„
+K
+AC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Users.cs! (%
+RR_BL.Users"
+Adminbool"__id*
+
+valuebool"o
+K
+AC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Users.cs! (% *
+RR_BL.Users"
+Adminbool:
+valueboolB
+RR_BL.Users

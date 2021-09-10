@@ -1,0 +1,46 @@
+
+—P1_ASP_WebApp.Controllers.LoginController.LoginController(RR_BL.IRepo, Microsoft.Extensions.Logging.ILogger<P1_ASP_WebApp.Controllers.LoginController>)i
+_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs ("3*Þ
+1i
+_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs	 (	i
+g
+
+%0void"0Microsoft.AspNetCore.Mvc.Controller.Controller()*'%
+#Microsoft.AspNetCore.Mvc.Controller*
+0*ä
+0i
+_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs (•
+’
+i
+_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs (^+
+)P1_ASP_WebApp.Controllers.LoginController"/
+_logger$Microsoft.Extensions.Logging.ILogger"__id*?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>Ö
+Ó
+i
+_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs (F+
+)P1_ASP_WebApp.Controllers.LoginController"
+_webrepoRR_BL.IRepo"__id*
+
+webrepoRR_BL.IRepo*
+2*ñ
+2i
+_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs	 (	"€
+i
+_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs (	
+implicit return*Ó
+3i
+_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.csN (NÝ
+Ú
+i
+_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs (
+%1"__entrypoint*
+
+webrepoRR_BL.IRepo*?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*
+1:
+webrepoRR_BL.IRepo:=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>B-+
+)P1_ASP_WebApp.Controllers.LoginController

@@ -12,18 +12,18 @@
       },
       "results": [
         {
-          "ruleId": "CS0642",
+          "ruleId": "CS0168",
           "level": "warning",
-          "message": "Possible mistaken empty statement",
+          "message": "The variable 'e' is declared but never used",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
+                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_DL/Repo.cs",
                 "region": {
-                  "startLine": 199,
-                  "startColumn": 46,
-                  "endLine": 199,
-                  "endColumn": 47
+                  "startLine": 85,
+                  "startColumn": 52,
+                  "endLine": 85,
+                  "endColumn": 53
                 }
               }
             }
@@ -33,18 +33,18 @@
           }
         },
         {
-          "ruleId": "CS0219",
+          "ruleId": "CS0168",
           "level": "warning",
-          "message": "The variable 'avgrat' is assigned but its value is never used",
+          "message": "The variable 'e' is declared but never used",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
+                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_DL/Repo.cs",
                 "region": {
-                  "startLine": 300,
-                  "startColumn": 21,
-                  "endLine": 300,
-                  "endColumn": 27
+                  "startLine": 99,
+                  "startColumn": 53,
+                  "endLine": 99,
+                  "endColumn": 54
                 }
               }
             }
@@ -54,185 +54,17 @@
           }
         },
         {
-          "ruleId": "S125",
+          "ruleId": "S101",
           "level": "warning",
-          "message": "Remove this commented out code.",
+          "message": "Rename class 'CMDBP0Context' to match pascal case naming rules, consider using 'Cmdbp0Context'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 144,
-                  "startColumn": 13,
-                  "endLine": 144,
-                  "endColumn": 35
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S125",
-          "level": "warning",
-          "message": "Remove this commented out code.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 148,
-                  "startColumn": 13,
-                  "endLine": 148,
-                  "endColumn": 50
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S125",
-          "level": "warning",
-          "message": "Remove this commented out code.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 172,
-                  "startColumn": 13,
-                  "endLine": 172,
-                  "endColumn": 37
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1118",
-          "level": "warning",
-          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Program.cs",
-                "region": {
-                  "startLine": 10,
-                  "startColumn": 11,
-                  "endLine": 10,
-                  "endColumn": 18
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2933",
-          "level": "warning",
-          "message": "Make 'context' 'readonly'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
+                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_DL/Entities/CMDBP0Context.cs",
                 "region": {
                   "startLine": 9,
-                  "startColumn": 31,
+                  "startColumn": 26,
                   "endLine": 9,
-                  "endColumn": 38
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1075",
-          "level": "warning",
-          "message": "Refactor your code not to use hardcoded absolute paths or URIs.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Program.cs",
-                "region": {
-                  "startLine": 19,
-                  "startColumn": 56,
-                  "endLine": 19,
-                  "endColumn": 92
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'admin'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 19,
-                  "startColumn": 18,
-                  "endLine": 19,
-                  "endColumn": 23
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'configuration'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Program.cs",
-                "region": {
-                  "startLine": 14,
-                  "startColumn": 17,
-                  "endLine": 14,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1125",
-          "level": "warning",
-          "message": "Remove the unnecessary Boolean literal(s).",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 86,
-                  "startColumn": 34,
-                  "endLine": 86,
                   "endColumn": 39
                 }
               }
@@ -243,383 +75,18 @@
           }
         },
         {
-          "ruleId": "S1125",
+          "ruleId": "S3251",
           "level": "warning",
-          "message": "Remove the unnecessary Boolean literal(s).",
+          "message": "Supply an implementation for this partial method.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
+                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_DL/Entities/CMDBP0Context.cs",
                 "region": {
-                  "startLine": 128,
-                  "startColumn": 36,
-                  "endLine": 128,
-                  "endColumn": 43
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1854",
-          "level": "warning",
-          "message": "Remove this useless assignment to local variable 'validr'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 82,
-                  "startColumn": 24,
-                  "endLine": 82,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1125",
-          "level": "warning",
-          "message": "Remove the unnecessary Boolean literal(s).",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 206,
-                  "startColumn": 24,
-                  "endLine": 206,
-                  "endColumn": 31
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1125",
-          "level": "warning",
-          "message": "Remove the unnecessary Boolean literal(s).",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 206,
-                  "startColumn": 42,
-                  "endLine": 206,
-                  "endColumn": 49
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1116",
-          "level": "warning",
-          "message": "Remove this empty statement.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 199,
-                  "startColumn": 46,
-                  "endLine": 199,
-                  "endColumn": 47
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1199",
-          "level": "warning",
-          "message": "Extract this nested code block into a separate method.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 200,
-                  "startColumn": 21,
-                  "endLine": 200,
-                  "endColumn": 22
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1125",
-          "level": "warning",
-          "message": "Remove the unnecessary Boolean literal(s).",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 223,
-                  "startColumn": 31,
-                  "endLine": 223,
-                  "endColumn": 38
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1125",
-          "level": "warning",
-          "message": "Remove the unnecessary Boolean literal(s).",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 246,
-                  "startColumn": 40,
-                  "endLine": 246,
-                  "endColumn": 47
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1125",
-          "level": "warning",
-          "message": "Remove the unnecessary Boolean literal(s).",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 283,
-                  "startColumn": 40,
-                  "endLine": 283,
-                  "endColumn": 47
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3776",
-          "level": "warning",
-          "message": "Refactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 217,
-                  "startColumn": 21,
-                  "endLine": 217,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 223,
-                  "startColumn": 13,
-                  "endLine": 223,
-                  "endColumn": 15
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 225,
-                  "startColumn": 17,
-                  "endLine": 225,
-                  "endColumn": 19
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 235,
-                  "startColumn": 21,
-                  "endLine": 235,
-                  "endColumn": 27
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 246,
-                  "startColumn": 29,
-                  "endLine": 246,
-                  "endColumn": 31
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 261,
-                  "startColumn": 13,
-                  "endLine": 261,
-                  "endColumn": 17
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 263,
-                  "startColumn": 17,
-                  "endLine": 263,
-                  "endColumn": 19
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 272,
-                  "startColumn": 21,
-                  "endLine": 272,
-                  "endColumn": 27
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 283,
-                  "startColumn": 29,
-                  "endLine": 283,
-                  "endColumn": 31
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "0": "+1",
-              "1": "+2 (incl 1 for nesting)",
-              "2": "+3 (incl 2 for nesting)",
-              "3": "+4 (incl 3 for nesting)",
-              "4": "+1",
-              "5": "+2 (incl 1 for nesting)",
-              "6": "+3 (incl 2 for nesting)",
-              "7": "+4 (incl 3 for nesting)"
-            }
-          }
-        },
-        {
-          "ruleId": "S1116",
-          "level": "warning",
-          "message": "Remove this empty statement.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 252,
-                  "startColumn": 29,
-                  "endLine": 252,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2583",
-          "level": "warning",
-          "message": "Change this condition so that it does not always evaluate to 'false'; some subsequent code is never executed.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 223,
-                  "startColumn": 17,
-                  "endLine": 223,
-                  "endColumn": 38
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 224,
-                  "startColumn": 13,
-                  "endLine": 260,
-                  "endColumn": 14
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1125",
-          "level": "warning",
-          "message": "Remove the unnecessary Boolean literal(s).",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 327,
-                  "startColumn": 25,
-                  "endLine": 327,
-                  "endColumn": 30
+                  "startLine": 104,
+                  "startColumn": 9,
+                  "endLine": 104,
+                  "endColumn": 16
                 }
               }
             }
@@ -631,16 +98,16 @@
         {
           "ruleId": "S1481",
           "level": "warning",
-          "message": "Remove the unused local variable 'avgrat'.",
+          "message": "Remove the unused local variable 'restaurants'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
+                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_DL/Repo.cs",
                 "region": {
-                  "startLine": 300,
+                  "startLine": 96,
                   "startColumn": 21,
-                  "endLine": 300,
-                  "endColumn": 27
+                  "endLine": 96,
+                  "endColumn": 32
                 }
               }
             }
@@ -650,81 +117,18 @@
           }
         },
         {
-          "ruleId": "CA1822",
-          "level": "note",
-          "message": "Member 'ViewRestaurant' does not access instance data and can be marked as static",
+          "ruleId": "S3251",
+          "level": "warning",
+          "message": "Supply an implementation for the partial method, otherwise this call will be ignored.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
+                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_DL/Entities/CMDBP0Context.cs",
                 "region": {
-                  "startLine": 297,
-                  "startColumn": 21,
-                  "endLine": 297,
-                  "endColumn": 35
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CA1822",
-          "level": "note",
-          "message": "Member 'AddUser' does not access instance data and can be marked as static",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 141,
-                  "startColumn": 21,
-                  "endLine": 141,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CA1822",
-          "level": "note",
-          "message": "Member 'ViewReview' does not access instance data and can be marked as static",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 55,
-                  "startColumn": 21,
-                  "endLine": 55,
-                  "endColumn": 31
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CA1822",
-          "level": "note",
-          "message": "Member 'AddReview' does not access instance data and can be marked as static",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///C:/Users/cm121/source/repos/RestaurantReviewerC/RR_UI/Menu.cs",
-                "region": {
-                  "startLine": 73,
-                  "startColumn": 21,
-                  "endLine": 73,
-                  "endColumn": 30
+                  "startLine": 101,
+                  "startColumn": 13,
+                  "endLine": 101,
+                  "endColumn": 50
                 }
               }
             }
@@ -735,27 +139,11 @@
         }
       ],
       "rules": {
-        "CA1822": {
-          "id": "CA1822",
-          "shortDescription": "Mark members as static",
-          "fullDescription": "Members that do not access instance data or call instance methods can be marked as static. After you mark the methods as static, the compiler will emit nonvirtual call sites to these members. This can give you a measurable performance gain for performance-sensitive code.",
-          "defaultLevel": "note",
-          "helpUri": "https://docs.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1822",
-          "properties": {
-            "category": "Performance",
-            "isEnabledByDefault": true,
-            "tags": [
-              "PortedFromFxCop",
-              "Telemetry",
-              "EnabledRuleInAggressiveMode"
-            ]
-          }
-        },
-        "CS0219": {
-          "id": "CS0219",
-          "shortDescription": "Variable is assigned but its value is never used",
+        "CS0168": {
+          "id": "CS0168",
+          "shortDescription": "Variable is declared but never used",
           "defaultLevel": "warning",
-          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0219)",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0168)",
           "properties": {
             "category": "Compiler",
             "isEnabledByDefault": true,
@@ -765,112 +153,14 @@
             ]
           }
         },
-        "CS0642": {
-          "id": "CS0642",
-          "shortDescription": "Possible mistaken empty statement",
+        "S101": {
+          "id": "S101",
+          "shortDescription": "Types should be named in PascalCase",
+          "fullDescription": "Shared naming conventions allow teams to collaborate efficiently. This rule checks whether or not type names are using PascalCase. To reduce noise, two consecutive upper case characters are allowed unless they form the whole type name. So, MyXClass is compliant, but XC on its own is not.",
           "defaultLevel": "warning",
-          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0642)",
-          "properties": {
-            "category": "Compiler",
-            "isEnabledByDefault": true,
-            "tags": [
-              "Compiler",
-              "Telemetry"
-            ]
-          }
-        },
-        "S1075": {
-          "id": "S1075",
-          "shortDescription": "URIs should not be hardcoded",
-          "fullDescription": "Hardcoding a URI makes it difficult to test a program: path literals are not always portable across operating systems, a given absolute path may not exist on a specific test environment, a specified Internet URL may not be available when executing the tests, production environment filesystems usually differ from the development environment, …​etc. For all those reasons, a URI should never be hardcoded. Instead, it should be replaced by customizable parameter.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1075",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-101",
           "properties": {
             "category": "Minor Code Smell",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope"
-            ]
-          }
-        },
-        "S1116": {
-          "id": "S1116",
-          "shortDescription": "Empty statements should be removed",
-          "fullDescription": "Empty statements, i.e. ;, are usually introduced by mistake, for example because:",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1116",
-          "properties": {
-            "category": "Minor Code Smell",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope",
-              "TestSourceScope"
-            ]
-          }
-        },
-        "S1118": {
-          "id": "S1118",
-          "shortDescription": "Utility classes should not have public constructors",
-          "fullDescription": "Utility classes, which are collections of static members, are not meant to be instantiated.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1118",
-          "properties": {
-            "category": "Major Code Smell",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope",
-              "TestSourceScope"
-            ]
-          }
-        },
-        "S1125": {
-          "id": "S1125",
-          "shortDescription": "Boolean literals should not be redundant",
-          "fullDescription": "Redundant Boolean literals should be removed from expressions to improve readability.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1125",
-          "properties": {
-            "category": "Minor Code Smell",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope",
-              "TestSourceScope"
-            ]
-          }
-        },
-        "S1199": {
-          "id": "S1199",
-          "shortDescription": "Nested code blocks should not be used",
-          "fullDescription": "Nested code blocks can be used to create a new scope and restrict the visibility of the variables defined inside it. Using this feature in a method typically indicates that the method has too many responsibilities, and should be refactored into smaller methods.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1199",
-          "properties": {
-            "category": "Minor Code Smell",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope",
-              "TestSourceScope"
-            ]
-          }
-        },
-        "S125": {
-          "id": "S125",
-          "shortDescription": "Sections of code should not be commented out",
-          "fullDescription": "Programmers should not comment out code as it bloats programs and reduces readability.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-125",
-          "properties": {
-            "category": "Major Code Smell",
             "isEnabledByDefault": true,
             "tags": [
               "C#",
@@ -897,71 +187,19 @@
             ]
           }
         },
-        "S1854": {
-          "id": "S1854",
-          "shortDescription": "Unused assignments should be removed",
-          "fullDescription": "A dead store happens when a local variable is assigned a value that is not read by any subsequent instruction. Calculating or retrieving a value only to then overwrite it or throw it away, could indicate a serious error in the code. Even if it’s not an error, it is at best a waste of resources. Therefore all calculated values should be used.",
+        "S3251": {
+          "id": "S3251",
+          "shortDescription": "Implementations should be provided for \"partial\" methods",
+          "fullDescription": "partial methods allow an increased degree of flexibility in programming a system. Hooks can be added to generated code by invoking methods that define their signature, but might not have an implementation yet. But if the implementation is still missing when the code makes it to production, the compiler silently removes the call. In the best case scenario, such calls simply represent cruft, but in they worst case they are critical, missing functionality, the loss of which will lead to unexpected results at runtime.",
           "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1854",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3251",
           "properties": {
-            "category": "Major Code Smell",
+            "category": "Minor Code Smell",
             "isEnabledByDefault": true,
             "tags": [
               "C#",
               "SonarWay",
-              "MainSourceScope",
-              "TestSourceScope"
-            ]
-          }
-        },
-        "S2583": {
-          "id": "S2583",
-          "shortDescription": "Conditionally executed code should be reachable",
-          "fullDescription": "Conditional expressions which are always true or false can lead to dead code. Such code is always buggy and should never be used in production.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2583",
-          "properties": {
-            "category": "Major Bug",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope",
-              "TestSourceScope"
-            ]
-          }
-        },
-        "S2933": {
-          "id": "S2933",
-          "shortDescription": "Fields that are only assigned in the constructor should be \"readonly\"",
-          "fullDescription": "readonly fields can only be assigned in a class constructor. If a class has a field that’s not marked readonly but is only set in the constructor, it could cause confusion about the field’s intended use. To avoid confusion, such fields should be marked readonly to make their intended use explicit, and to prevent future maintainers from inadvertently changing their use.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2933",
-          "properties": {
-            "category": "Major Code Smell",
-            "isEnabledByDefault": true,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope",
-              "TestSourceScope"
-            ]
-          }
-        },
-        "S3776": {
-          "id": "S3776",
-          "shortDescription": "Cognitive Complexity of methods should not be too high",
-          "fullDescription": "Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain.",
-          "defaultLevel": "warning",
-          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3776",
-          "properties": {
-            "category": "Critical Code Smell",
-            "isEnabledByDefault": false,
-            "tags": [
-              "C#",
-              "SonarWay",
-              "MainSourceScope",
-              "TestSourceScope"
+              "MainSourceScope"
             ]
           }
         }

@@ -1,18 +1,18 @@
 
-)RR_DL.Entities.Review.UsersNavigation.setR
-HC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\Review.cs3 (6"0*¶
-0R
-HC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\Review.cs7 (7À
-½
-R
-HC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\Review.cs3 (7A
-RR_DL.Entities.Review"&
-UsersNavigationRR_DL.Entities.User"__id*
-
-valueRR_DL.Entities.User"™
-R
-HC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\Review.cs3 (7C*A
-RR_DL.Entities.Review"&
-UsersNavigationRR_DL.Entities.User:
-valueRR_DL.Entities.UserB
-RR_DL.Entities.Review
+RR_BL.Restaurants.Name.setQ
+GC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Restaurants.cs" (%"0*í
+0Q
+GC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Restaurants.cs& (&–
+“
+Q
+GC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Restaurants.cs" (&%
+RR_BL.Restaurants"
+Namestring"__id*
+
+valuestring"|
+Q
+GC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Restaurants.cs" (&'*%
+RR_BL.Restaurants"
+Namestring:
+valuestringB
+RR_BL.Restaurants

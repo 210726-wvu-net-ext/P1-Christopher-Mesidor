@@ -1,17 +1,16 @@
-­
-RR_BL.Restaurantsobject0
-Restaurants()RR_BL.Restaurants.Restaurants()<
-Restaurants(string)%RR_BL.Restaurants.Restaurants(string)t
-/Restaurants(int, string, decimal?, string, int)ARR_BL.Restaurants.Restaurants(int, string, decimal?, string, int)"
-ID.getRR_BL.Restaurants.ID.get"
-ID.setRR_BL.Restaurants.ID.set&
-Name.getRR_BL.Restaurants.Name.get&
-Name.setRR_BL.Restaurants.Name.set*
+‘
+RR_BL.Reviewsobject$
+	Reviews()RR_BL.Reviews.Reviews()f
+*Reviews(int, string, string, int?, string)8RR_BL.Reviews.Reviews(int, string, string, int?, string)
+ID.getRR_BL.Reviews.ID.get
+ID.setRR_BL.Reviews.ID.set 
+UID.getRR_BL.Reviews.UID.get 
+UID.setRR_BL.Reviews.UID.set 
+RID.getRR_BL.Reviews.RID.get 
+RID.setRR_BL.Reviews.RID.set&
 
-Rating.getRR_BL.Restaurants.Rating.get*
+Rating.getRR_BL.Reviews.Rating.get&
 
-Rating.setRR_BL.Restaurants.Rating.set.
-Location.getRR_BL.Restaurants.Location.get.
-Location.setRR_BL.Restaurants.Location.set,
-ZipCode.getRR_BL.Restaurants.ZipCode.get,
-ZipCode.setRR_BL.Restaurants.ZipCode.set
+Rating.setRR_BL.Reviews.Rating.set(
+Comment.getRR_BL.Reviews.Comment.get(
+Comment.setRR_BL.Reviews.Comment.set

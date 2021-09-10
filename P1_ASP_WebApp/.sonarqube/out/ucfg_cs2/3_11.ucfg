@@ -1,90 +1,18 @@
 
-ÉP1_ASP_WebApp.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)U
-KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Startup.cs+ +("0*Ω
-0U
-KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Startup.cs- -(#ÿ
-’
-U
-KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Startup.cs- -(#
+RR_DL.Entities.User.Admin.setS
+IC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\User.cs! ($"0*Û
+0S
+IC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\User.cs% (%ó
+î
+S
+IC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\User.cs! (%&
+RR_DL.Entities.User"
+Adminbool"__id*
 
-%0bool"vMicrosoft.Extensions.Hosting.HostEnvironmentEnvExtensions.IsDevelopment(Microsoft.Extensions.Hosting.IHostEnvironment)*=";
-9Microsoft.Extensions.Hosting.HostEnvironmentEnvExtensions*9
-7
-env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment*
-1
-2*˛
-1U
-KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Startup.cs/ /(/ú
-ô
-U
-KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Startup.cs/ /(/6
-%10Microsoft.AspNetCore.Builder.IApplicationBuilder"âMicrosoft.AspNetCore.Builder.DeveloperExceptionPageExtensions.UseDeveloperExceptionPage(Microsoft.AspNetCore.Builder.IApplicationBuilder)*A"?
-=Microsoft.AspNetCore.Builder.DeveloperExceptionPageExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
-3*˚
-2U
-KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Startup.cs3 5(£
-†
-U
-KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Startup.cs3 3(66
-%20Microsoft.AspNetCore.Builder.IApplicationBuilder"ÖMicrosoft.AspNetCore.Builder.ExceptionHandlerExtensions.UseExceptionHandler(Microsoft.AspNetCore.Builder.IApplicationBuilder, string)*;"9
-7Microsoft.AspNetCore.Builder.ExceptionHandlerExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
-/Home/ErrorÛ
-
-U
-KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Startup.cs5 5(6
-%30Microsoft.AspNetCore.Builder.IApplicationBuilder"lMicrosoft.AspNetCore.Builder.HstsBuilderExtensions.UseHsts(Microsoft.AspNetCore.Builder.IApplicationBuilder)*6"4
-2Microsoft.AspNetCore.Builder.HstsBuilderExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
-3*õ
-3U
-KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Startup.cs7 C(ç
-ä
-U
-KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Startup.cs7 7(%6
-%40Microsoft.AspNetCore.Builder.IApplicationBuilder"Microsoft.AspNetCore.Builder.HttpsPolicyBuilderExtensions.UseHttpsRedirection(Microsoft.AspNetCore.Builder.IApplicationBuilder)*=";
-9Microsoft.AspNetCore.Builder.HttpsPolicyBuilderExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder¯
-ı
-U
-KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Startup.cs8 8( 6
-%50Microsoft.AspNetCore.Builder.IApplicationBuilder"rMicrosoft.AspNetCore.Builder.StaticFileExtensions.UseStaticFiles(Microsoft.AspNetCore.Builder.IApplicationBuilder)*5"3
-1Microsoft.AspNetCore.Builder.StaticFileExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder£
-†
-U
-KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Startup.cs: :(6
-%60Microsoft.AspNetCore.Builder.IApplicationBuilder"ÖMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseRouting(Microsoft.AspNetCore.Builder.IApplicationBuilder)*L"J
-HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilderï
-í
-U
-KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Startup.cs< <("6
-%70Microsoft.AspNetCore.Builder.IApplicationBuilder"ÅMicrosoft.AspNetCore.Builder.AuthorizationAppBuilderExtensions.UseAuthorization(Microsoft.AspNetCore.Builder.IApplicationBuilder)*B"@
->Microsoft.AspNetCore.Builder.AuthorizationAppBuilderExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder
-Ì
-U
-KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Startup.cs> C(6
-%80Microsoft.AspNetCore.Builder.IApplicationBuilder" Microsoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseEndpoints(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Microsoft.AspNetCore.Routing.IEndpointRouteBuilder>)*L"J
-HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*9
-7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
-""*
-4*»
-4U
-KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Startup.csD	 D(	"l
-U
-KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Startup.csD D(	
-implicit return:7
-app0Microsoft.AspNetCore.Builder.IApplicationBuilder:7
-env0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB
-P1_ASP_WebApp.Startup
+valuebool"
+S
+IC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\User.cs! (%(*&
+RR_DL.Entities.User"
+Adminbool:
+valueboolB
+RR_DL.Entities.User

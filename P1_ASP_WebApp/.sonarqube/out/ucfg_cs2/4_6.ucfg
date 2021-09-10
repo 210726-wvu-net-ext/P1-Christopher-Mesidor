@@ -1,0 +1,120 @@
+
+3RR_UI.Menu.ViewReview(RR_DL.Entities.CMDBP0Context)J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs7 7("0*Õ
+0J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs9 :("åâ
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs9 9()2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"(RR_DL.Entities.CMDBP0Context.Reviews.get*)
+'
+contextRR_DL.Entities.CMDBP0Context2Reviews.get¤
+¡
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs9 9(2(
+%1"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*4
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>°
+­
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs9 9(2-
+reviews"System.Collections.Generic.List<T>"__id**
+(
+%1"System.Collections.Generic.List<T>¹
+¶
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs: :(	
+%2int",System.Collections.Generic.List<T>.Count.get*/
+-
+reviews"System.Collections.Generic.List<T>*
+1
+2*„
+1J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs< <(9­
+ª
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs< <(:
+
+%3void"!System.Console.WriteLine(string?)*"
+System.Console*
+There are no Reviews.*
+3*T
+2J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs@& @(-*
+4*W
+4J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csG	 G(	*
+5
+3*ƒ
+5J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csB D(5¡
+ž
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csB1 B(=
+%4string"RR_DL.Entities.Review.Users.get*!
+
+reviewRR_DL.Entities.Review~
+|
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csB& B(?
+%5string"__concat*
+""*
+
+%4string¢
+Ÿ
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csB B(@
+
+%6void"!System.Console.WriteLine(string?)*"
+System.Console*
+
+%5string®
+«
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csC1 C(>
+%7System.Nullable<T>" RR_DL.Entities.Review.Rating.get*!
+
+reviewRR_DL.Entities.Review—
+”
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csC& C(C
+%8System.Nullable<T>"__concat*
+""*
+
+%7System.Nullable<T>—
+”
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csC& C(C
+%9System.Nullable<T>"__concat*
+
+%8System.Nullable<T>*
+""¯
+¬
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csC C(D
+%10void"!System.Console.WriteLine(string?)*"
+System.Console*
+
+%9System.Nullable<T>¥
+¢
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csD& D(5
+%11string""RR_DL.Entities.Review.Comments.get*!
+
+reviewRR_DL.Entities.Review¤
+¡
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csD D(6
+%12void"!System.Console.WriteLine(string?)*"
+System.Console*
+
+%11string*
+4*²
+3J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csG	 G(	"a
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csG G(	
+implicit return:'
+contextRR_DL.Entities.CMDBP0ContextB
+
+RR_UI.Menu

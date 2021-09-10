@@ -1,0 +1,88 @@
+
+0RR_UI.Menu.AddUser(RR_DL.Entities.CMDBP0Context)L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csç ç("0*¡
+0L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csè ß(8Ä~
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csè è($
+%0RR_DL.Entities.User"RR_DL.Entities.Userñ
+ì
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csè è("
+
+%1void"RR_DL.Entities.User.User()*
+
+%0RR_DL.Entities.Userì
+ê
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csè è($
+uinputRR_DL.Entities.User"__id*
+
+%0RR_DL.Entities.User≥
+∞
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csë ë(:
+
+%2void"!System.Console.WriteLine(string?)*"
+System.Console*
+Enter your new Username: é
+ã
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csí í(0
+%3string"System.Console.ReadLine()*"
+System.Console≤
+Ø
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csí í(0
+%4string" RR_DL.Entities.User.Username.set*
+
+uinputRR_DL.Entities.User*
+
+%3stringØ
+¨
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs£ £(6
+
+%5void"System.Console.Write(string?)*"
+System.Console*
+Enter your new password: é
+ã
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs§ §(0
+%6string"System.Console.ReadLine()*"
+System.Console≤
+Ø
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs§ §(0
+%7string" RR_DL.Entities.User.Password.set*
+
+uinputRR_DL.Entities.User*
+
+%6stringºπ
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs• •(G
+%8AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"=Microsoft.EntityFrameworkCore.DbContext.Add<TEntity>(TEntity)*)
+'
+contextRR_DL.Entities.CMDBP0Context*
+
+uinputRR_DL.Entities.User2Add<TEntity>(TEntity)Õ 
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs¶ ¶(!	
+%9int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*)
+'
+contextRR_DL.Entities.CMDBP0Context2SaveChanges()≥
+∞
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csß ß(9
+%10void"!System.Console.WriteLine(string?)*"
+System.Console*
+User Succeessfully added*
+1*∂
+1L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs®	 ®(	"c
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs® ®(	
+implicit return:'
+contextRR_DL.Entities.CMDBP0ContextB
+
+RR_UI.Menu

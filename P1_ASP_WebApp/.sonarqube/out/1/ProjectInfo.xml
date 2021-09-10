@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <ProjectName>RR_DL</ProjectName>
+  <ProjectName>RR_BL</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Product</ProjectType>
-  <ProjectGuid>451ab929-8a7a-4f62-94f5-86d895e6ba5c</ProjectGuid>
-  <FullPath>C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\RR_DL.csproj</FullPath>
+  <ProjectGuid>00000000-0000-0000-0000-000000000000</ProjectGuid>
+  <FullPath>C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\RR_BL.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
     <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\.sonarqube\conf\1\FilesToAnalyze.txt" />

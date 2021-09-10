@@ -1,0 +1,14 @@
+û
+#AspNetCore.Views_Restaurant_Details0Microsoft.AspNetCore.Mvc.Razor.RazorPage<TModel>(Microsoft.AspNetCore.Mvc.Razor.RazorPage,Microsoft.AspNetCore.Mvc.Razor.RazorPageBaseobjectD
+ExecuteAsync()2AspNetCore.Views_Restaurant_Details.ExecuteAsync()\
+Views_Restaurant_Details()>AspNetCore.Views_Restaurant_Details.Views_Restaurant_Details()^
+ModelExpressionProvider.get?AspNetCore.Views_Restaurant_Details.ModelExpressionProvider.get^
+ModelExpressionProvider.set?AspNetCore.Views_Restaurant_Details.ModelExpressionProvider.set6
+Url.get+AspNetCore.Views_Restaurant_Details.Url.get6
+Url.set+AspNetCore.Views_Restaurant_Details.Url.setB
+Component.get1AspNetCore.Views_Restaurant_Details.Component.getB
+Component.set1AspNetCore.Views_Restaurant_Details.Component.set8
+Json.get,AspNetCore.Views_Restaurant_Details.Json.get8
+Json.set,AspNetCore.Views_Restaurant_Details.Json.set8
+Html.get,AspNetCore.Views_Restaurant_Details.Html.get8
+Html.set,AspNetCore.Views_Restaurant_Details.Html.set

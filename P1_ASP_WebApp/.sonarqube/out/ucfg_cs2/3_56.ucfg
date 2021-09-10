@@ -1,0 +1,46 @@
+
+XRR_DL.Entities.CMDBP0Context.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)\
+RC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\CMDBP0Context.cs  (/"0*°
+0\
+RC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\CMDBP0Context.cs e(/öó
+\
+RC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\CMDBP0Context.cs (^0
+%0*Microsoft.EntityFrameworkCore.ModelBuilder"HMicrosoft.EntityFrameworkCore.ModelBuilder.HasAnnotation(string, object)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*
+Relational:Collation* 
+SQL_Latin1_General_CP1_CI_AS2HasAnnotation(string, object)ÝÚ
+\
+RC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\CMDBP0Context.cs 0(0
+%1*Microsoft.EntityFrameworkCore.ModelBuilder"•Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>(System.Action<Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*
+""2jEntity<TEntity>(System.Action<Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>>)ÝÚ
+\
+RC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\CMDBP0Context.cs2 Q(0
+%2*Microsoft.EntityFrameworkCore.ModelBuilder"•Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>(System.Action<Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*
+""2jEntity<TEntity>(System.Action<Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>>)ÝÚ
+\
+RC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\CMDBP0Context.csS c(0
+%3*Microsoft.EntityFrameworkCore.ModelBuilder"•Microsoft.EntityFrameworkCore.ModelBuilder.Entity<TEntity>(System.Action<Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>>)*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*
+""2jEntity<TEntity>(System.Action<Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>>)®
+«
+\
+RC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\CMDBP0Context.cse e(0
+
+%4void"_RR_DL.Entities.CMDBP0Context.OnModelCreatingPartial(Microsoft.EntityFrameworkCore.ModelBuilder)* 
+RR_DL.Entities.CMDBP0Context*<
+:
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilder*
+1*Ö
+1\
+RC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\CMDBP0Context.csf	 f(	"s
+\
+RC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\CMDBP0Context.csf f(	
+implicit return::
+modelBuilder*Microsoft.EntityFrameworkCore.ModelBuilderB 
+RR_DL.Entities.CMDBP0Context

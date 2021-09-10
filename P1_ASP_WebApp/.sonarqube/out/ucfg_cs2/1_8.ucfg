@@ -1,16 +1,16 @@
 
- RR_DL.Entities.User.Username.getP
-FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs! ($"0*Ô
-0P
-FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs% (%˜
-•
-P
-FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs! (%
-%0string"__id*-*+
-RR_DL.Entities.User"
-Usernamestring"b
-P
-FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs! (%
+RR_BL.Users.pass.getK
+AC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Users.cs ( "0*¹
+0K
+AC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Users.cs! (!‡
+„
+K
+AC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Users.cs (!
+%0string"__id*!*
+RR_BL.Users"
+passstring"]
+K
+AC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Users.cs (!
 
-%0stringB
-RR_DL.Entities.User
+%0stringB
+RR_BL.Users

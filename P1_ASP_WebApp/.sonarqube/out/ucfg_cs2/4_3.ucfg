@@ -1,0 +1,150 @@
+
+RR_UI.Program.Main(string[])M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Program.cs ("0*é.
+0M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Program.cs ( «
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Program.cs  (:=
+%07Microsoft.Extensions.Configuration.ConfigurationBuilder"7Microsoft.Extensions.Configuration.ConfigurationBuilderÔ
+Ï
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Program.cs$ (8
+
+%1void"NMicrosoft.Extensions.Configuration.ConfigurationBuilder.ConfigurationBuilder()*?
+=
+%07Microsoft.Extensions.Configuration.ConfigurationBuilder§
+°
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Program.cs (<
+%2string")System.IO.Directory.GetCurrentDirectory()*"
+System.IO.Directory∂
+≥
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Program.cs  (=>
+%38Microsoft.Extensions.Configuration.IConfigurationBuilder"åMicrosoft.Extensions.Configuration.FileConfigurationExtensions.SetBasePath(Microsoft.Extensions.Configuration.IConfigurationBuilder, string)*B"@
+>Microsoft.Extensions.Configuration.FileConfigurationExtensions*?
+=
+%07Microsoft.Extensions.Configuration.ConfigurationBuilder*
+
+%2stringΩ
+∫
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Program.cs  (0>
+%48Microsoft.Extensions.Configuration.IConfigurationBuilder"åMicrosoft.Extensions.Configuration.JsonConfigurationExtensions.AddJsonFile(Microsoft.Extensions.Configuration.IConfigurationBuilder, string)*B"@
+>Microsoft.Extensions.Configuration.JsonConfigurationExtensions*@
+>
+%38Microsoft.Extensions.Configuration.IConfigurationBuilder*
+appsettings.jsonúô
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Program.cs  (;
+%55Microsoft.Extensions.Configuration.IConfigurationRoot"@Microsoft.Extensions.Configuration.IConfigurationBuilder.Build()*@
+>
+%48Microsoft.Extensions.Configuration.IConfigurationBuilder2Build()ﬂ
+‹
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Program.cs (F
+configuration5Microsoft.Extensions.Configuration.IConfigurationRoot"__id*=
+;
+%55Microsoft.Extensions.Configuration.IConfigurationRootø
+º
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Program.cs& (\
+%6string""System.IO.File.ReadAllText(string)*"
+System.IO.File*%#
+!C:\Users\cm121\cmdbp0-connect.txtÑ
+Å
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Program.cs (\
+ConnectionStringstring"__id*
+
+%6string⁄◊
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Program.cs (FE
+%7?Microsoft.EntityFrameworkCore.DbContextOptionsBuilder<TContext>"?Microsoft.EntityFrameworkCore.DbContextOptionsBuilder<TContext>Ç
+ˇ
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Program.cs (D
+
+%8void"YMicrosoft.EntityFrameworkCore.DbContextOptionsBuilder<TContext>.DbContextOptionsBuilder()*G
+E
+%7?Microsoft.EntityFrameworkCore.DbContextOptionsBuilder<TContext>Ã…
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Program.cs (;E
+%9?Microsoft.EntityFrameworkCore.DbContextOptionsBuilder<TContext>"∆Microsoft.EntityFrameworkCore.DbContextOptionsBuilder<TContext>.LogTo(System.Action<string>, Microsoft.Extensions.Logging.LogLevel, Microsoft.EntityFrameworkCore.Diagnostics.DbContextLoggerOptions?)*G
+E
+%7?Microsoft.EntityFrameworkCore.DbContextOptionsBuilder<TContext>*
+""*
+""*
+""2ÜLogTo(System.Action<string>, Microsoft.Extensions.Logging.LogLevel, Microsoft.EntityFrameworkCore.Diagnostics.DbContextLoggerOptions?)“
+œ
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Program.cs (/F
+%10?Microsoft.EntityFrameworkCore.DbContextOptionsBuilder<TContext>"ˇMicrosoft.EntityFrameworkCore.SqlServerDbContextOptionsExtensions.UseSqlServer<TContext>(Microsoft.EntityFrameworkCore.DbContextOptionsBuilder<TContext>, string, System.Action<Microsoft.EntityFrameworkCore.Infrastructure.SqlServerDbContextOptionsBuilder>)*E"C
+AMicrosoft.EntityFrameworkCore.SqlServerDbContextOptionsExtensions*G
+E
+%9?Microsoft.EntityFrameworkCore.DbContextOptionsBuilder<TContext>*
+
+ConnectionStringstring*
+""∑¥
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Program.cs (?
+%118Microsoft.EntityFrameworkCore.DbContextOptions<TContext>"KMicrosoft.EntityFrameworkCore.DbContextOptionsBuilder<TContext>.Options.get*H
+F
+%10?Microsoft.EntityFrameworkCore.DbContextOptionsBuilder<TContext>2Options.get‡
+›
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Program.cs (C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>"__id*A
+?
+%118Microsoft.EntityFrameworkCore.DbContextOptions<TContext>ïí
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Program.cs  (:#
+%12RR_DL.Entities.CMDBP0Context"RR_DL.Entities.CMDBP0Context«
+ƒ
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Program.cs$ (1
+%13void"xRR_DL.Entities.CMDBP0Context.CMDBP0Context(Microsoft.EntityFrameworkCore.DbContextOptions<RR_DL.Entities.CMDBP0Context>)*%
+#
+%12RR_DL.Entities.CMDBP0Context*E
+C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>®
+•
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Program.cs (:'
+contextRR_DL.Entities.CMDBP0Context"__id*%
+#
+%12RR_DL.Entities.CMDBP0Contextpn
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Program.cs (*
+%14
+RR_UI.Menu"
+RR_UI.MenuŒ
+À
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Program.cs (!
+%15void"-RR_UI.Menu.Menu(RR_DL.Entities.CMDBP0Context)*
+
+%14
+RR_UI.Menu*)
+'
+contextRR_DL.Entities.CMDBP0ContextÅ
+
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Program.cs (*
+menuRR_UI.IMenu"__id*
+
+%14
+RR_UI.Menuîë
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Program.cs (
+%16void"RR_UI.IMenu.Start()*
+
+menuRR_UI.IMenu2Start()*
+1*∏
+1M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Program.cs	 (	"d
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Program.cs (	
+implicit return:
+argsstring[]B"
+RR_UI.Program

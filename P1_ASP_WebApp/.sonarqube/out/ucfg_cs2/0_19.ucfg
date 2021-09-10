@@ -1,26 +1,18 @@
 
- RR_BL.ResRevBL.ViewRestaurants()K
-AC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\ResRevBL.cs !  (0"0*∑
-0K
-AC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\ResRevBL.cs" "(*ù
-ö
-K
-AC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\ResRevBL.cs" "(
-%0RR_BL.IResRevBL"__id*.*,
-RR_BL.ResRevBL"
-_repoRR_BL.IResRevBL…∆
-K
-AC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\ResRevBL.cs" "(*(
-%1"System.Collections.Generic.List<T>"!RR_BL.IResRevBL.ViewRestaurants()*
-
-%0RR_BL.IResRevBL2ViewRestaurants()"y
-K
-AC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\ResRevBL.cs" "(+*
-(
-%1"System.Collections.Generic.List<T>*¥
-1K
-AC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\ResRevBL.cs#	 #(	"b
-K
-AC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\ResRevBL.cs# #(	
-implicit returnB
-RR_BL.ResRevBL
+RR_BL.Reviews.RID.setJ
+@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Reviews.cs! ($"0*Œ
+0J
+@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Reviews.cs% (%ä
+á
+J
+@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Reviews.cs! (% 
+RR_BL.Reviews"
+RIDstring"__id*
+
+valuestring"p
+J
+@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Reviews.cs! (%"* 
+RR_BL.Reviews"
+RIDstring:
+valuestringB
+RR_BL.Reviews

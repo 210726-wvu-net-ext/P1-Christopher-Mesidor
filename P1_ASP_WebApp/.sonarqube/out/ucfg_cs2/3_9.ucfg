@@ -1,45 +1,18 @@
 
-dP1_ASP_WebApp.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)U
-KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Startup.cs (%"0*Ò
-0U
-KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Startup.cs '(.È
-Ê
-U
-KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Startup.cs (-A
-%0;Microsoft.Extensions.DependencyInjection.IServiceCollection"≠Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService, TImplementation>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
-KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollectionΩ
-∫
-U
-KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Startup.cs !(A
-%1;Microsoft.Extensions.DependencyInjection.IServiceCollection"·Microsoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions.AddDbContext<TContext>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.EntityFrameworkCore.DbContextOptionsBuilder>, Microsoft.Extensions.DependencyInjection.ServiceLifetime, Microsoft.Extensions.DependencyInjection.ServiceLifetime)*W"U
-SMicrosoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-""*
-""*
-""ì
-ê
-U
-KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Startup.cs# &(A
-%2;Microsoft.Extensions.DependencyInjection.IServiceCollection"œMicrosoft.Extensions.DependencyInjection.SessionServiceCollectionExtensions.AddSession(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.AspNetCore.Builder.SessionOptions>)*O"M
-KMicrosoft.Extensions.DependencyInjection.SessionServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-""Õ
- 
-U
-KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Startup.cs' '(.:
-%34Microsoft.Extensions.DependencyInjection.IMvcBuilder"úMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllersWithViews(Microsoft.Extensions.DependencyInjection.IServiceCollection)*K"I
-GMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions*I
-G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
-1*»
-1U
-KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Startup.cs(	 ((	"l
-U
-KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Startup.cs( ((	
-implicit return:G
-services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB
-P1_ASP_WebApp.Startup
+ RR_DL.Entities.User.Password.setS
+IC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\User.cs& ()"0*Ä
+0S
+IC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\User.cs* (*û
+õ
+S
+IC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\User.cs& (*+
+RR_DL.Entities.User"
+Passwordstring"__id*
+
+valuestring"Ñ
+S
+IC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\User.cs& (*-*+
+RR_DL.Entities.User"
+Passwordstring:
+valuestringB
+RR_DL.Entities.User

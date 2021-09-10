@@ -1,23 +1,16 @@
 
-%RR_BL.Restaurants.Restaurants(string)N
-DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs ("1*X
-1N
-DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs	 (	*
-0*Å
-0N
-DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs (¶
-£
-N
-DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs (
-%0string"RR_BL.Restaurants.Name.set*
-RR_BL.Restaurants*
-
-namestring*
-2*∫
-2N
-DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs	 (	"e
-N
-DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs (	
-implicit return:
-namestringB
-RR_BL.Restaurants
+RR_BL.Reviews.Rating.getJ
+@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Reviews.cs ( "0*ﬁ
+0J
+@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Reviews.cs! (!¢
+ü
+J
+@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Reviews.cs (!
+%0System.Nullable<T>"__id*1*/
+RR_BL.Reviews"
+RatingSystem.Nullable<T>"h
+J
+@C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Reviews.cs (!
+
+%0System.Nullable<T>B
+RR_BL.Reviews

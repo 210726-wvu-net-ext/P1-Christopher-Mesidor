@@ -1,18 +1,29 @@
 
-&RR_DL.Entities.Restaurant.Location.setV
-LC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\Restaurant.cs& ()"0*ï
-0V
-LC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\Restaurant.cs* (*ß
-§
-V
-LC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\Restaurant.cs& (*1
-RR_DL.Entities.Restaurant"
-Locationstring"__id*
-
-valuestring"ç
-V
-LC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\Restaurant.cs& (*3*1
-RR_DL.Entities.Restaurant"
-Locationstring:
-valuestringB
-RR_DL.Entities.Restaurant
+(RR_BL.ResRevBL.AddReviews(RR_BL.Reviews)N
+DC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\ResRevBL.cs (!"0*≈
+0N
+DC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\ResRevBL.cs (+†
+ù
+N
+DC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\ResRevBL.cs (
+%0RR_BL.IResRevBL"__id*.*,
+RR_BL.ResRevBL"
+_repoRR_BL.IResRevBL„‡
+N
+DC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\ResRevBL.cs (,
+%1RR_BL.Reviews")RR_BL.IResRevBL.AddReviews(RR_BL.Reviews)*
+
+%0RR_BL.IResRevBL*
+
+reviewsRR_BL.Reviews2AddReviews(RR_BL.Reviews)"g
+N
+DC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\ResRevBL.cs (-
+
+%1RR_BL.Reviews*∫
+1N
+DC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\ResRevBL.cs	 (	"e
+N
+DC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\ResRevBL.cs (	
+implicit return:
+reviewsRR_BL.ReviewsB
+RR_BL.ResRevBL

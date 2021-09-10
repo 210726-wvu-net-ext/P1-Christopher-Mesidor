@@ -1,0 +1,123 @@
+
+;P1_ASP_WebApp.Controllers.RestaurantController.Details(int)n
+dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs ($"2*î
+0n
+dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs! "(Gå
+â
+n
+dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs! !(*
+%0$Microsoft.Extensions.Logging.ILogger"__id*e*c0
+.P1_ASP_WebApp.Controllers.RestaurantController"/
+_logger$Microsoft.Extensions.Logging.ILogger˛
+˚
+n
+dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs! !(9
+
+%1void"xMicrosoft.Extensions.Logging.LoggerExtensions.LogCritical(Microsoft.Extensions.Logging.ILogger, string, params object[])*1"/
+-Microsoft.Extensions.Logging.LoggerExtensions*,
+*
+%0$Microsoft.Extensions.Logging.ILogger*
+Showing the restaurant*
+""€
+ÿ
+n
+dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs" "( 
+%2RR_BL.IRepo"__id*M*K0
+.P1_ASP_WebApp.Controllers.RestaurantController"
+_webrepoRR_BL.IRepo‚ﬂ
+n
+dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs" "(1(
+%3"System.Collections.Generic.List<T>"RR_BL.IRepo.GetRestaurants()*
+
+%2RR_BL.IRepo2GetRestaurants()–
+Õ
+n
+dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs" "(H
+%4RR_BL.Restaurants"rSystem.Linq.Enumerable.First<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable**
+(
+%3"System.Collections.Generic.List<T>*
+""ˇ
+¸
+n
+dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs" "(I
+
+%5void"&p1_asp_webapp/views/restaurant/details*
+
+%6*
+
+%4RR_BL.Restaurants*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobject˜
+Ù
+n
+dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs" "(I
+
+%7void"p1_asp_webapp/views/_viewstart*
+
+%8*
+
+%4RR_BL.Restaurants*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobject¸
+˘
+n
+dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs" "(I
+
+%9void""p1_asp_webapp/views/shared/_layout*
+
+%10*
+
+%4RR_BL.Restaurants*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobject"~
+n
+dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs" "(J
+
+
+%9void*˚
+1n
+dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs#	 #(	"Ö
+n
+dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs# #(	
+implicit return*ã
+2n
+dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs, (,ê
+ç
+n
+dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs ($
+%11"__entrypoint*
+""*
+0:	
+idintB20
+.P1_ASP_WebApp.Controllers.RestaurantController

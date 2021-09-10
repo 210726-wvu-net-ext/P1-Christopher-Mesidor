@@ -1,148 +1,16 @@
 
-0P1_ASP_WebApp.Controllers.HomeController.Error()h
-^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs, ,(""6*Ò
-0h
-^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs. .(IΩ∫
-h
-^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs. .(n)
-%0#P1_ASP_WebApp.Models.ErrorViewModel"#P1_ASP_WebApp.Models.ErrorViewModel‹
-Ÿ
-h
-^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs. .(*
-
-%1void"4P1_ASP_WebApp.Models.ErrorViewModel.ErrorViewModel()*+
-)
-%0#P1_ASP_WebApp.Models.ErrorViewModel⁄
-◊
-h
-^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs.9 .(I!
-%2System.Diagnostics.Activity"'System.Diagnostics.Activity.Current.get*"
-System.Diagnostics.Activity*
-1
-2*π
-2h
-^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs.J .(Mƒ
-¡
-h
-^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs.K .(M
-%3string""System.Diagnostics.Activity.Id.get*#
-!
-%2System.Diagnostics.Activity*
-1*u
-1h
-^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs/	 /(	*
-3
-4*Ö
-3h
-^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs.Q .(lÄ
-˝
-h
-^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs.Q .(\+
-%7%Microsoft.AspNetCore.Http.HttpContext"7Microsoft.AspNetCore.Mvc.ControllerBase.HttpContext.get*+)
-'Microsoft.AspNetCore.Mvc.ControllerBaseÂ
-‚
-h
-^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs.Q .(l
-%8string"9Microsoft.AspNetCore.Http.HttpContext.TraceIdentifier.get*-
-+
-%7%Microsoft.AspNetCore.Http.HttpContextë
-é
-h
-^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs.Q .(l
-%6string"__id*
+&RR_DL.Entities.Restaurant.Location.getY
+OC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\Restaurant.cs! ($"0*ı
+0Y
+OC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\Restaurant.cs% (%ß
+§
+Y
+OC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\Restaurant.cs! (%
+%0string"__id*3*1
+RR_DL.Entities.Restaurant"
+Locationstring"k
+Y
+OC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\Restaurant.cs! (%
 
-%8stringë
-é
-h
-^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs.Q .(l
-%4string"__id*
-
-%6string*
-4*Ù
-4h
-^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs. .(lÎ
-Ë
-h
-^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs.- .(l
-%9string"1P1_ASP_WebApp.Models.ErrorViewModel.RequestId.set*+
-)
-%0#P1_ASP_WebApp.Models.ErrorViewModel*
-
-%4stringá
-Ñ
-h
-^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs. .(o
-%10void" p1_asp_webapp/views/shared/error*
-
-%11*+
-)
-%0#P1_ASP_WebApp.Models.ErrorViewModel*
-
-%ViewBagDataAllobject*
-
-%ViewBagDataHtmlobject*
-
-%TempDataAllobject*
-
-%TempDataHtmlobject* 
-
-%HttpContextItemsAllobject*!
-
-%HttpContextItemsHtmlobjectÖ
-Ç
-h
-^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs. .(o
-%12void"p1_asp_webapp/views/_viewstart*
-
-%13*+
-)
-%0#P1_ASP_WebApp.Models.ErrorViewModel*
-
-%ViewBagDataAllobject*
-
-%ViewBagDataHtmlobject*
-
-%TempDataAllobject*
-
-%TempDataHtmlobject* 
-
-%HttpContextItemsAllobject*!
-
-%HttpContextItemsHtmlobjectâ
-Ü
-h
-^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs. .(o
-%14void""p1_asp_webapp/views/shared/_layout*
-
-%15*+
-)
-%0#P1_ASP_WebApp.Models.ErrorViewModel*
-
-%ViewBagDataAllobject*
-
-%ViewBagDataHtmlobject*
-
-%TempDataAllobject*
-
-%TempDataHtmlobject* 
-
-%HttpContextItemsAllobject*!
-
-%HttpContextItemsHtmlobject"y
-h
-^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs. .(p
-
-%14void*Ó
-5h
-^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs/	 /(	"
-h
-^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs/ /(	
-implicit return*ˆ
-6h
-^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs,$ ,($Å
-
-h
-^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs, ,("
-%16"__entrypoint*
-0B,*
-(P1_ASP_WebApp.Controllers.HomeController
+%0stringB
+RR_DL.Entities.Restaurant

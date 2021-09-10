@@ -1,13 +1,17 @@
-è
-RR_DL.Entities.Userobject$
-User()RR_DL.Entities.User.User()$
-Id.getRR_DL.Entities.User.Id.get$
-Id.setRR_DL.Entities.User.Id.set0
-Username.get RR_DL.Entities.User.Username.get0
-Username.set RR_DL.Entities.User.Username.set0
-Password.get RR_DL.Entities.User.Password.get0
-Password.set RR_DL.Entities.User.Password.set*
-	Admin.getRR_DL.Entities.User.Admin.get*
-	Admin.setRR_DL.Entities.User.Admin.set.
-Reviews.getRR_DL.Entities.User.Reviews.get.
-Reviews.setRR_DL.Entities.User.Reviews.set
+≠
+RR_BL.Restaurantsobject0
+Restaurants()RR_BL.Restaurants.Restaurants()<
+Restaurants(string)%RR_BL.Restaurants.Restaurants(string)t
+/Restaurants(int, string, decimal?, string, int)ARR_BL.Restaurants.Restaurants(int, string, decimal?, string, int)"
+ID.getRR_BL.Restaurants.ID.get"
+ID.setRR_BL.Restaurants.ID.set&
+Name.getRR_BL.Restaurants.Name.get&
+Name.setRR_BL.Restaurants.Name.set*
+
+Rating.getRR_BL.Restaurants.Rating.get*
+
+Rating.setRR_BL.Restaurants.Rating.set.
+Location.getRR_BL.Restaurants.Location.get.
+Location.setRR_BL.Restaurants.Location.set,
+ZipCode.getRR_BL.Restaurants.ZipCode.get,
+ZipCode.setRR_BL.Restaurants.ZipCode.set

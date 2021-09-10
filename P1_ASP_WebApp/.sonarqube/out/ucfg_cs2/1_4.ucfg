@@ -1,87 +1,47 @@
 
-RR_DL.Repo.AddUser(RR_BL.Users)G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs$ $("0*ð
-0G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs& /(²
-¯
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs& &("
-%0RR_DL.Entities.CMDBP0Context"__id*:*8
+,RR_BL.Users.Users(int, string, string, bool)K
+AC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Users.cs ("1*U
+1K
+AC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Users.cs	 (	*
+0*®
+0K
+AC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Users.csK (ž
+›
+K
+AC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Users.csK ([
 
-RR_DL.Repo"(
-_contextRR_DL.Entities.CMDBP0ContextÙÖ
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs& &(2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"&RR_DL.Entities.CMDBP0Context.Users.get*$
-"
-%0RR_DL.Entities.CMDBP0Context2	Users.get{y
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs' +(
-%2RR_DL.Entities.User"RR_DL.Entities.User‘
-Ž
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs' '(!
-
-%3void"RR_DL.Entities.User.User()*
-
-%2RR_DL.Entities.User‰
-†
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs) )(*
-%4string"RR_BL.Users.uname.get*
-
-usersRR_BL.Users©
-¦
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs) )(*
-%5string" RR_DL.Entities.User.Username.set*
-
-%2RR_DL.Entities.User*
-
-%4stringˆ
+%0void"RR_BL.Users.Users(string)*
+RR_BL.Users*
+
+usernamestringˆ
 …
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs* *()
-%6string"RR_BL.Users.pass.get*
-
-usersRR_BL.Users©
-¦
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs* *()
-%7string" RR_DL.Entities.User.Password.set*
-
-%2RR_DL.Entities.User*
-
-%6string±®
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs& ,(G
-%8AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"9Microsoft.EntityFrameworkCore.DbSet<TEntity>.Add(TEntity)*4
-2
-%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
-
-%2RR_DL.Entities.User2Add(TEntity)²
-¯
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs- -("
-%9RR_DL.Entities.CMDBP0Context"__id*:*8
+K
+AC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Users.cs (	
+%1int"RR_BL.Users.ID.set*
+RR_BL.Users*
+""›
+˜
+K
+AC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Users.cs ( 
+%2string"RR_BL.Users.pass.set*
+RR_BL.Users*
+
+passwordstringŒ
+‰
+K
+AC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Users.cs (
 
-RR_DL.Repo"(
-_contextRR_DL.Entities.CMDBP0ContextÄÁ
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs- -("
-
-%10int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*$
-"
-%9RR_DL.Entities.CMDBP0Context2SaveChanges()"a
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs/ /(
-
-usersRR_BL.Users*¬
-1G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs0	 0(	"^
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.cs0 0(	
-implicit return:
-usersRR_BL.UsersB
-
-RR_DL.Repo
+%3bool"RR_BL.Users.Admin.set*
+RR_BL.Users*
+""*
+2*´
+2K
+AC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Users.cs	 (	"b
+K
+AC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Users.cs (	
+implicit return:	
+idint:
+usernamestring:
+passwordstring:
+adminboolB
+RR_BL.Users

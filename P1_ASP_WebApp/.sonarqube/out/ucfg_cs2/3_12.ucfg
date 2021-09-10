@@ -1,62 +1,16 @@
 
-—P1_ASP_WebApp.Controllers.LoginController.LoginController(RR_BL.IRepo, Microsoft.Extensions.Logging.ILogger<P1_ASP_WebApp.Controllers.LoginController>)i
-_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs ("3*Þ
-1i
-_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs	 (	i
-g
-
-%0void"0Microsoft.AspNetCore.Mvc.Controller.Controller()*'%
-#Microsoft.AspNetCore.Mvc.Controller*
-0*å	
-0i
-_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs (8•
-’
-i
-_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs (^+
-)P1_ASP_WebApp.Controllers.LoginController"/
-_logger$Microsoft.Extensions.Logging.ILogger"__id*?
-=
-logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>Ö
-Ó
-i
-_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs (F+
-)P1_ASP_WebApp.Controllers.LoginController"
-_webrepoRR_BL.IRepo"__id*
-
-webrepoRR_BL.IRepo‚
-ÿ
-i
-_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs (*
-%1$Microsoft.Extensions.Logging.ILogger"__id*`*^+
-)P1_ASP_WebApp.Controllers.LoginController"/
-_logger$Microsoft.Extensions.Logging.ILoggerù
-ö
-i
-_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs (9
-
-%2void"xMicrosoft.Extensions.Logging.LoggerExtensions.LogCritical(Microsoft.Extensions.Logging.ILogger, string, params object[])*1"/
--Microsoft.Extensions.Logging.LoggerExtensions*,
-*
-%1$Microsoft.Extensions.Logging.ILogger*
-This is the Login page*
-""*
-2*ñ
-2i
-_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs	 (	"€
-i
-_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs (	
-implicit return*Ó
-3i
-_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.csN (NÝ
-Ú
-i
-_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\LoginController.cs (
-%3"__entrypoint*
-
-webrepoRR_BL.IRepo*?
-=
-logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*
-1:
-webrepoRR_BL.IRepo:=
-logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>B-+
-)P1_ASP_WebApp.Controllers.LoginController
+RR_DL.Entities.User.Reviews.getS
+IC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\User.cs5 (8"0*Æ
+0S
+IC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\User.cs9 (9à
+Ý
+S
+IC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\User.cs5 (9/
+%0)System.Collections.Generic.ICollection<T>"__id*O*M
+RR_DL.Entities.User"4
+Reviews)System.Collections.Generic.ICollection<T>"ˆ
+S
+IC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\User.cs5 (91
+/
+%0)System.Collections.Generic.ICollection<T>B
+RR_DL.Entities.User

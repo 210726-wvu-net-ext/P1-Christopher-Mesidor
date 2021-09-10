@@ -1,16 +1,29 @@
 
-RR_BL.Restaurants.ZipCode.getN
-DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs ( "0*¬
-0N
-DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs! (!ç
-ä
-N
-DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs (!	
-%0int"__id*'*%
-RR_BL.Restaurants"
-ZipCodeint"]
-N
-DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs (!
-	
-%0intB
-RR_BL.Restaurants
+(RR_BL.ResRevBL.AddReviews(RR_BL.Reviews)K
+AC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\ResRevBL.cs (!"0*π
+0K
+AC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\ResRevBL.cs (+ù
+ö
+K
+AC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\ResRevBL.cs (
+%0RR_BL.IResRevBL"__id*.*,
+RR_BL.ResRevBL"
+_repoRR_BL.IResRevBL‡›
+K
+AC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\ResRevBL.cs (,
+%1RR_BL.Reviews")RR_BL.IResRevBL.AddReviews(RR_BL.Reviews)*
+
+%0RR_BL.IResRevBL*
+
+reviewsRR_BL.Reviews2AddReviews(RR_BL.Reviews)"d
+K
+AC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\ResRevBL.cs (-
+
+%1RR_BL.Reviews*¥
+1K
+AC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\ResRevBL.cs	 (	"b
+K
+AC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\ResRevBL.cs (	
+implicit return:
+reviewsRR_BL.ReviewsB
+RR_BL.ResRevBL

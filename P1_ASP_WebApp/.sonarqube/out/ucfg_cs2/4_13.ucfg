@@ -1,0 +1,313 @@
+
+0RR_UI.Menu.ResMenu(RR_DL.Entities.CMDBP0Context)L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csŸ Ÿ("0*É
+0L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs€ ﬂ(%n
+l
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs€ €(
+repeatbool"__id*
+""u
+s
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs› ›(&
+adminprivligebool"__id*
+""¿
+Ω
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csﬁ ﬁ(G
+
+%0void"!System.Console.WriteLine(string?)*"
+System.Console**(
+&Welcome to C-Soned Restaurant Reviewer*
+1
+2*ë
+1L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs„ Î(.π
+∂
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs„ „(H
+
+%1void"!System.Console.WriteLine(string?)*"
+System.Console*#!
+-------------------------------∫
+∑
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs‰ ‰(I
+
+%2void"!System.Console.WriteLine(string?)*"
+System.Console*$"
+ Welcome to Resteraunt Selection!µ
+≤
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csÂ Â(D
+
+%3void"!System.Console.WriteLine(string?)*"
+System.Console*
+0) Exit Resterant Selection∏
+µ
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csÊ Ê(G
+
+%4void"!System.Console.WriteLine(string?)*"
+System.Console*" 
+1) Display List of Restaurants¥
+±
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csÁ Á(C
+
+%5void"!System.Console.WriteLine(string?)*"
+System.Console*
+2) Search for a RestaurantÆ
+´
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csË Ë(=
+
+%6void"!System.Console.WriteLine(string?)*"
+System.Console*
+3) Search for a Userπ
+∂
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csÈ È(H
+
+%7void"!System.Console.WriteLine(string?)*"
+System.Console*#!
+-------------------------------ó
+î
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csÍ Í(&
+
+%8void"System.Console.Write(string?)*"
+System.Console*
+>é
+ã
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csÎ Î(.
+%9string"System.Console.ReadLine()*"
+System.Console*
+3*Y
+3L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csÎ Î(.*
+4
+5*Ä
+4L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csÓ Ô(*∑
+¥
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csÓ Ó(M
+%10void"!System.Console.WriteLine(string?)*"
+System.Console* 
+Exiting Restaurant Selectionn
+l
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csÔ Ô(*
+repeatbool"__id*
+""*
+6*Y
+5L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csÎ Î(.*
+7
+8*´
+7L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csÚ Ú(2“
+œ
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csÚ Ú(3
+%11void"7RR_UI.Menu.ViewRestaurant(RR_DL.Entities.CMDBP0Context)*
+
+RR_UI.Menu*)
+'
+contextRR_DL.Entities.CMDBP0Context*
+6*Z
+8L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csÎ Î(.*
+9
+10*„
+9L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csı ˆ(.ç
+ä
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csı& ı(8
+%12bool"RR_UI.Menu.SearchRestaurant()*
+
+RR_UI.Menuv
+t
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csı ı(8
+successbool"__id*
+
+%12bool*
+11
+12*¶
+11L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs¯  ¯(/À
+»
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs¯  ¯(0
+%13void"0RR_UI.Menu.RevMenu(RR_DL.Entities.CMDBP0Context)*
+
+RR_UI.Menu*)
+'
+contextRR_DL.Entities.CMDBP0Context*
+12*W
+12L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csß	 ß(	*
+6*\
+10L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csÎ Î(.*
+13
+14*W
+13L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csß	 ß(	*
+6*ê
+14L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csˇ ˇ(K∂
+≥
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csˇ ˇ(L
+%14void"!System.Console.WriteLine(string?)*"
+System.Console*
+Invalid input, Try again...*
+6*Z
+6L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csÉ É(*
+1
+15*È
+2L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csâ ê(.∫
+∑
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csâ â(H
+%15void"!System.Console.WriteLine(string?)*"
+System.Console*#!
+-------------------------------ª
+∏
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csä ä(I
+%16void"!System.Console.WriteLine(string?)*"
+System.Console*$"
+ Welcome to Resteraunt Selection!∂
+≥
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csã ã(D
+%17void"!System.Console.WriteLine(string?)*"
+System.Console*
+0) Exit Resterant Selectionπ
+∂
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cså å(G
+%18void"!System.Console.WriteLine(string?)*"
+System.Console*" 
+1) Display List of Restaurantsµ
+≤
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csç ç(C
+%19void"!System.Console.WriteLine(string?)*"
+System.Console*
+2) Search for a Restaurant∫
+∑
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csé é(H
+%20void"!System.Console.WriteLine(string?)*"
+System.Console*#!
+-------------------------------ò
+ï
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csè è(&
+%21void"System.Console.Write(string?)*"
+System.Console*
+>è
+å
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csê ê(.
+%22string"System.Console.ReadLine()*"
+System.Console*
+16*\
+16L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csê ê(.*
+17
+18*Ç
+17L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csì î(*∑
+¥
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csì ì(M
+%23void"!System.Console.WriteLine(string?)*"
+System.Console* 
+Exiting Restaurant Selectionn
+l
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csî î(*
+repeatbool"__id*
+""*
+19*\
+18L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csê ê(.*
+20
+21*≠
+20L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csó ó(2“
+œ
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csó ó(3
+%24void"7RR_UI.Menu.ViewRestaurant(RR_DL.Entities.CMDBP0Context)*
+
+RR_UI.Menu*)
+'
+contextRR_DL.Entities.CMDBP0Context*
+19*\
+21L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csê ê(.*
+22
+23*‰
+22L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csö õ(.ç
+ä
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csö& ö(8
+%25bool"RR_UI.Menu.SearchRestaurant()*
+
+RR_UI.Menuv
+t
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csö ö(8
+successbool"__id*
+
+%25bool*
+24
+25*¶
+24L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csù  ù(/À
+»
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csù  ù(0
+%26void"0RR_UI.Menu.RevMenu(RR_DL.Entities.CMDBP0Context)*
+
+RR_UI.Menu*)
+'
+contextRR_DL.Entities.CMDBP0Context*
+25*X
+25L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csß	 ß(	*
+19*ë
+23L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs° °(K∂
+≥
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs° °(L
+%27void"!System.Console.WriteLine(string?)*"
+System.Console*
+Invalid input, Try again...*
+19*[
+19L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs• •(*
+2
+15*∑
+15L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csß	 ß(	"c
+L
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csß ß(	
+implicit return:'
+contextRR_DL.Entities.CMDBP0ContextB
+
+RR_UI.Menu

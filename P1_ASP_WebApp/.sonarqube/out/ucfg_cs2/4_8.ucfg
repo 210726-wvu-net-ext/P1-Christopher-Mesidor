@@ -1,0 +1,198 @@
+
+2RR_UI.Menu.AddReview(RR_DL.Entities.CMDBP0Context)J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csI I("0*∫
+0J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csK P(!ÉÄ
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csK K((
+%0RR_DL.Entities.Review"RR_DL.Entities.Reviewö
+ó
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csK  K(&
+
+%1void"RR_DL.Entities.Review.Review()*
+
+%0RR_DL.Entities.Reviewï
+í
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csK K((
+rinputRR_DL.Entities.Review"__id*
+
+%0RR_DL.Entities.Reviewl
+j
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csL L(
+validrbool"__id*
+""∞
+≠
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csM M(9
+
+%2void"System.Console.Write(string?)*"
+System.Console* 
+Enter Your rating out of 5: å
+â
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csN& N(8
+%3string"System.Console.ReadLine()*"
+System.ConsoleÜ
+É
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csN N(9	
+%4int"int.Parse(string)*"
+int*
+
+%3stringª
+∏
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csN N(9
+%5System.Nullable<T>" RR_DL.Entities.Review.Rating.set*!
+
+rinputRR_DL.Entities.Review*
+	
+%4intÆ
+´
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csP P(
+%6System.Nullable<T>" RR_DL.Entities.Review.Rating.get*!
+
+rinputRR_DL.Entities.Review*
+1
+2*à
+1J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csP% P(7Æ
+´
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csP% P(2
+%7System.Nullable<T>" RR_DL.Entities.Review.Rating.get*!
+
+rinputRR_DL.Entities.Review*
+3
+2*¬
+3J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csR R(l
+j
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csR R(
+validrbool"__id*
+""*
+4*W
+2J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csV V(&*
+5
+4* 
+5J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csX [()Ø
+¨
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csX X(@
+
+%8void"!System.Console.WriteLine(string?)*"
+System.Console*
+Invalid Input Try again±
+Æ
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csY Y(C
+
+%9void"System.Console.Write(string?)*"
+System.Console*!
+
+Enter Your rating out of 5: ç
+ä
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csZ. Z(@
+%10string"System.Console.ReadLine()*"
+System.Consoleà
+Ö
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csZ$ Z(A
+
+%11int"int.Parse(string)*"
+int*
+
+%10stringΩ
+∫
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csZ Z(A
+%12System.Nullable<T>" RR_DL.Entities.Review.Rating.set*!
+
+rinputRR_DL.Entities.Review*
+
+
+%11intØ
+¨
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs[ [(%
+%13System.Nullable<T>" RR_DL.Entities.Review.Rating.get*!
+
+rinputRR_DL.Entities.Review*
+6
+2*â
+6J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs[- [(?Ø
+¨
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs[- [(:
+%14System.Nullable<T>" RR_DL.Entities.Review.Rating.get*!
+
+rinputRR_DL.Entities.Review*
+7
+2*¬
+7J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs] ](%l
+j
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cs] ](%
+validrbool"__id*
+""*
+2*ï
+
+4J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csa e(:∞
+≠
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csa a(8
+%15void"System.Console.Write(string?)*"
+System.Console*
+Enter additional comments: ç
+ä
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csb b(0
+%16string"System.Console.ReadLine()*"
+System.Console∂
+≥
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csb b(0
+%17string""RR_DL.Entities.Review.Comments.set*!
+
+rinputRR_DL.Entities.Review*
+
+%16stringΩ∫
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csc c(H
+%18AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"=Microsoft.EntityFrameworkCore.DbContext.Add<TEntity>(TEntity)*)
+'
+contextRR_DL.Entities.CMDBP0Context*!
+
+rinputRR_DL.Entities.Review2Add<TEntity>(TEntity)Ã…
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csd d(!
+
+%19int"5Microsoft.EntityFrameworkCore.DbContext.SaveChanges()*)
+'
+contextRR_DL.Entities.CMDBP0Context2SaveChanges()≥
+∞
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.cse e(;
+%20void"!System.Console.WriteLine(string?)*"
+System.Console*
+Review Succeessfully added*
+8*≤
+8J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csf	 f(	"a
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_UI\Menu.csf f(	
+implicit return:'
+contextRR_DL.Entities.CMDBP0ContextB
+
+RR_UI.Menu

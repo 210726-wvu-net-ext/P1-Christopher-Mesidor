@@ -1,18 +1,29 @@
 
-RR_BL.Restaurants.Rating.setN
-DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs& ()"0*ç
-0N
-DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs* (*≠
-™
-N
-DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs& (*3
-RR_BL.Restaurants"
-RatingSystem.Nullable<T>"__id*
-
-valueSystem.Nullable<T>"á
-N
-DC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Restaurants.cs& (*5*3
-RR_BL.Restaurants"
-RatingSystem.Nullable<T>:
-valueSystem.Nullable<T>B
-RR_BL.Restaurants
+#RR_BL.ResRevBL.AddUser(RR_BL.Users)K
+AC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\ResRevBL.cs ("0*ß
+0K
+AC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\ResRevBL.cs (&ù
+ö
+K
+AC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\ResRevBL.cs (
+%0RR_BL.IResRevBL"__id*.*,
+RR_BL.ResRevBL"
+_repoRR_BL.IResRevBL–Õ
+K
+AC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\ResRevBL.cs ('
+%1RR_BL.Users"$RR_BL.IResRevBL.AddUser(RR_BL.Users)*
+
+%0RR_BL.IResRevBL*
+
+usersRR_BL.Users2AddUser(RR_BL.Users)"b
+K
+AC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\ResRevBL.cs ((
+
+%1RR_BL.Users*¥
+1K
+AC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\ResRevBL.cs	 (	"b
+K
+AC:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\ResRevBL.cs (	
+implicit return:
+usersRR_BL.UsersB
+RR_BL.ResRevBL
