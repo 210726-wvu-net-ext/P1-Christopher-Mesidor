@@ -1,97 +1,18 @@
 
-6P1_ASP_WebApp.Controllers.RestaurantController.Index()n
-dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs (""2*á
-0n
-dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs (1Û
-Ø
-n
-dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs ( 
-%0RR_BL.IRepo"__id*M*K0
-.P1_ASP_WebApp.Controllers.RestaurantController"
-_webrepoRR_BL.IRepoâß
-n
-dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs (1(
-%1"System.Collections.Generic.List<T>"RR_BL.IRepo.GetRestaurants()*
-
-%0RR_BL.IRepo2GetRestaurants()Ž
-‹
-n
-dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs (2
-
-%2void"$p1_asp_webapp/views/restaurant/index*
-
-%3**
-(
-%1"System.Collections.Generic.List<T>*
-
-%ViewBagDataAllobject*
-
-%ViewBagDataHtmlobject*
-
-%TempDataAllobject*
-
-%TempDataHtmlobject* 
-
-%HttpContextItemsAllobject*!
-
-%HttpContextItemsHtmlobjectˆ
-…
-n
-dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs (2
-
-%4void"p1_asp_webapp/views/_viewstart*
-
-%5**
-(
-%1"System.Collections.Generic.List<T>*
-
-%ViewBagDataAllobject*
-
-%ViewBagDataHtmlobject*
-
-%TempDataAllobject*
-
-%TempDataHtmlobject* 
-
-%HttpContextItemsAllobject*!
-
-%HttpContextItemsHtmlobjectŒ
-‰
-n
-dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs (2
-
-%6void""p1_asp_webapp/views/shared/_layout*
-
-%7**
-(
-%1"System.Collections.Generic.List<T>*
-
-%ViewBagDataAllobject*
-
-%ViewBagDataHtmlobject*
-
-%TempDataAllobject*
-
-%TempDataHtmlobject* 
-
-%HttpContextItemsAllobject*!
-
-%HttpContextItemsHtmlobject"~
-n
-dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs (3
-
-
-%6void*û
-1n
-dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs	 (	"…
-n
-dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs (	
-implicit return*‚
-2n
-dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs$ ($‡
-„
-n
-dC:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\RestaurantController.cs ("
-%8"__entrypoint*
-0B20
-.P1_ASP_WebApp.Controllers.RestaurantController
+.RR_DL.Entities.Review.RestaurantNavigation.setU
+KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\Review.cs> (A"0*Û
+0U
+KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\Review.csB (BÔ
+Ñ
+U
+KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\Review.cs> (BL
+RR_DL.Entities.Review"1
+RestaurantNavigationRR_DL.Entities.Restaurant"__id*$
+"
+valueRR_DL.Entities.Restaurant"§
+U
+KC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Entities\Review.cs> (BN*L
+RR_DL.Entities.Review"1
+RestaurantNavigationRR_DL.Entities.Restaurant:"
+valueRR_DL.Entities.RestaurantB
+RR_DL.Entities.Review

@@ -1,0 +1,43 @@
+
+RR_DL.Repo.GetReviews()J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Repo.cs9# 9(-"0*Ù	
+0J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Repo.cs; <(}µ
+²
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Repo.cs; ;("
+%0RR_DL.Entities.CMDBP0Context"__id*:*8
+
+RR_DL.Repo"(
+_contextRR_DL.Entities.CMDBP0ContextàÝ
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Repo.cs; ;(#2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"(RR_DL.Entities.CMDBP0Context.Reviews.get*$
+"
+%0RR_DL.Entities.CMDBP0Context2Reviews.getÞ
+Û
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Repo.cs; =(
+%2System.Linq.IQueryable<T>"’System.Linq.Queryable.Select<TSource, TResult>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, TResult>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""‘
+Ž
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Repo.cs; =((
+%3"System.Collections.Generic.List<T>"WSystem.Linq.Enumerable.ToList<TSource>(System.Collections.Generic.IEnumerable<TSource>)*"
+System.Linq.Enumerable*!
+
+%2System.Linq.IQueryable<T>"x
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Repo.cs; =(*
+(
+%3"System.Collections.Generic.List<T>*²
+1J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Repo.cs>	 >(	"a
+J
+@C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_DL\Repo.cs> >(	
+implicit returnB
+
+RR_DL.Repo

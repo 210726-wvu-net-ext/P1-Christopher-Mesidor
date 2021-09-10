@@ -1,171 +1,18 @@
 
-RR_UI.Menu.LoginMenu()G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csh h("0*˙
-0G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csj l(Fi
-g
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csj j(
-repeatbool"__id*
-""ª
-∏
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csl l(G
-
-%0void"!System.Console.WriteLine(string?)*"
-System.Console**(
-&Welcome to C-Soned Restaurant Reviewer*
-1*¬	
-1G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cso u(*¥
-±
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cso o(D
-
-%1void"!System.Console.WriteLine(string?)*"
-System.Console*#!
--------------------------------ú
-ô
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csp p(,
-
-%2void"!System.Console.WriteLine(string?)*"
-System.Console*	
-0) Exit†
-ù
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csq q(0
-
-%3void"!System.Console.WriteLine(string?)*"
-System.Console*
-1) New Userù
-ö
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csr r(-
-
-%4void"!System.Console.WriteLine(string?)*"
-System.Console*
-
-2) Login¥
-±
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.css s(D
-
-%5void"!System.Console.WriteLine(string?)*"
-System.Console*#!
--------------------------------í
-è
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cst t("
-
-%6void"System.Console.Write(string?)*"
-System.Console*
->â
-Ü
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csu u(*
-%7string"System.Console.ReadLine()*"
-System.Console*
-2*T
-2G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csu u(**
-3
-4*ﬂ
-3G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csx y(&†
-ù
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csx x(8
-
-%8void"!System.Console.WriteLine(string?)*"
-System.Console*
-Exiting ...i
-g
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csy y(&
-repeatbool"__id*
-""*
-5*T
-4G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csu u(**
-6
-7*…
-6G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs| |('±
-Æ
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs|  |('"
-%9RR_DL.Entities.CMDBP0Context"__id*9*7
-
-RR_UI.Menu"'
-contextRR_DL.Entities.CMDBP0Context¡
-æ
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs| |((
-%10void"0RR_UI.Menu.AddUser(RR_DL.Entities.CMDBP0Context)*
-
-RR_UI.Menu*$
-"
-%9RR_DL.Entities.CMDBP0Context*
-5*T
-7G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csu u(**
-8
-9*»
-8H
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs Ä(*|
-z
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs" ()
-%11bool"RR_UI.Menu.Login()*
-
-RR_UI.Menuq
-o
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs ()
-successbool"__id*
-
-%11bool*
-10
-11*”
-10I
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÇ Ç(+¥
-±
-I
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÇ$ Ç(+#
-%12RR_DL.Entities.CMDBP0Context"__id*9*7
-
-RR_UI.Menu"'
-contextRR_DL.Entities.CMDBP0Contextƒ
-¡
-I
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÇ Ç(,
-%13void"0RR_UI.Menu.ResMenu(RR_DL.Entities.CMDBP0Context)*
-
-RR_UI.Menu*%
-#
-%12RR_DL.Entities.CMDBP0Context*
-11*T
-11I
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csã	 ã(	*
-5*â
-9I
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÜ Ü(G≥
-∞
-I
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csÜ Ü(H
-%14void"!System.Console.WriteLine(string?)*"
-System.Console*
-Invalid input, Try again...*
-5*W
-5I
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csä ä(*
-1
-12*±
-12I
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csã	 ã(	"`
-I
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.csã ã(	
-implicit returnB
-
-RR_UI.Menu
+RR_DL.Entities.User.Id.setP
+FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs ( "0*·
+0P
+FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs! (!è
+å
+P
+FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs (!"
+RR_DL.Entities.User"	
+Idint"__id*
+
+valueint"x
+P
+FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs (!$*"
+RR_DL.Entities.User"	
+Idint:
+valueintB
+RR_DL.Entities.User

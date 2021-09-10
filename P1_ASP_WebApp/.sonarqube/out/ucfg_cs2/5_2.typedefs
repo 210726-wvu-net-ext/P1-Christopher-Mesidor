@@ -1,0 +1,14 @@
+½
+
+RR_UI.MenuobjectS
+"Menu(RR_DL.Entities.CMDBP0Context)-RR_UI.Menu.Menu(RR_DL.Entities.CMDBP0Context)
+Start()RR_UI.Menu.Start()Y
+%RevMenu(RR_DL.Entities.CMDBP0Context)0RR_UI.Menu.RevMenu(RR_DL.Entities.CMDBP0Context)_
+(ViewReview(RR_DL.Entities.CMDBP0Context)3RR_UI.Menu.ViewReview(RR_DL.Entities.CMDBP0Context)]
+'AddReview(RR_DL.Entities.CMDBP0Context)2RR_UI.Menu.AddReview(RR_DL.Entities.CMDBP0Context)%
+LoginMenu()RR_UI.Menu.LoginMenu()Y
+%AddUser(RR_DL.Entities.CMDBP0Context)0RR_UI.Menu.AddUser(RR_DL.Entities.CMDBP0Context)
+Login()RR_UI.Menu.Login()Y
+%ResMenu(RR_DL.Entities.CMDBP0Context)0RR_UI.Menu.ResMenu(RR_DL.Entities.CMDBP0Context)g
+,ViewRestaurant(RR_DL.Entities.CMDBP0Context)7RR_UI.Menu.ViewRestaurant(RR_DL.Entities.CMDBP0Context)3
+SearchRestaurant()RR_UI.Menu.SearchRestaurant()

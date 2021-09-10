@@ -1,0 +1,97 @@
+
+3P1_ASP_WebApp.Controllers.ReviewsController.Index()j
+`C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\ReviewController.cs (""2*∑
+0j
+`C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\ReviewController.cs (-‘
+—
+j
+`C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\ReviewController.cs ( 
+%0RR_BL.IRepo"__id*J*H-
++P1_ASP_WebApp.Controllers.ReviewsController"
+_webrepoRR_BL.IRepo÷”
+j
+`C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\ReviewController.cs (-(
+%1"System.Collections.Generic.List<T>"RR_BL.IRepo.GetReviews()*
+
+%0RR_BL.IRepo2GetReviews()á
+Ñ
+j
+`C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\ReviewController.cs (.
+
+%2void"!p1_asp_webapp/views/reviews/index*
+
+%3**
+(
+%1"System.Collections.Generic.List<T>*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobjectÑ
+Å
+j
+`C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\ReviewController.cs (.
+
+%4void"p1_asp_webapp/views/_viewstart*
+
+%5**
+(
+%1"System.Collections.Generic.List<T>*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobjectà
+Ö
+j
+`C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\ReviewController.cs (.
+
+%6void""p1_asp_webapp/views/shared/_layout*
+
+%7**
+(
+%1"System.Collections.Generic.List<T>*
+
+%ViewBagDataAllobject*
+
+%ViewBagDataHtmlobject*
+
+%TempDataAllobject*
+
+%TempDataHtmlobject* 
+
+%HttpContextItemsAllobject*!
+
+%HttpContextItemsHtmlobject"z
+j
+`C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\ReviewController.cs (/
+
+
+%6void*Û
+1j
+`C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\ReviewController.cs	 (	"Å
+j
+`C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\ReviewController.cs (	
+implicit return*˙
+2j
+`C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\ReviewController.cs$ ($É
+Ä
+j
+`C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\ReviewController.cs ("
+%8"__entrypoint*
+0B/-
++P1_ASP_WebApp.Controllers.ReviewsController

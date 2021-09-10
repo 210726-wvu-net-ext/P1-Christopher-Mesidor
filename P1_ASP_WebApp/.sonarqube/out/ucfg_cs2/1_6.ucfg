@@ -1,33 +1,16 @@
 
-RR_DL.Entities.User.User()P
-FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs
- 
-("1*Z
-1P
-FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs	 (	*
-0*É
-0P
-FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs (+©¦
-P
-FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs (++
-%0%System.Collections.Generic.HashSet<T>"%System.Collections.Generic.HashSet<T>Á
-¾
-P
-FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs ()
-
-%1void"/System.Collections.Generic.HashSet<T>.HashSet()*-
-+
-%0%System.Collections.Generic.HashSet<T>üù
-P
-FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs (+/
-%2)System.Collections.Generic.ICollection<T>"RR_DL.Entities.User.Reviews.set*
-RR_DL.Entities.User*-
-+
-%0%System.Collections.Generic.HashSet<T>2Reviews.set*
-2*¾
-2P
-FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs	 (	"g
-P
-FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs (	
-implicit returnB
-RR_DL.Entities.User
+RR_BL.Users.uname.getK
+AC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Users.cs (!"0*º
+0K
+AC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Users.cs" ("ˆ
+…
+K
+AC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Users.cs ("
+%0string"__id*"* 
+RR_BL.Users"
+unamestring"]
+K
+AC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Users.cs ("
+
+%0stringB
+RR_BL.Users

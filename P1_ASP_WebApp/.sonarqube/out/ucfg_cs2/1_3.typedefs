@@ -1,17 +1,13 @@
-Ã
-RR_DL.Entities.Restaurantobject6
-Restaurant()&RR_DL.Entities.Restaurant.Restaurant()*
-Id.get RR_DL.Entities.Restaurant.Id.get*
-Id.set RR_DL.Entities.Restaurant.Id.set.
-Name.get"RR_DL.Entities.Restaurant.Name.get.
-Name.set"RR_DL.Entities.Restaurant.Name.set2
-
-Rating.get$RR_DL.Entities.Restaurant.Rating.get2
-
-Rating.set$RR_DL.Entities.Restaurant.Rating.set6
-Location.get&RR_DL.Entities.Restaurant.Location.get6
-Location.set&RR_DL.Entities.Restaurant.Location.set4
-ZipCode.get%RR_DL.Entities.Restaurant.ZipCode.get4
-ZipCode.set%RR_DL.Entities.Restaurant.ZipCode.set4
-Reviews.get%RR_DL.Entities.Restaurant.Reviews.get4
-Reviews.set%RR_DL.Entities.Restaurant.Reviews.set
+Ã
+RR_BL.Usersobject
+Users()RR_BL.Users.Users()*
+Users(string)RR_BL.Users.Users(string)P
+ Users(int, string, string, bool),RR_BL.Users.Users(int, string, string, bool)
+ID.getRR_BL.Users.ID.get
+ID.setRR_BL.Users.ID.set"
+	uname.getRR_BL.Users.uname.get"
+	uname.setRR_BL.Users.uname.set 
+pass.getRR_BL.Users.pass.get 
+pass.setRR_BL.Users.pass.set"
+	Admin.getRR_BL.Users.Admin.get"
+	Admin.setRR_BL.Users.Admin.set

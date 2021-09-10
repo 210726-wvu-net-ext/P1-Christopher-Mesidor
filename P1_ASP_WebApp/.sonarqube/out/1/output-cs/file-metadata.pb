@@ -1,8 +1,9 @@
-X
-OC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\CMDBP0Context.csutf-8U
-LC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\Restaurant.csutf-8Q
-HC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\Review.csutf-8O
-FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.csutf-8F
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Repo.csutf-8€
-uC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.csutf-8g
-\C:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\obj\Debug\net5.0\RR_DL.AssemblyInfo.csutf-8
+J
+AC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\IRepo.csutf-8N
+EC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\IResRevBL.csutf-8M
+DC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\ResRevBL.csutf-8P
+GC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Restaurants.csutf-8L
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Reviews.csutf-8J
+AC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Users.csutf-8ƒ
+xC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.csutf-8j
+_C:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\obj\Debug\net5.0\RR_BL.AssemblyInfo.csutf-8

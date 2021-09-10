@@ -1,0 +1,62 @@
+
+îP1_ASP_WebApp.Controllers.HomeController.HomeController(RR_BL.IRepo, Microsoft.Extensions.Logging.ILogger<P1_ASP_WebApp.Controllers.HomeController>)h
+^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs ("3*›
+1h
+^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs	 (	i
+g
+
+%0void"0Microsoft.AspNetCore.Mvc.Controller.Controller()*'%
+#Microsoft.AspNetCore.Mvc.Controller*
+0*‹	
+0h
+^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs (7ì
+ê
+h
+^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs (]*
+(P1_ASP_WebApp.Controllers.HomeController"/
+_logger$Microsoft.Extensions.Logging.ILogger"__id*?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>‘
+—
+h
+^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs (E*
+(P1_ASP_WebApp.Controllers.HomeController"
+_webrepoRR_BL.IRepo"__id*
+
+webrepoRR_BL.IRepoÄ
+˝
+h
+^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs (*
+%1$Microsoft.Extensions.Logging.ILogger"__id*_*]*
+(P1_ASP_WebApp.Controllers.HomeController"/
+_logger$Microsoft.Extensions.Logging.ILogger˜
+Ù
+h
+^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs (8
+
+%2void"xMicrosoft.Extensions.Logging.LoggerExtensions.LogCritical(Microsoft.Extensions.Logging.ILogger, string, params object[])*1"/
+-Microsoft.Extensions.Logging.LoggerExtensions*,
+*
+%1$Microsoft.Extensions.Logging.ILogger*
+This is the Home page*
+""*
+2*Ó
+2h
+^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs	 (	"
+h
+^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs (	
+implicit return*—
+3h
+^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.csL (L‹
+Ÿ
+h
+^C:\Users\cm121\source\repos\P1-Christopher-Mesidor\P1_ASP_WebApp\Controllers\HomeController.cs (
+%3"__entrypoint*
+
+webrepoRR_BL.IRepo*?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*
+1:
+webrepoRR_BL.IRepo:=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>B,*
+(P1_ASP_WebApp.Controllers.HomeController

@@ -1,16 +1,18 @@
 
-$RR_DL.Entities.Restaurant.Rating.getV
-LC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\Restaurant.cs! ($"0*é
-0V
-LC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\Restaurant.cs% (%∫
-∑
-V
-LC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\Restaurant.cs! (%
-%0System.Nullable<T>"__id*=*;
-RR_DL.Entities.Restaurant"
-RatingSystem.Nullable<T>"t
-V
-LC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\Restaurant.cs! (%
-
-%0System.Nullable<T>B
-RR_DL.Entities.Restaurant
+RR_BL.Restaurants.ZipCode.setQ
+GC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Restaurants.cs" (%"0*Í
+0Q
+GC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Restaurants.cs& (&ì
+ê
+Q
+GC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Restaurants.cs" (&%
+RR_BL.Restaurants"
+ZipCodeint"__id*
+
+valueint"|
+Q
+GC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Restaurants.cs" (&'*%
+RR_BL.Restaurants"
+ZipCodeint:
+valueintB
+RR_BL.Restaurants

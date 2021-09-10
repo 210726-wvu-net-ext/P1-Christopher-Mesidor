@@ -1,3 +1,12 @@
-=
-RR_UI.Programobject$
-	Program()RR_UI.Program.Program()
+î
+
+RR_DL.RepoobjectS
+"Repo(RR_DL.Entities.CMDBP0Context)-RR_DL.Repo.Repo(RR_DL.Entities.CMDBP0Context)A
+AddReviews(RR_BL.Reviews)$RR_DL.Repo.AddReviews(RR_BL.Reviews)7
+AddUser(RR_BL.Users)RR_DL.Repo.AddUser(RR_BL.Users)/
+GetRestaurants()RR_DL.Repo.GetRestaurants()'
+GetReviews()RR_DL.Repo.GetReviews()#
+
+GetUsers()RR_DL.Repo.GetUsers()E
+SearchUsers(string, string)&RR_DL.Repo.SearchUsers(string, string)A
+SearchRestaurants(string)$RR_DL.Repo.SearchRestaurants(string)

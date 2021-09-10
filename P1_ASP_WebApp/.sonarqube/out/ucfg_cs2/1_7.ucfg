@@ -1,16 +1,18 @@
 
-RR_DL.Entities.User.Id.getP
-FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs ("0*Å
-0P
-FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs (Œ
-‰
-P
-FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs (	
-%0int"__id*$*"
-RR_DL.Entities.User"	
-Idint"_
-P
-FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs (
-	
-%0intB
-RR_DL.Entities.User
+RR_BL.Users.uname.setK
+AC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Users.cs# (&"0*Ñ
+0K
+AC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Users.cs' ('‹
+ˆ
+K
+AC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Users.cs# (' 
+RR_BL.Users"
+unamestring"__id*
+
+valuestring"q
+K
+AC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Users.cs# ('"* 
+RR_BL.Users"
+unamestring:
+valuestringB
+RR_BL.Users

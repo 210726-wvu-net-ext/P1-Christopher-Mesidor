@@ -1,18 +1,47 @@
 
-RR_BL.Users.uname.setH
->C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Users.cs# (&"0*È
+,RR_BL.Users.Users(int, string, string, bool)H
+>C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Users.cs ("1*R
+1H
+>C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Users.cs	 (	*
+0*Ÿ
 0H
->C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Users.cs' ('ˆ
-…
+>C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Users.csK (›
+˜
 H
->C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Users.cs# (' 
-RR_BL.Users"
-unamestring"__id*
-
-valuestring"n
+>C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Users.csK ([
+
+%0void"RR_BL.Users.Users(string)*
+RR_BL.Users*
+
+usernamestring…
+‚
 H
->C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Users.cs# ('"* 
-RR_BL.Users"
-unamestring:
-valuestringB
+>C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Users.cs (	
+%1int"RR_BL.Users.ID.set*
+RR_BL.Users*
+""˜
+•
+H
+>C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Users.cs ( 
+%2string"RR_BL.Users.pass.set*
+RR_BL.Users*
+
+passwordstring‰
+†
+H
+>C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Users.cs (
+
+%3bool"RR_BL.Users.Admin.set*
+RR_BL.Users*
+""*
+2*®
+2H
+>C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Users.cs	 (	"_
+H
+>C:\Users\cm121\source\repos\RestaurantReviewerC\RR_BL\Users.cs (	
+implicit return:	
+idint:
+usernamestring:
+passwordstring:
+adminboolB
 RR_BL.Users

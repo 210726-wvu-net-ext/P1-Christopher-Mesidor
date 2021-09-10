@@ -1,139 +1,16 @@
 
-0RR_UI.Menu.RevMenu(RR_DL.Entities.CMDBP0Context)G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs ("0*ú
-0G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs (Fi
-g
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs (
-repeatbool"__id*
-""»
-¸
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs (G
-
-%0void"!System.Console.WriteLine(string?)*"
-System.Console**(
-&Welcome to C-Soned Restaurant Reviewer*
-1*Õ	
-1G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs #(*´
-±
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs (D
-
-%1void"!System.Console.WriteLine(string?)*"
-System.Console*#!
--------------------------------¥
-¢
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs (5
-
-%2void"!System.Console.WriteLine(string?)*"
-System.Console*
-0) Exit Reviewer¤
-¡
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs (4
-
-%3void"!System.Console.WriteLine(string?)*"
-System.Console*
-1) View Reviews£
- 
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs   (3
-
-%4void"!System.Console.WriteLine(string?)*"
-System.Console*
-2) Add Reviews´
-±
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs! !(D
-
-%5void"!System.Console.WriteLine(string?)*"
-System.Console*#!
--------------------------------’
-
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs" "("
-
-%6void"System.Console.Write(string?)*"
-System.Console*
->‰
-†
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs# #(*
-%7string"System.Console.ReadLine()*"
-System.Console*
-2*T
-2G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs# #(**
-3
-4*ä
-3G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs& '(&¥
-¢
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs& &(=
-
-%8void"!System.Console.WriteLine(string?)*"
-System.Console*
-Exiting Revieweri
-g
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs' '(&
-repeatbool"__id*
-""*
-5*T
-4G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs# #(**
-6
-7*œ
-6G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs* *(*È
-Å
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs* *(+
-
-%9void"3RR_UI.Menu.ViewReview(RR_DL.Entities.CMDBP0Context)*
-
-RR_UI.Menu*)
-'
-contextRR_DL.Entities.CMDBP0Context*
-5*T
-7G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs# #(**
-8
-9*œ
-8G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs- -()È
-Å
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs- -(*
-%10void"2RR_UI.Menu.AddReview(RR_DL.Entities.CMDBP0Context)*
-
-RR_UI.Menu*)
-'
-contextRR_DL.Entities.CMDBP0Context*
-5*…
-9G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs0 0(G±
-®
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs0 0(H
-%11void"!System.Console.WriteLine(string?)*"
-System.Console*
-Invalid input, Try again...*
-5*U
-5G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs4 4(*
-1
-10*­
-10G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs5	 5(	"^
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs5 5(	
-implicit return:'
-contextRR_DL.Entities.CMDBP0ContextB
-
-RR_UI.Menu
+RR_DL.Entities.User.Id.getP
+FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs ("0*Å
+0P
+FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs (Œ
+‰
+P
+FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs (	
+%0int"__id*$*"
+RR_DL.Entities.User"	
+Idint"_
+P
+FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs (
+	
+%0intB
+RR_DL.Entities.User

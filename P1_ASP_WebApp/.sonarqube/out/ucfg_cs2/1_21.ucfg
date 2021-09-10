@@ -1,17 +1,53 @@
 
-$RR_DL.Entities.Review.Restaurant.getR
-HC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\Review.cs# (&"0*Þ
-0R
-HC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\Review.cs' ('ž
-›
-R
-HC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\Review.cs# ('
-%0string"__id*1*/
-RR_DL.Entities.Review"
+8RR_BL.Reviews.Reviews(int, string, string, int?, string)M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Reviews.cs	 	("1*W
+1M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Reviews.cs	 (	*
+0*î
+0M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Reviews.cs ("Ž
+‹
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Reviews.cs (	
+%0int"RR_BL.Reviews.ID.set*
+RR_BL.Reviews*
+""›
+˜
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Reviews.cs (
+%1string"RR_BL.Reviews.UID.set*
+RR_BL.Reviews*
 
-Restaurantstring"d
-R
-HC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\Review.cs# ('
-
-%0stringB
-RR_DL.Entities.Review
+uidstring›
+˜
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Reviews.cs (
+%2string"RR_BL.Reviews.RID.set*
+RR_BL.Reviews*
+
+ridstring¡
+ž
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Reviews.cs ( 
+%3System.Nullable<T>"RR_BL.Reviews.Rating.set*
+RR_BL.Reviews*
+""£
+ 
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Reviews.cs ("
+%4string"RR_BL.Reviews.Comment.set*
+RR_BL.Reviews*
+
+commentstring*
+2*¸
+2M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Reviews.cs	 (	"d
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Reviews.cs (	
+implicit return:	
+idint:
+uidstring:
+ridstring:
+ratingSystem.Nullable<T>:
+commentstringB
+RR_BL.Reviews

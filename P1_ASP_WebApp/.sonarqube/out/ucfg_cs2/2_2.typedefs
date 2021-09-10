@@ -1,14 +1,19 @@
-½
+Ë
+RR_DL.Entities.Reviewobject*
+Review()RR_DL.Entities.Review.Review()&
+Id.getRR_DL.Entities.Review.Id.get&
+Id.setRR_DL.Entities.Review.Id.set,
+	Users.getRR_DL.Entities.Review.Users.get,
+	Users.setRR_DL.Entities.Review.Users.set6
+Restaurant.get$RR_DL.Entities.Review.Restaurant.get6
+Restaurant.set$RR_DL.Entities.Review.Restaurant.set.
 
-RR_UI.MenuobjectS
-"Menu(RR_DL.Entities.CMDBP0Context)-RR_UI.Menu.Menu(RR_DL.Entities.CMDBP0Context)
-Start()RR_UI.Menu.Start()Y
-%RevMenu(RR_DL.Entities.CMDBP0Context)0RR_UI.Menu.RevMenu(RR_DL.Entities.CMDBP0Context)_
-(ViewReview(RR_DL.Entities.CMDBP0Context)3RR_UI.Menu.ViewReview(RR_DL.Entities.CMDBP0Context)]
-'AddReview(RR_DL.Entities.CMDBP0Context)2RR_UI.Menu.AddReview(RR_DL.Entities.CMDBP0Context)%
-LoginMenu()RR_UI.Menu.LoginMenu()Y
-%AddUser(RR_DL.Entities.CMDBP0Context)0RR_UI.Menu.AddUser(RR_DL.Entities.CMDBP0Context)
-Login()RR_UI.Menu.Login()Y
-%ResMenu(RR_DL.Entities.CMDBP0Context)0RR_UI.Menu.ResMenu(RR_DL.Entities.CMDBP0Context)g
-,ViewRestaurant(RR_DL.Entities.CMDBP0Context)7RR_UI.Menu.ViewRestaurant(RR_DL.Entities.CMDBP0Context)3
-SearchRestaurant()RR_UI.Menu.SearchRestaurant()
+Rating.get RR_DL.Entities.Review.Rating.get.
+
+Rating.set RR_DL.Entities.Review.Rating.set2
+Comments.get"RR_DL.Entities.Review.Comments.get2
+Comments.set"RR_DL.Entities.Review.Comments.setJ
+RestaurantNavigation.get.RR_DL.Entities.Review.RestaurantNavigation.getJ
+RestaurantNavigation.set.RR_DL.Entities.Review.RestaurantNavigation.set@
+UsersNavigation.get)RR_DL.Entities.Review.UsersNavigation.get@
+UsersNavigation.set)RR_DL.Entities.Review.UsersNavigation.set

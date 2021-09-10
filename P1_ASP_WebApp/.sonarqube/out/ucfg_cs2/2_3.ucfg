@@ -1,36 +1,33 @@
 
-RR_UI.Menu.Start()G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs ("0*Û
-0G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs ({y
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs (#
-%0RR_DL.Entities.User"RR_DL.Entities.Userë
-é
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs (!
+RR_DL.Entities.User.User()P
+FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs
+ 
+("1*Z
+1P
+FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs	 (	*
+0*…
+0P
+FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs (+©¶
+P
+FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs (++
+%0%System.Collections.Generic.HashSet<T>"%System.Collections.Generic.HashSet<T>¡
+æ
+P
+FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs ()
 
-%1void"RR_DL.Entities.User.User()*
-
-%0RR_DL.Entities.Userç
-ä
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs (#
-adminRR_DL.Entities.User"__id*
-
-%0RR_DL.Entities.User
-}
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs (
-
-%2void"RR_UI.Menu.LoginMenu()*
-
-RR_UI.Menu*
-1*¨
-1G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs	 (	"^
-G
-=C:\Users\cm121\source\repos\RestaurantReviewerC\RR_UI\Menu.cs (	
-implicit returnB
-
-RR_UI.Menu
+%1void"/System.Collections.Generic.HashSet<T>.HashSet()*-
++
+%0%System.Collections.Generic.HashSet<T>¸˘
+P
+FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs (+/
+%2)System.Collections.Generic.ICollection<T>"RR_DL.Entities.User.Reviews.set*
+RR_DL.Entities.User*-
++
+%0%System.Collections.Generic.HashSet<T>2Reviews.set*
+2*æ
+2P
+FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs	 (	"g
+P
+FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs (	
+implicit returnB
+RR_DL.Entities.User

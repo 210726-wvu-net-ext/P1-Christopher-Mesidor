@@ -1,18 +1,18 @@
 
-RR_DL.Entities.User.Reviews.setP
-FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs: (="0*ﬁ
-0P
-FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs> (>‡
-›
-P
-FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs: (>M
-RR_DL.Entities.User"4
-Reviews)System.Collections.Generic.ICollection<T>"__id*4
-2
-value)System.Collections.Generic.ICollection<T>"£
-P
-FC:\Users\cm121\source\repos\RestaurantReviewerC\RR_DL\Entities\User.cs: (>O*M
-RR_DL.Entities.User"4
-Reviews)System.Collections.Generic.ICollection<T>:2
-value)System.Collections.Generic.ICollection<T>B
-RR_DL.Entities.User
+RR_BL.Reviews.UID.setM
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Reviews.cs! ($"0*◊
+0M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Reviews.cs% (%ç
+ä
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Reviews.cs! (% 
+RR_BL.Reviews"
+UIDstring"__id*
+
+valuestring"s
+M
+CC:\Users\cm121\source\repos\P1-Christopher-Mesidor\RR_BL\Reviews.cs! (%"* 
+RR_BL.Reviews"
+UIDstring:
+valuestringB
+RR_BL.Reviews
